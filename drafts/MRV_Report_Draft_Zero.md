@@ -71,12 +71,12 @@ The guiding principle is simple: to provide a stable draft that can be safely ex
 ## 2.1 Background Context
 Ghana’s blue carbon work sits within a broader coastal resilience agenda that links ecosystem condition to livelihoods, climate mitigation potential, and long-term management obligations. In that context, mangrove and tidal marsh systems are treated as both ecological infrastructure and socio-economic support systems, with clear implications for restoration, protection, and governance.
 
-The baseline effort documented in the source evidence emphasizes that ecosystem risk and community vulnerability are co-located in several coastal landscapes. This provides the rationale for integrating geospatial, social, governance, and monitoring workstreams rather than treating them as isolated technical outputs (see `evidence/socio_economic.md` and `evidence/ecosystem_health.md`).
+The baseline effort documented in the source evidence emphasizes that ecosystem risk and community vulnerability are co-located in several coastal landscapes. This provides the rationale for integrating geospatial, social, governance, and monitoring workstreams rather than treating them as isolated technical outputs.
 
 ## 2.2 Why an Integrated Baseline Is Needed
 A purely ecological baseline is insufficient for practical implementation. The evidence base consistently indicates that livelihood pressure, governance arrangements, and monitoring readiness shape what can be protected, restored, and sustained over time.
 
-An integrated baseline is required; in this draft wave, several components are complete while others remain pending for full integration. It is therefore used to:
+An integrated baseline is therefore needed to:
 1. establish where blue carbon assets and pressures are concentrated;
 2. connect ecological priorities to community realities and institutional capacity;
 3. support a monitoring architecture that can transition from assessment to repeated observation;
@@ -107,7 +107,7 @@ The governing scope is established by the original assignment mandate and associ
 In this report, scope authority is treated as contractual and governance context. It is not replaced by later technical documents.
 
 ## 3.2 Adaptive Refinement Through Evidence
-Available scope evidence indicates that implementation focus was refined through literature and inception-stage processes, followed by baseline findings that varied by landscape and workstream (see `qa/scope_logic_note.md` and `qa/chapter_traceability_map.md`).
+Available scope evidence indicates that implementation focus was refined through literature and inception-stage processes, followed by baseline findings that varied by landscape and workstream.
 
 This refinement is presented as adaptive implementation management rather than scope reduction. In practice, it means:
 - national baseline obligations remain in place;
@@ -268,9 +268,6 @@ Detailed recommendations are intentionally deferred to later drafting waves.
 **Primary evidence files used:** `evidence/ecosystem_health.md`; `annex/figure_register.csv`; `annex/table_register.csv`; `qa/chapter_traceability_map.md`  
 **Major known gaps:** Dedicated ecosystem-health PDF extraction is pending; quantitative indicator tables and figure-level evidence are incomplete in this draft wave.
 
-## 7.0 Evidence Boundary
-This chapter is constrained to currently extracted ecosystem-health evidence classes and does not substitute pending indicator-level extraction from the dedicated ecosystem report.
-
 ## 7.1 Baseline Position
 Current ecosystem-health evidence indicates sustained pressure across assessed coastal systems, with site-specific combinations of extraction, pollution, hydrological change, and climate-exposed stress.
 
@@ -314,19 +311,16 @@ Until the pending extraction is completed, this chapter should avoid:
 **Primary evidence files used:** `evidence/drone_monitoring.md`; `annex/figure_register.csv`; `annex/missing_visuals.md`; `qa/chapter_traceability_map.md`  
 **Major known gaps:** Drone orthomosaics, mission logs, and finalized survey visuals are not yet packaged as report-ready assets.
 
-## 8.0 Evidence Boundary
-Current evidence in this chapter supports spatial scaffolding and monitoring design intent; complete drone-output evidence (orthomosaics and mission metadata) remains pending.
-
 ## 8.1 Chapter Purpose
 This chapter explains how available drone-linked spatial assets and monitoring design elements support transition from one-time baseline production to repeatable observation workflows.
 
 ## 8.2 Current Evidence on Drone-Linked Spatial Assets
-Current evidence supports the existence of dated boundary layers for restoration, protection, and sample-plot areas associated with pilot monitoring contexts. These layers provide a usable spatial scaffold for chapter maps, with the strongest currently documented detailed artifacts concentrated in the Keta Lagoon Complex pilot-linked context and adjacent monitored zones.
+Current evidence supports the existence of dated boundary layers for restoration, protection, and sample-plot areas associated with pilot monitoring contexts. These layers provide a usable spatial scaffold for chapter maps.
 
 However, boundary assets are not equivalent to full drone deliverable packages. In particular, current files do not yet provide complete orthomosaic outputs, metadata-rich mission documentation, or full before/after visual panels.
 
 ## 8.3 Continuous Monitoring Design Signals
-The monitoring-plan evidence indicates map-anchored sampling design and periodic monitoring intent. This supports a defensible statement that continuous monitoring architecture is defined at planning and baseline-layer level for key sites.
+The monitoring-plan evidence indicates map-anchored sampling design and periodic monitoring intent. This supports a defensible statement that continuous monitoring architecture has been defined at the planning level for key sites.
 
 At this stage, the chapter should distinguish between:
 - **defined monitoring structure** (supported), and
@@ -361,7 +355,7 @@ Available evidence supports a national MRV framework design structured around mu
 The evidence also supports indicator-based monitoring logic and recurring cycle concepts, with explicit attention to safeguards and transparency elements.
 
 ## 9.2 Operational Status: Cautious Reading
-Evidence from repository-focused packs supports the presence of core architecture components, schema structures, and processing modules. At the same time, available review materials indicate that some elements remain at prototype or hardening stage (see `evidence/mrv_repo_architecture.md` and `evidence/mrv_repo_dataflows.md`).
+Evidence from repository-focused packs supports the presence of core architecture components, schema structures, and processing modules. At the same time, available review materials indicate that some elements remain at prototype or hardening stage.
 
 Accordingly, this chapter uses a two-level phrasing approach:
 - **implemented or demonstrable components** where evidence is direct;
@@ -375,8 +369,8 @@ This pilot treatment is presented as implementation sequencing and learning-by-d
 ## 9.4 How Pilot and National Layers Fit Together
 The chapter applies the following logic:
 1. national MRV architecture provides standards, governance structure, and system design;
-2. pilot implementation is treated as an early operational test context where data depth and operational readiness are relatively advanced;
-3. lessons from pilot implementation are expected to inform wider roll-out, subject to completion of pending automation and export evidence, as additional baselines mature.
+2. pilot implementation provides an early operational test bed where data depth and operational readiness are relatively advanced;
+3. lessons from pilot implementation are expected to inform wider roll-out as additional baselines mature.
 
 This framing is consistent with scope-control requirements in the QA and scope notes.
 
@@ -417,7 +411,7 @@ National mangrove extent mapping remained broad because it serves a different fu
 Without this broad layer, later site-level interpretation would lack a common national frame. The broad extent work therefore remained a core national baseline function throughout scope refinement.
 
 ## 10.4 Why Detailed Baselines Focused on Selected Sites
-Detailed socio-economic, ecosystem, governance, and monitoring baselines were concentrated in selected landscapes to match where field evidence and implementation interfaces were most developed (see `qa/scope_logic_note.md` and `qa/chapter_traceability_map.md`).
+Detailed socio-economic, ecosystem, governance, and monitoring baselines were concentrated in selected landscapes to match where field evidence and implementation interfaces were most developed.
 
 This focus allowed the program to move beyond descriptive national mapping toward actionable site-level interpretation of pressures, readiness, and monitoring pathways. It does not imply that non-selected areas are outside national relevance; it indicates that detailed depth was phased where evidence could support defensible analysis.
 
@@ -427,7 +421,7 @@ Muni-Pomadze remains part of the assignment landscape and appears in cross-cutti
 The chapter evidence supports a clear interpretation: Muni-Pomadze retains program relevance, particularly for restoration and governance considerations, while extant mangrove-focused technical depth is differentiated relative to other landscapes. This is consistent with phased, evidence-led prioritization.
 
 ## 10.6 Why Keta Became the Project-Specific Pilot for MRV, Drone, and Continuous Monitoring
-Keta is treated as the project-specific pilot because available evidence indicates stronger layered baseline assets and more clearly documented implementation pathways for pilot implementation. These include high-value mangrove baseline significance, identified monitoring units, and pilot-linked MRV onboarding traces.
+Keta is treated as the project-specific pilot because available evidence indicates stronger layered baseline assets and clearer operational pathways for pilot implementation. These include high-value mangrove baseline significance, identified monitoring units, and pilot-linked MRV onboarding traces.
 
 In this report, “pilot” therefore means implementation depth and operational sequencing, not scope exclusivity. Keta is used to demonstrate how integrated baseline layers can be hosted, monitored, and iterated in practice.
 

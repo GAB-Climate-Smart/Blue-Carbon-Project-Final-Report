@@ -10,7 +10,7 @@ Available evidence supports a national MRV framework design structured around mu
 The evidence also supports indicator-based monitoring logic and recurring cycle concepts, with explicit attention to safeguards and transparency elements.
 
 ## 9.2 Operational Status: Cautious Reading
-Evidence from repository-focused packs supports the presence of core architecture components, schema structures, and processing modules. At the same time, available review materials indicate that some elements remain at prototype or hardening stage (see `evidence/mrv_repo_architecture.md` and `evidence/mrv_repo_dataflows.md`).
+Evidence from repository-focused packs supports the presence of core architecture components, schema structures, and processing modules. At the same time, available review materials indicate that some elements remain at prototype or hardening stage.
 
 Accordingly, this chapter uses a two-level phrasing approach:
 - **implemented or demonstrable components** where evidence is direct;
@@ -24,8 +24,8 @@ This pilot treatment is presented as implementation sequencing and learning-by-d
 ## 9.4 How Pilot and National Layers Fit Together
 The chapter applies the following logic:
 1. national MRV architecture provides standards, governance structure, and system design;
-2. pilot implementation is treated as an early operational test context where data depth and operational readiness are relatively advanced;
-3. lessons from pilot implementation are expected to inform wider roll-out, subject to completion of pending automation and export evidence, as additional baselines mature.
+2. pilot implementation provides an early operational test bed where data depth and operational readiness are relatively advanced;
+3. lessons from pilot implementation are expected to inform wider roll-out as additional baselines mature.
 
 This framing is consistent with scope-control requirements in the QA and scope notes.
 

@@ -1,55 +1,60 @@
 # Evidence Pack: Background, Scope, and Scope Evolution
 
 ## Chapter Purpose (for later drafting)
-This pack defines the scope authority chain for the final report and updates scope logic with direct (though OCR-noisy) evidence now available from normalized inception and ecosystem-health PDFs.
+This pack defines the authoritative scope logic for the final report chapters, including how national baseline work relates to site-focused detailed studies.  
+It clarifies why different sites appear in different workstreams, and where Keta is treated as a pilot (MRV implementation context) versus a national asset in baseline evidence.
 
 ## Core Findings (traceable)
-- The ToR remains the scope authority baseline: national coastal mandate for blue carbon ecosystems (mangrove + tidal salt marsh), with phased outputs including mapping, carbon inventory, monitoring protocol, restoration strategy, and synthesis reporting. (Source: `terms_of_reference_revised_mlnr.md`).
-- The normalized inception file now provides direct confirmation that an inception submission was made to MESTI after an inception meeting involving MESTI and MLNR representatives, and that execution approach/methodology/workplan were framed to PMI standards. (Source: `normalized/inception_report.md`, opening cover-letter block).
-- The normalized inception file also confirms project identifiers and timing context (WACA ResIP II; Contract ID string GR-MESTI-441726-CS-CQS; April 2025 inception report date), strengthening chronology support for scope refinement claims. (Source: `normalized/inception_report.md`, title/cover blocks).
-- Inception table-of-contents text (OCR-noisy but interpretable) indicates planned sections covering charter, detailed scope, assumptions/constraints, methods/standards, risk management, governance, and stakeholder plans—supporting that implementation refinement was expected at inception stage rather than improvised later. (Source: `normalized/inception_report.md`, contents lines).
-- Scope evolution still indicates national baseline responsibilities with site-differentiated technical depth, including Keta pilot emphasis for project-specific MRV implementation while national MRV architecture remains broader. (Sources: `project_scope_logic.md`; `blue_carbon_mrv_report.md`).
+- The ToR sets a **national coastal mandate** (entire coastline), with assessment and prioritization of mangrove and tidal salt marsh ecosystems. (Source: `terms_of_reference_revised_mlnr.md` — “SCOPE OF THE ASSIGNMENT”; “OBJECTIVES OF THE ASSIGNMENT”).
+- The assignment is structured in 7 phases, including national mapping, carbon inventory, monitoring protocol, restoration strategy, and final consolidation/reporting. (Source: `terms_of_reference_revised_mlnr.md` — “TASKS TO BE PERFORMED BY THE CONSULTING FIRM”).
+- Scope evolution note confirms: national mangrove extent work remained national, while detailed socio-economic/ecosystem/carbon baselines focused on most relevant landscapes. (Source: `project_scope_logic.md` — “How the scope evolved”).
+- The scope logic note explicitly states that **Muni-Pomadze appeared in earlier phases but not all later technical phases** due to limited mangrove relevance in later evidence. (Source: `project_scope_logic.md` — “How the scope evolved”).
+- Keta is justified as pilot for project-specific MRV because it has the most complete layered baseline + monitoring package, while MRV framework itself is national. (Source: `project_scope_logic.md` — “How the scope evolved”).
+- Scope authority hierarchy is explicit: ToR + inception + synthesized baseline evidence define scope; MRV repo is implementation detail only. (Source: `project_scope_logic.md` — “CRITICAL DISTINCTION”).
+- The final report blueprint requires synthesis across workstreams and distinguishes chapters on baseline findings, drone outputs, continuous monitoring setup, and MRV system. (Source: `blue_carbon_final_report_blueprint.md` — “Proposed chapter structure”).
 
 ## Approved Numbers, Named Sites, Dates, Definitions
-### Dates and identifiers now better supported
-- Inception cover date appears as **4 April 2025** (from normalized extraction; verify against PDF for citation-critical use).
-- Ecosystem assessment draft title indicates **Project Phase 2** with **January 2026** document dating.
-- Ecosystem methods text indicates field collection during **December 2025**.
-(Sources: `normalized/inception_report.md`; `normalized/ecosystem_health_report_draft.md`).
+### Approved numbers and dates
+- WACA ResIP 2 approval reference date: December 2022. (Source: `terms_of_reference_revised_mlnr.md` — “PROJECT BACKGROUND”).
+- Ghana coastline reference used in sources: over 550 km. (Source: `draft_socio_economic_baseline_report_august_2025.md` — “2.1 Context”).
+- Assignment duration text in ToR: “From 1 2024 until 28 2025” [format appears incomplete/needs validation]. (Source: `terms_of_reference_revised_mlnr.md` — “DURATION OF ASSIGNMENT”).
 
-### Named sites with updated direct support
-- Inception text repeatedly frames the national Ghana assignment context under MESTI/WACA.
-- Ecosystem report title directly names **Keta** and **Songor** Ramsar sites; method text includes **Ada** as a sampling-area label.
-(Sources: `normalized/inception_report.md`; `normalized/ecosystem_health_report_draft.md`).
+### Named sites (scope-relevant)
+- Songor Ramsar Site.
+- Keta Lagoon Complex Ramsar Site.
+- Muni-Pomadze Ramsar Site.
+(Source: `draft_socio_economic_baseline_report_august_2025.md` — “1.1 Context and Purpose”).
 
 ### Definitions to carry forward exactly
-- Blue carbon framing remains sourced from ToR and should not be redefined by OCR-normalized artifacts.
-- MRV should remain used as “Monitoring, Reporting and Verification.”
-(Sources: `terms_of_reference_revised_mlnr.md`; cross-report acronym consistency).
+- Blue carbon: carbon stored in seagrasses, salt marshes, and mangrove forests. (Source: `terms_of_reference_revised_mlnr.md` — “CONTEXT OF THE ASSIGNMENT”).
+- CREMA: Community Resource Management Area. (Source: acronym lists in multiple reports, e.g., `draft_socio_economic_baseline_report_august_2025.md`).
+- MRV: Monitoring, Reporting and Verification. (Source: acronym lists in multiple reports).
 
 ## National vs Site-Specific Distinction (must preserve)
-- National scope authority: ToR + inception governance context.
-- Site-focused detailed depth: later baselines and pilot implementation layers.
-- Keta pilot framing remains implementation sequencing, not national scope replacement.
+- National scope: baseline mapping mandate and MRV framework architecture.
+- Site-focused detailed work: socio-economic, governance, ecosystem pressures/health, and pilot implementation layers.
+- Keta pilot status should be used only for project-specific MRV/hosting narrative, not to imply Keta is the only management priority nationally.
 
 ## Most Relevant Source Files Used
 - `source_reports/terms_of_reference_revised_mlnr.md`
 - `project_scope_logic.md`
-- `source_reports/blue_carbon_mrv_report.md`
-- `normalized/inception_report.md`
-- `normalized/ecosystem_health_report_draft.md`
+- `source_reports/blue_carbon_final_report_blueprint.md`
+- `source_reports/draft_socio_economic_baseline_report_august_2025.md`
+- `workflows/REPORT_EXECUTION_PACK.md`
 
 ## Figures and Tables to Use
-- Table: “Scope authority chain” (ToR -> Inception -> Baseline evidence -> QA scope logic).
-- Table: “Where normalized PDFs strengthened support” (dates, governance, methods, site labels).
-- Figure: Timeline from ToR to inception (April 2025) to ecosystem phase output (Jan 2026).
+- Table: “Scope authority and evolution chain” (ToR -> Inception -> Baselines -> Scope logic note).
+- Table: “National vs site-specific outputs by workstream”.
+- Figure: Timeline from ToR phases to final chapter logic.
+- Figure: Simple schematic showing Keta pilot within national MRV framework.
 
 ## Known Gaps / Open Questions
-- OCR quality in normalized inception/ecosystem files is uneven (spacing artifacts, duplicated blocks), so quote-level legal/contract references should still be validated against original PDFs.
-- Inception extraction improves confidence on process/governance chronology, but does not yet provide clean, citation-ready wording for all methodological decisions.
-- Need direct clean extraction for any final table/figure references or exact numeric tables.
+- Inception report PDF (`draft_inception_report_rev2.pdf`) not extracted in this pass; scope refinements cited in `project_scope_logic.md` should be cross-checked against inception text before drafting.
+- ToR assignment duration string appears partially malformed; confirm exact start/end dates from signed contract package.
+- Need explicit approved statement (if any) on whether detailed carbon fieldwork covered all three Ramsar sites equally.
 
 ## Writing Constraints (do not overclaim)
-- Use normalized PDF content to strengthen chronology/process claims, but mark OCR limitations where exact phrasing matters.
-- Do not infer scope changes beyond what is directly visible in ToR + inception + established scope logic artifacts.
-- Keep distinction explicit between “now better supported” and “fully citation-ready.”
+- Do not claim all workstreams were equally deep in all sites.
+- Do not claim Keta is the only priority site; sources support Keta primacy for mangrove extent and MRV pilot detail, not exclusivity.
+- Do not use MRV GitHub repository to redefine scope.
+- Do not infer missing inception details without direct extraction.

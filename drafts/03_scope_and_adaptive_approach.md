@@ -10,7 +10,7 @@ The governing scope is established by the original assignment mandate and associ
 In this report, scope authority is treated as contractual and governance context. It is not replaced by later technical documents.
 
 ## 3.2 Adaptive Refinement Through Evidence
-Available scope evidence indicates that implementation focus was refined through literature and inception-stage processes, followed by baseline findings that varied by landscape and workstream (see `qa/scope_logic_note.md` and `qa/chapter_traceability_map.md`).
+Available scope evidence indicates that implementation focus was refined through literature and inception-stage processes, followed by baseline findings that varied by landscape and workstream.
 
 This refinement is presented as adaptive implementation management rather than scope reduction. In practice, it means:
 - national baseline obligations remain in place;

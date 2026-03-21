@@ -20,7 +20,7 @@ National mangrove extent mapping remained broad because it serves a different fu
 Without this broad layer, later site-level interpretation would lack a common national frame. The broad extent work therefore remained a core national baseline function throughout scope refinement.
 
 ## 10.4 Why Detailed Baselines Focused on Selected Sites
-Detailed socio-economic, ecosystem, governance, and monitoring baselines were concentrated in selected landscapes to match where field evidence and implementation interfaces were most developed (see `qa/scope_logic_note.md` and `qa/chapter_traceability_map.md`).
+Detailed socio-economic, ecosystem, governance, and monitoring baselines were concentrated in selected landscapes to match where field evidence and implementation interfaces were most developed.
 
 This focus allowed the program to move beyond descriptive national mapping toward actionable site-level interpretation of pressures, readiness, and monitoring pathways. It does not imply that non-selected areas are outside national relevance; it indicates that detailed depth was phased where evidence could support defensible analysis.
 
@@ -30,7 +30,7 @@ Muni-Pomadze remains part of the assignment landscape and appears in cross-cutti
 The chapter evidence supports a clear interpretation: Muni-Pomadze retains program relevance, particularly for restoration and governance considerations, while extant mangrove-focused technical depth is differentiated relative to other landscapes. This is consistent with phased, evidence-led prioritization.
 
 ## 10.6 Why Keta Became the Project-Specific Pilot for MRV, Drone, and Continuous Monitoring
-Keta is treated as the project-specific pilot because available evidence indicates stronger layered baseline assets and more clearly documented implementation pathways for pilot implementation. These include high-value mangrove baseline significance, identified monitoring units, and pilot-linked MRV onboarding traces.
+Keta is treated as the project-specific pilot because available evidence indicates stronger layered baseline assets and clearer operational pathways for pilot implementation. These include high-value mangrove baseline significance, identified monitoring units, and pilot-linked MRV onboarding traces.
 
 In this report, “pilot” therefore means implementation depth and operational sequencing, not scope exclusivity. Keta is used to demonstrate how integrated baseline layers can be hosted, monitored, and iterated in practice.
 

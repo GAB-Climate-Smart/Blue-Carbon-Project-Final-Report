@@ -4,9 +4,6 @@
 **Primary evidence files used:** `evidence/ecosystem_health.md`; `annex/figure_register.csv`; `annex/table_register.csv`; `qa/chapter_traceability_map.md`  
 **Major known gaps:** Dedicated ecosystem-health PDF extraction is pending; quantitative indicator tables and figure-level evidence are incomplete in this draft wave.
 
-## 7.0 Evidence Boundary
-This chapter is constrained to currently extracted ecosystem-health evidence classes and does not substitute pending indicator-level extraction from the dedicated ecosystem report.
-
 ## 7.1 Baseline Position
 Current ecosystem-health evidence indicates sustained pressure across assessed coastal systems, with site-specific combinations of extraction, pollution, hydrological change, and climate-exposed stress.
 

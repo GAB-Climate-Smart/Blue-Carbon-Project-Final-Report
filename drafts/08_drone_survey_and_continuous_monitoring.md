@@ -4,19 +4,16 @@
 **Primary evidence files used:** `evidence/drone_monitoring.md`; `annex/figure_register.csv`; `annex/missing_visuals.md`; `qa/chapter_traceability_map.md`  
 **Major known gaps:** Drone orthomosaics, mission logs, and finalized survey visuals are not yet packaged as report-ready assets.
 
-## 8.0 Evidence Boundary
-Current evidence in this chapter supports spatial scaffolding and monitoring design intent; complete drone-output evidence (orthomosaics and mission metadata) remains pending.
-
 ## 8.1 Chapter Purpose
 This chapter explains how available drone-linked spatial assets and monitoring design elements support transition from one-time baseline production to repeatable observation workflows.
 
 ## 8.2 Current Evidence on Drone-Linked Spatial Assets
-Current evidence supports the existence of dated boundary layers for restoration, protection, and sample-plot areas associated with pilot monitoring contexts. These layers provide a usable spatial scaffold for chapter maps, with the strongest currently documented detailed artifacts concentrated in the Keta Lagoon Complex pilot-linked context and adjacent monitored zones.
+Current evidence supports the existence of dated boundary layers for restoration, protection, and sample-plot areas associated with pilot monitoring contexts. These layers provide a usable spatial scaffold for chapter maps.
 
 However, boundary assets are not equivalent to full drone deliverable packages. In particular, current files do not yet provide complete orthomosaic outputs, metadata-rich mission documentation, or full before/after visual panels.
 
 ## 8.3 Continuous Monitoring Design Signals
-The monitoring-plan evidence indicates map-anchored sampling design and periodic monitoring intent. This supports a defensible statement that continuous monitoring architecture is defined at planning and baseline-layer level for key sites.
+The monitoring-plan evidence indicates map-anchored sampling design and periodic monitoring intent. This supports a defensible statement that continuous monitoring architecture has been defined at the planning level for key sites.
 
 At this stage, the chapter should distinguish between:
 - **defined monitoring structure** (supported), and
