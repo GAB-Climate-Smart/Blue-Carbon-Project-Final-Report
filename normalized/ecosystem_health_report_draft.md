@@ -1,173 +1,1755 @@
-# Ecosystem Health Report Draft (Normalized from PDF)
+# Ecosystem Health Report — Keta and Songor Ramsar Sites (Normalized from PDF)
 
-_Source normalized from PDF using automated extraction. Please review flagged QA notes before citation-critical use._
+_Extracted from PDF using PyMuPDF. Pre-publication verification recommended for citation-critical values._
 
-MI NI STRY OF ENV I RON MENT, SC I EN CE TEC HN OLOGY A ND I NN OV A TION ( ME STI) WES T AF RIC A COAS T AL ARE AS PROGR AM ( WACA) WACA Re sIP II, P1 75 52 5 CONS U L TIN G SE RVIC ES FOR THE ASS ES SM ENT OF B L U E CAR B ON ECOS YSTEM POTEN TIA L S OF GH A NA ( MANGROVE AN D TIDA L SALT MA RSH) RF P No: G R - ME S TI - 4 41 72 6 CS - CQS PRO JECT PHA SE 2 Ec o system A sse ss men t of K eta a n d So n go r Ramsa r sit es Di cks on Ya w Ag y em an ( PhD) Jan ua r y 2026 MI NI STRY OF ENV I RON MENT, SC I EN CE TEC HN OLOGY A ND I NN OV A TION ( ME STI) WES T AF RIC A COAS T AL ARE AS PROGR AM ( WACA) WACA Re sIP II, P1 75 52 5 CONS U L TIN G SE RVIC ES FOR THE ASS ES SM ENT OF B L U E CAR B ON ECOS YSTEM POTEN TIA L S OF GH A NA ( MANGROVE AN D TIDA L SALT MA RSH) RF P No: G R - ME S TI - 4 41 72 6 CS - CQS PRO JECT PHA SE 2 Ec o system A sse ss men t of K eta a n d So n go r Ramsa r sit es Di cks on Ya w Ag y em an ( PhD) Jan ua r y 2026 Co ntent s............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................. Co ntent s............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................... DO D issolved Ox yg e n OR P x id at ion Red u c t io n P oten t ial N N it ra t e P Po t assiu m DO D issolved Ox yg e n OR P x id at ion Red u c t io n P oten t ial N N it ra t e P Po t assiu m Wet lan d s are amo n g t h e mo st p ro d u c t ive ecosys t ems glo b ally, p r ovid in g vit al servic es su c h t h e K et a Lag oo n C om p le x an d t h e S on go r Ramsar Sit e h old imme n se c on s e rvat io n valu e an d h ave r eceived b oth l ocal an d in t er n at io n al re c ogn it i on. H o w ever, t h es e ecosys t e ms f ace in c re asin g t h r ea t s f ro m p op u la t io n gro w t h, r eso u r c e exp loi t at io n, a n d c lim at e varia b ili t y. Th is assessmen t w as c o n d u c t e d in D ecemb er 20 2 5 t o eval u at e ecosys t em h ea lt h at t h e t w o Ramsar sit es an d t o ge n e rat e sc ien t if ic d at a t h at c an gu i d e su s t ain a b le m an agem en t an d lo n g - t er m mo n i t or i n g. Us in g s u p er vis e d GI S map p in g a n d a st r at i f ied ran d om s amp lin g ap p ro ach, 65 sam p lin g sit es w er e e st ab lish ed across d iv er se ecosys t em t ype s. In t o t al, 27 0 w a t er q u alit y an d 14 0 soil samp l es w er e c olle c t ed a t Ket a, w h il e 11 7 w a t er q u ali t y a n d 2 8 soil samp les w er e gat h er ed a t Ad a. T h e ex er c ise also b u il t local c ap acit y b y t rain i n g c om mu n it y c h an g e agents in d a t a c ol lect io n. An alys is o f p h ys ic o - c h em ic al an d soil in d ic at or s r e veale d sign if ic a n t sp a t ial variab ilit y in w a t er q u ali t y an d n u t rient l e vels. So il p a rame t er s s u c h as m oist u re, h u m u s, an d n u t rient c on c en t r at io n s varie d a c ro ss sit es, re f lect i n g e c olo gic al d if f er e n c es. N ot ab ly, a gen e ral t emperat u re in c re ase o f 
+
+
+<!-- Page 1 -->
+
+MINISTRY OF ENVIRONMENT, SCIENCE TECHNOLOGY AND
+
+INNOVATION (MESTI)
+
+WEST AFRICA COASTAL AREAS PROGRAM (WACA)
+
+WACA ResIP II, P175525
+
+CONSULTING SERVICES FOR THE ASSESSMENT OF BLUE CARBON ECOSYSTEM
+
+POTENTIALS OF GHANA (MANGROVE AND TIDAL SALT MARSH)
+
+RFP No: GR-MESTI-441726 CS-CQS
+
+PROJECT PHASE 2
+
+Ecosystem Assessment of Keta and Songor Ramsar sites
+
+Dickson Yaw Agyeman (PhD)
+
+January 2026
+
+i
+
+
+<!-- Page 2 -->
+
+ii
+
+
+<!-- Page 3 -->
+
+Contents
+
+List of Tables .................................................................................................................... iv
+
+List of Figures .................................................................................................................. iv
+
+Acronyms ......................................................................................................................... v
+
+Executive Summary ......................................................................................................... vi
+
+Introduction ..................................................................................................................... 1
+
+2.0 Materials and methods .............................................................................................. 2
+
+2.1 Study area .................................................................................................................. 2
+
+2.1.1 Keta Lagoon Complex Ramsar site ................................................................ 2 
+2.1.2 Songor Ramsar site and UNESCO Biosphere Reserve. ................................. 3
+
+2.2 Methodology ............................................................................................................. 4
+
+2.2.1 Physico-chemical parameters ....................................................................... 4 
+2.2.2 Soil samples ................................................................................................... 4 
+2.2.3 Georeferenced positions of sampling stations ............................................. 4
+
+3.0 Results and Discussion ............................................................................................... 7
+
+3.1 Physical water parameters ....................................................................................... 7
+
+3.1.1 pH: Keta ......................................................................................................... 7 
+3.1.2 pH: Songor, Ada ............................................................................................. 7
+
+3.2 Temperature .............................................................................................................. 8
+
+3.2.1 Keta ................................................................................................................ 8 
+3.2.2 Songor, Ada .................................................................................................... 8
+
+3.3 Water chemical parameters: Conductivity, salinity, total dissolved solids,
+
+Resistivity, Dissolved oxygen, and Oxidation reduction potential. ......................... 9 
+3.3.1 Keta ................................................................................................................ 9 
+3.3.2 Songor, Ada .................................................................................................. 12
+
+3.4 Soil chemical and biological soil indicators ............................................................ 15
+
+3.4.1 Keta .............................................................................................................. 15 
+3.4.2 Songor, Ada .................................................................................................. 18
+
+4.0 Conclusion ............................................................................................................... 21
+
+5.0 Recommendations ................................................................................................... 21
+
+6.0 References ............................................................................................................... 22
+
+Appendix 1: Ecosystem Assessement – Physico-chemical water parameters. ................... 23
+
+Appendix 2: Ecosystem Assessment – Soil chemical and biological indicators .................. 24
+
+iii
+
+
+<!-- Page 4 -->
+
+List of Tables
+
+Table 1: Water sampling - sampling sites and description of sites, Keta. .................................. 5 
+Table 2: Water sampling - sampling sites and water parameters, Songor, Ada. ........................ 6 
+Table 3: Soil sampling - sampling sites and description of sites, Keta. ...................................... 6 
+Table 4: Soil sampling - sampling site and soil parameters, Songor, Ada. ................................. 7
+
+List of Figures
+
+Figure 1: Temporal changes in physical and chemical water parameters at Anyanui –
+
+Dzita sampling stations. 
+9 
+Figure 2: Temporal changes in physical and chemical water parameters at Saviatula –
+
+Galotse sampling stations. 
+10 
+Figure 3: Temporal changes in physical and chemical water parameters at Aborlorvi-
+
+Norlopi sampling stations. 
+11 
+Figure 4: Temporal changes in physical and chemical water parameters at
+
+Afiadenyigba – Keta lagoon sampling stations. 
+11 
+Figure 5: Temporal changes in physical and chemical water parameters at Azizanya –
+
+Ayigbo sampling stations. 
+13 
+Figure 6: Temporal changes in physical and chemical water parameters at Patukope –
+
+Pute sampling stations. 
+13 
+Figure 7: Temporal changes in physical and chemical water parameters at Futue –
+
+Luhue creeks. 
+14 
+Figure 8: Temporal changes in physical and chemical water parameters at Wasakuse –
+
+Togbloku sampling stations. 
+14 
+Figure 9: Temporal changes in physical and chemical water parameters at Obane
+
+creek. 
+15 
+Figure 10: Chemical and biological soil parameters at Anyanui – Dzita sampling
+
+stations. 
+16 
+Figure 11: Chemical and biological soil parameters at Salo – Galotse sampling stations. 17 
+Figure 12: Chemical and biological soil parameters at Ablorlorvi sampling stations. 
+17 
+Figure 13: Chemical and biological soil parameters at Afiadenyigba sampling stations. 18 
+Figure 14: Testing water quality in the creek of Salo. 
+18 
+Figure 15: Testing water with change agents at Agblodorve 
+18 
+Figure 16: Chemical and biological soil parameters at Pute lagoon sampling stations. 19 
+Figure 17: Chemical and biological soil parameters at Wasakuse - Troku sampling
+
+station. 
+20 
+Figure 18: Chemical and biological soil parameters at Obane sampling station. 
+20 
+Figure 19: Testing soil at Patukope, Ada. 
+21 
+Figure 20: Moist mangrove habitats, Ada. 
+21
+
+iv
+
+
+<!-- Page 5 -->
+
+Acronyms
+
+DO 
+Dissolved Oxygen
+
+GIS 
+Geographical Information System
+
+K 
+Potassium
+
+KLRS 
+Keta Lagoon Complex Ramsar Site
+
+ORP 
+Oxidation Reduction Potential
+
+N 
+Nitrate
+
+P 
+Potassium
+
+TDS 
+Total Dissolved Solids
+
+UNESCO 
+United Nations Education, Scientific and Cultural Organisation
+
+WEH 
+Wetland Ecosystem Health
+
+v
+
+
+<!-- Page 6 -->
+
+Executive Summary
+
+Wetlands are among the most productive ecosystems globally, providing vital services such 
+as biodiversity support, water filtration, and carbon storage. Along Ghana’s coast, lagoons like 
+the Keta Lagoon Complex and the Songor Ramsar Site hold immense conservation value and 
+have received both local and international recognition. However, these ecosystems face 
+increasing threats from population growth, resource exploitation, and climate variability.
+
+This assessment was conducted in December 2025 to evaluate ecosystem health at the two 
+Ramsar sites and to generate scientific data that can guide sustainable management and long-
+term monitoring. Using supervised GIS mapping and a stratified random sampling approach, 
+65 sampling sites were established across diverse ecosystem types. In total, 270 water quality 
+and 140 soil samples were collected at Keta, while 117 water quality and 28 soil samples were 
+gathered at Ada. The exercise also built local capacity by training community change agents 
+in data collection.
+
+Analysis of physico-chemical and soil indicators revealed significant spatial variability in water 
+quality and nutrient levels. Soil parameters such as moisture, humus, and nutrient 
+concentrations varied across sites, reflecting ecological differences. Notably, a general 
+temperature increase of 3.2–6.1 °C was observed, with higher oxidation-reduction potential 
+(ORP) values recorded in Ada. pH levels at Keta ranged between 6.5 and 7.5, while potassium 
+concentrations were consistently elevated across sampling areas. Despite seasonal 
+fluctuations, both wetlands remain productive, though their resilience is increasingly 
+challenged by hydrological changes and habitat degradation.
+
+The findings underscore the urgent need for continued monitoring and adaptive management 
+to safeguard the ecological integrity and ecosystem services of Ghana’s coastal wetlands.
+
+vi
+
+
+<!-- Page 7 -->
+
+Introduction
+
+Assessing ecosystem health is a priority for governments, scientists and managers working in 
+the field of environmental conservation. The scientific literature is replete with discussions on 
+ecosystem health and approaches to assess it, with applications to aquatic and terrestrial 
+environments incorporating economic, environmental and social processes (Allyson et al., 
+2016). Ecosystem-scale management is increasingly being initiated around the world to cope 
+with complex problems spanning diverse environmental attributes over large areas. Assessing 
+impacts of ecosystem scale change will commonly require a broad scope in space, ecosystem 
+features of public interest and different kinds of information (Bain et al., 2008).
+
+Environmental systems are considered benefitting from wetlands through protein 
+production, water sanctification, groundwater recharge, climate purification, nutrient cycling, 
+flood mitigation and biodiversity preservation (Keddy, 2000). Wetlands are among the most 
+productive ecosystems on the planet, playing crucial roles in biodiversity, water filtration and 
+carbon sequestration. They are vital ecosystems that provide numerous ecological, 
+hydrological, and socio-economic benefits. They are characterized by the presence of water, 
+which plays a fundamental role in shaping their structure and function (Comegna, 2024). 
+Healthy wetland ecosystems are essential for a resilient society and a sustainable economic 
+life. Productive soils promote agricultural activities and income of peasant farmers. Well 
+maintained rivers and lakes supply portable water, suitable habitats for fish and wildlife and 
+provide opportunities for recreation. Besides direct economic benefits healthy wetland 
+ecosystems are essential providers of many ecosystem regulating services. Achieving lasting 
+social, environment and economic development thus requires the sustained provision of 
+these services, which are derived from functional and healthy ecosystems (Comegna, 2024).
+
+Notwithstanding their benefits, wetland ecosystems have witnessed a rapid detraction, 
+including a reduction in area, deterioration in water quality and loss of biodiversity. The 
+combined processes of wetland degradation are seen in the structural and functional disorder 
+of the wetlands. Wetland ecosystems have faced several difficulties due to intensive 
+economic development, rapid population growth, climatic variabilities, ecological 
+fragmentation, over-exploitation of already stressed natural resources, and encroachment 
+driven by poverty in most communities.
+
+Globally 64% of the wetlands have disappeared since 1970 (Venkatesan et. al 2022). With 40% 
+of the world’s species reliant in some way on wetlands, the loss of these valuable ecosystems 
+is forcing many species to the brink of extinction. Eighty three percent (83%) of freshwater 
+species are in decline worldwide whiles 80% of our global wastewater is released into 
+wetlands untreated (WWT, 1921). Pollution from factories, fertilizers, pesticides or from major 
+spills, all pose serious threats to wetlands (WWT, 1921).
+
+Assessments are the basis for evaluating problems and identifying the best-suited solutions. 
+Conducting assessments thus play several roles and functions in relation to policy, science, 
+and decision making (UNEP, 2015). To achieve wise use and for wetlands to contribute fully 
+to sustainable development, policy makers and practitioners need to recognize the important 
+functions and the multiple values of wetlands and reflect them in their decisions, policies, and 
+actions (Kumar et. al, 2017).
+
+Without wetlands, the water cycle, carbon cycle and nutrient cycle would be significantly 
+altered, mostly detrimentally. Yet, often due to a failure to recognize these multiple,
+
+1
+
+
+<!-- Page 8 -->
+
+interconnected values, policies and decisions do not sufficiently consider these 
+interconnections and interdependencies (Russi et. al, 2013). The Ramsar Convention has 
+recognized the need to integrate the important functions and multiple values of wetlands into 
+decision making and has produced policy briefs, technical reports, and wider guidance to 
+address the importance of this issue (De Groot et. al, 2006).
+
+Rapport et al. (1985), popularized the word “ecosystem health”. They characterized it as a 
+form of biological system dependability and maintainability, which has the capacity for 
+keeping up its organizational structure as well as natural regulating and recuperation capacity 
+after resilience. The Millennium Ecosystem Assessment has defined ecosystem condition as 
+the capacity of an ecosystem to deliver ecosystem services, relative to its potential capacity 
+(Millennium Ecosystem Assessment, 2005).
+
+The concept of ecosystem condition is linked to well-being through ecosystem services. 
+Ecosystems need to be in good condition to provide a set of essential services which, in turn, 
+deliver benefits and increase well-being. Drivers of change can have a positive (e.g. 
+conservation) or negative (pressures) impact on ecosystem condition.
+
+The coastline of Ghana stretches over 550 km between Togo and Cote d’Ivoire. It has 
+important features such as lagoons that provide diverse ecological values and benefits to 
+adjacent communities and these include fishing, salt extraction, water transport and reeds 
+extraction. Some of the lagoons along the Ghanaian coast have received both local and 
+international recognition due to the immense conservation values. However, it is evident that 
+the values and benefits provided by the lagoons are under increasing threat that ranges from 
+resource overexploitation and degradation due to population expansion.
+
+This report provides a description of the current ecosystem status of the Keta and Songor 
+lagoons which are internationally important wetlands and have been designated as Ramsar 
+sites. The evaluation of the wetland environment was done by using techniques that combine 
+quantitative and qualitative assessment methods.
+
+The main objective of this study was to establish the status of the wetland ecosystem health 
+(WEH) on the basis of available data, to categorize the health conditions and identify the 
+habitats where the ecosystem health condition is deteriorating or improving.
+
+2.0 Materials and methods
+
+2.1 
+Study area
+
+The two sites presented in this report are among the six designated Ramsar sites in Ghana, 
+five of which are coastal wetlands and one is inland. The five coastal wetlands cut across three 
+(3) coastal regions, namely the Volta, Greater Accra and Central Regions.
+
+2.1.1 Keta Lagoon Complex Ramsar site
+
+The Keta Lagoon Complex Ramsar Site (KLRS) is situated in the Southern part of the Volta 
+Region. The Wetland is located between latitudes 5° 45' N and 6° 05' N and Longitudes 
+0° 50’E and 1° 08’ E. It is bordered on the west by the Volta River, in the south and east 
+by the Gulf of Guinea and in the north by the Accra-Lome highway.
+
+2
+
+
+<!-- Page 9 -->
+
+The Ramsar Site comprises a large expanse of open lagoon with brackish water, flood plain, 
+marshland and extensive mangrove stands. The Keta lagoon complex, which is generally 
+close to the sea, is interconnected to the Avu lagoon located in the northern part and also 
+to the delta of the Volta River through series of inter-connecting streams. The open water 
+of Keta Lagoon is estimated to cover an area of 300 km2 which varies with the season. 
+The site covers 530 Km2 and stretches for 40 Km along the coast. It is separated from the 
+sea by a narrow coastal ridge which is only 2.5 Km at its widest point and 0.92 km at the 
+narrowest portion. The total catchment area feeding the lagoon is about 2,900 m2 and was 
+designated as a Ramsar site in 1992. The construction of the Akosombo dam has been 
+blamed for a number of ecologic changes which have occurred within the site in the 
+recent past. These include silting and blockage of the channels interconnecting the 
+lagoons which is thought to disrupt the direct and natural drainage system that used 
+to regulate the lagoon water levels. The lagoon exhibits significant spatial and 
+temporal variability in environmental conditions. Salinity is the most variable parameter 
+reflecting different river run-off and evaporation conditions at different parts of the lagoon 
+(Tuffuor, 1999).
+
+2.1.2 Songor Ramsar site and UNESCO Biosphere Reserve.
+
+Located in the Greater Accra Region, Songor Ramsar site is the second largest wetland in 
+Ghana. It lies between latitudes 06.50N and 00°30E (Wetland Management (Ramsar Sites) 
+Regulations, 1999), and covers an area of 51,133 hectares (Ofori-Danson, 1999). It supports 
+the existence of rich and diverse ecosystems such as riverine, estuarine, floodplains, 
+fringing forests, and inshore coastal waters. The wetland constitutes the western portion 
+of the Volta Estuary thus, providing good location for tourism development. The site falls 
+in a low-lying area (the highest point being less than 10m above sea level); this serves as 
+a flood plain and a storm buffer and supports the communities from getting flooded (Ofori-
+Danson, 1999). The site comprises of three main habitat types:
+
+(i) 
+a brackish water ecosystem comprising the Songor lagoon which is one of the two 
+lagoon systems associated with the Volta River Estuary (the other is Keta lagoon) and 
+its marshes and mudflats. The lagoon is closed off from the sea (Mensah, 1979) and is 
+situated to the west of the Volta Estuary. The land around the lagoon is low-lying, with 
+the highest point less than 10m above sea level. The general elevation does not exceed 
+75 m above sea level in the northern part and 15 m above sea level near the coast. The 
+open water covers an estimated area of 115 km2 and extends about 20 km2 along the 
+coast and approximately 8 km inland behind a narrow sand dune on which villages like 
+Pute and Totokpoe are situated. There are other small lagoons in the site that include 
+Kadza, Kunye and Truku.
+
+(ii) 
+a riverine ecosystem comprising the lower Volta River, interconnected creeks, flood 
+plains with degraded mangroves.
+
+(iii) 
+a marine ecosystem with a broad sandy beach in the south and coastal savannah 
+vegetation.
+
+3
+
+
+<!-- Page 10 -->
+
+2.2 
+Methodology
+
+The study involved a systematic approach to data collection to obtain a set of wetland health 
+indicators. The data captured include variable chemical and physical water quality and soil 
+characteristics of the different wetland ecosystem types. Indicators of degradation and 
+threats to the ecosystem were Identified. A supervised GIS map prepared for the study areas 
+provided the necessary classification for sampling sites for data collection.
+
+The sampling sites were determined in consultation with the community change agents, 
+taking into consideration the diverse ecosystem, notably the aquatic and the terrestrial 
+components. Sampling of each lagoon and the surrounding wetland vegetation was based on 
+selected stations in the prepared maps. Since Keta was larger, sampling included large areas 
+of the surrounding wetlands and also sections of the open water.
+
+The stations mostly corresponded to the labelled sites on the GIS map. The aquatic samples 
+were randomly collected using dugout canoes. Aquatic areas limited by vegetation were 
+waded through and samples were collected close to the terrestrial area. A set of nine (9) 
+different water quality and seven (7) soil parameters were collected in 65 sampling stations 
+within Keta and Ada sampling areas.
+
+Within the Keta Lagoon Complex site, 270 water quality and 140 soil samples were collected 
+in the different ecosystem types whiles 117 water quality and 28 soil parameters were 
+gathered in Ada. The data was collected in December 2025 using stratified random sampling 
+method. Microsoft Office (Excel spreadsheet) was used to compute and analyse physico-
+chemical parameters obtained from the field survey. The results obtained was interpreted 
+using descriptive statistics. Graphs and appropriate tables were developed using Microsoft 
+Office (Excel). Analysis of Variance (ANOVA) was used for comparison of means of multiple 
+variables.
+
+2.2.1 Physico-chemical parameters
+
+Data was gathered from a total of 387 random sampling stations, comprising 117 and 270 
+sampling stations in Ada and Keta Ramsar sites, respectively. At each sampling stations the 
+following parameters were measured: pH, conductivity, ORP (oxidation-reduction potential), 
+total dissolved solids (TDS), salinity, resistivity, dissolved oxygen in concentration and 
+percentage, temperature using Apera SX751 water testing device, which provided the result 
+of the field data in situ. The data was collected in December, which was supposed to be the 
+dry period in Ghana. However, adequate rains occurred during the sampling period and this 
+was likely to influence the result of some physico-chemical parameters.
+
+2.2.2 Soil samples
+
+Soil samples were collected from a total of 168 sampling stations. Within the terrestrial 
+sampling areas, 28 stations were designated in Ada and 140 in Keta Ramsar sites. Results of 
+field data were obtained in situ using Portable Terminal 4002-BXSZD Ver 1.0, a professional 
+handheld quick test platform.
+
+2.2.3 Georeferenced positions of sampling stations
+
+All sampling stations were georeferenced using a Garmin Inreach Explorer. The details are 
+presented in Tables 1 to 4 below:
+
+4
+
+
+<!-- Page 11 -->
+
+Table 1: Water sampling - sampling sites and description of sites, Keta.
+
+Coordinates of sampling sites 
+Sampling sites 
+Description of sites
+
+N 05⁰   47.012, E 000⁰ 43.276 
+Anyanui 
+Anyanui landing site
+
+N 05⁰   46.564, E 000⁰ 43.921 
+Fuveme 
+Fuveme creek
+
+N 05⁰   46.704, E 000⁰ 42.476 
+Agorkedzi 
+Agorkedzi creek
+
+N 05⁰   47.571, E 000⁰ 43.140 
+Tunu  
+Tunu creek
+
+N 05⁰   47.308, E 000⁰ 43.600 
+Anyanui  
+Anyanui - Tunu road
+
+N 05⁰   47.366, E 000⁰ 43.609 
+Anyanui  
+Anyanui - Tunu road
+
+N 05⁰   47.195, E 000⁰ 45.235 
+Agbledome 
+Agbledome
+
+N 05⁰   46.442, E 000⁰ 46.910 
+Dzita 
+Dzita
+
+N 05⁰   46.359, E 000⁰ 47.451 
+Akplotorkor  
+Akplotorkor sites 1
+
+N 05⁰   46.383, E 000⁰ 48.621 
+Akplotorkor 
+Akplotorkor site 2
+
+N 05⁰   46.957, E 000⁰ 49.803 
+Saviatula 
+Saviatula Bridge
+
+N 05⁰   48.761, E 000⁰ 47.953 
+Salo 
+Salo road
+
+N 05⁰   49.464, E 000⁰ 47. 405 
+Salo 
+salo mangrove market
+
+N 05⁰   51.700, E 000⁰ 45.274 
+Agortoe  
+Agortoe site 1
+
+N 05⁰   51.786, E 000⁰ 45.176 
+Agortoe  
+Agortoe site 2
+
+N 05⁰   51.977, E 000⁰ 44.884 
+Agbatsivi  
+Agbastivi site 1
+
+N 05⁰   52.124, E 000⁰ 44.733 
+Agbastivi  
+Agbastivi site 2
+
+N 05⁰   52.021, E 000⁰ 42.560 
+Galotse  
+Galoste site 1
+
+N 05⁰   52.818, E 000⁰ 41.397 
+Galotse  
+Galoste site 2
+
+N 05⁰   59.136, E 000⁰ 50.586 
+Genui 
+Gehnui Road
+
+N 06⁰   01.888, E 000⁰ 58.854 
+Afiadenyigba 
+Afiadenyigba bridge
+
+N 06⁰   01.997, E 000⁰ 59.471 
+Afiadenyigba 
+Afiadenyigba road / lagoon
+
+N 05⁰   58.118, E 000⁰ 59.796 
+Havedzi  
+Havedzi bridge
+
+N 05⁰   55.868, E 000⁰ 59.397 
+Vodza 
+Lagoon view hotel
+
+N 05⁰   50.019, E 000⁰ 57.225 
+Woe 
+Woe landing bridge
+
+N 05⁰   47.833, E 000⁰ 43.869 
+Anloga 
+Anloga main market
+
+5
+
+
+<!-- Page 12 -->
+
+Table 2: Water sampling - sampling sites and water parameters, Songor, Ada.
+
+Coordinates of sampling area  
+Sampling site 
+Description of area
+
+N 05⁰   46.259, E 000⁰ 39.185 
+Azizanya 
+Azizanya-Kewunor bridge
+
+N 05⁰   46.371, E 000⁰ 38.447 
+Ayigbo bridge
+
+N 05⁰   47.111, E 000⁰ 34.209 
+Patukope 
+Patukope creek
+
+N 05⁰   47.096, E 000⁰ 33.014 
+Pute 
+Pute walkway lagoon intake
+
+N 05⁰   47.013, E 000⁰ 32.434 
+Lagoon underground seepage
+
+N 05⁰   47.212, E 000⁰ 37.253 
+Futuenya 
+Furuenya creek, bridge
+
+N 05⁰   48.425, E 000⁰ 36.491 
+Big Ada 
+Big Ada creek, bridge
+
+N 05⁰   50.321, E 000⁰ 33.316 
+Wasakuse 
+Wasakusewayo, Restoration site
+
+N 05⁰   50.322, E 000⁰ 33.237 
+Togbloku 
+Togbloku lagoon 1
+
+N 05⁰   50.322, E 000⁰ 33.237 
+Togbloku lagoon 2
+
+N 05⁰   48.291, E 000⁰ 25.396 
+Obane 
+Obane creek 
+ 
+ 
+Table 3: Soil sampling - sampling sites and description of sites, Keta.
+
+Coordinates of sampling site 
+Sampling site  
+Description of site
+
+N 05⁰   47.308, E 000⁰ 43.600 
+Anyanui  
+Dead mangroves, Tunu road
+
+N 05⁰   47.366, E 000⁰ 43.609 
+Anyanui  
+Tunu road
+
+N 05⁰   47.174, E 000⁰ 45.226 
+Agbledorne 
+Agbledorne site 1
+
+N 05⁰   47.146, E 000⁰ 45.215 
+Agbledorne 
+Agbledorne site 2
+
+N 05⁰   47.086, E 000⁰ 45.176 
+Agbledorne 
+Agbledorne site 3
+
+N 05⁰   46. 442, E 000⁰ 46.910 
+Dzita 
+Dzita
+
+N 05⁰  47. 014, E 000⁰ 47.749 
+Saviatula 
+Saviatula bridge
+
+N 05⁰  48. 761, E 000⁰ 47.953 
+Salo 
+Salo road
+
+N 05⁰  49. 466, E 000⁰ 47.412 
+Salo 
+Salo mangrove market
+
+N 05⁰  51. 700, E 000⁰ 45.274 
+Agortoe  
+Agortoe
+
+N 05⁰  52. 636, E 000⁰ 43.788 
+Agbatsivi 
+Agbastivie
+
+N 05⁰  52. 021, E 000⁰ 42.560 
+Galotse  
+Galotse site 1
+
+N 05⁰  51. 947, E 000⁰ 42.269 
+Galotse  
+Galotse site 2
+
+N 05⁰  52. 818, E 000⁰ 41.392 
+Galotse  
+Galotse site 3
+
+N 05⁰  49. 136, E 000⁰ 50.586 
+Genui 
+Genui Road
+
+N 06⁰  01. 600, E 000⁰ 55.831 
+Aborlorvie  
+Upland fishing area
+
+N 06⁰  01. 739, E 000⁰ 55.767 
+Aborlorvie  
+further upland
+
+N 06⁰  01. 001, E 000⁰ 55.471 
+Aborlorvie  
+Proposed restoration site
+
+N 06⁰  02. 297, E 000⁰ 55.440 
+Aborlorvie  
+Proposed restoration site
+
+N 06⁰  01. 888, E 000⁰ 58.854 
+Afidenyigba 
+Afidenyigba bridge
+
+6
+
+
+<!-- Page 13 -->
+
+Table 4: Soil sampling - sampling site and soil parameters, Songor, Ada.
+
+Coordinates of sampling area  
+Sampling site 
+Description of area
+
+N 05⁰   47.082, E 000⁰ 32.585 
+Pute
+
+Pute walkway, lagoon intake, black 
+mangroves
+
+N 05⁰   47.070, E 000⁰ 33.027 
+Pute lagoon, white mangroves
+
+N 05⁰   50.338, E 000⁰ 33.322 
+Wasakuse 
+Wasakuse ngwa water near ponds
+
+N 05⁰   48.338, E 000⁰ 33.322 
+Obane  
+obane restored mangrove
+
+3.0 Results and Discussion
+
+3.1 
+Physical water parameters
+
+3.1.1 pH: Keta
+
+Acidity or alkalinity, expressed as pH, impacts an ecosystem, thus cellular respiration and 
+homeostasis depend on optimal pH ranges. Generally, the mean pH value of water sampled 
+across the sampling sites ranged between 6.8 and 7.96. However, clear variations were 
+obvious among the sampling stations. This may have been influenced by the concentration of 
+acid or base, temperature, presence of buffers and ionic strength.
+
+At the Keta Lagoon Complex Rasmar site, the pH value at Anyanui–Dzita area ranged between 
+7.1 and 7.59. However, the value at Anyanui-Tunu road was 2.7, which was an exceptional 
+occurrence that needs further studies and long-term monitoring. The condition impacted 
+negatively on flora species especially Rhizhphora. A range of 6.5 to 7.6 was recorded within 
+the sampling areas of Salo, Galosota and Genui area where there are well developed 
+Rhizophora species. At Aborlorvi–Norpoli, the value ranged between 7.2 and 7.8. The values 
+of the data sampled along the bank of the main lagoon from Afiadenyigba to Anloga was high 
+(between 7.8 and 8.2), probably due to temperature variations and other physical and 
+environmental factors.
+
+3.1.2 pH: Songor, Ada
+
+The mean pH value recorded at Songor Ramsar and Biosphere Reserve ranged between 7.3 
+and 7.76. The value recorded at Azizanya and Ayigbo close to the estuary ranged between 7.6 
+and 8.0, whiles Patukope-Pute was between 7.1 and 8.1, and in the Futue and the Luhue 
+creeks it was between 8.1 and 8.6. The values recorded at Wasakuse, Toku lagoon and Obane 
+creek varied between 7.3 and 8.1. The condition of these creeks within the site is critical for 
+the sustenance and continual development of mangroves and other aquatic life.
+
+The lack of patterns displayed in the values recorded during the period may probably be due 
+to wind-induced mixing of the water to produce a homogeneous pH system. Also, the 
+presence of some high buffers such as carbonates might have effectively resisted drastic pH 
+changes.
+
+7
+
+
+<!-- Page 14 -->
 
 3.2 
+Temperature
 
-6.1 w as ob se rved, w i t h h igh er oxi d at i on - r ed u c t i on p o t e n t ial (O RP) valu es r ecor d e d in Ad a. p H lev els a t Ket a r a n ged b etwe e n 
+3.2.1 Keta
 
-6.5 an d 
+The mean temperature values recorded in the lagoons varied between 30.24°C and 31.3°C. 
+This was probably influenced by the depth of the lagoon, the season, and the period the data 
+was gathered. The temperature value in the Keta area was between 25°C and 30.3°C between 
+dawn and just before noon. In the afternoon, a value between 31.19°C and 37.3°C was 
+recorded. There was a temperature rise of 5.3°C just before noon and 6.11°C during noon. 
+The temperature rise levels were probably influence by the sampling period.
 
-7.5, w h ile p otass iu m c on c en t r at io n s w er e c on sist e n t ly ele vat ed a c ro ss samp lin g are as. D esp i t e s ea son al f lu c t u at i on s, b o t h w e t l an d s re main p ro d u c t iv e, t h ou g h t h eir r esilie n c e is i n c re asin gly c h alle n ge d b y h ydr olo gic al c h an ges an d h ab i t at d egra d at i on. Th e f i n d i n gs u n d er sc or e t h e u rge n t n e ed f or c o n t i n u ed mo n it o rin g an d a d ap t ive ma n agem en t Wet lan d s are amo n g t h e mo st p ro d u c t ive ecosys t ems glo b ally, p r ovid in g vit al servic es su c h t h e K et a Lag oo n C om p le x an d t h e S on go r Ramsar Sit e h old imme n se c on s e rvat io n valu e an d h ave r eceived b oth l ocal an d in t er n at io n al re c ogn it i on. H o w ever, t h es e ecosys t e ms f ace in c re asin g t h r ea t s f ro m p op u la t io n gro w t h, r eso u r c e exp loi t at io n, a n d c lim at e varia b ili t y. Th is assessmen t w as c o n d u c t e d in D ecemb er 20 2 5 t o eval u at e ecosys t em h ea lt h at t h e t w o Ramsar sit es an d t o ge n e rat e sc ien t if ic d at a t h at c an gu i d e su s t ain a b le m an agem en t an d lo n g - t er m mo n i t or i n g. Us in g s u p er vis e d GI S map p in g a n d a st r at i f ied ran d om s amp lin g ap p ro ach, 65 sam p lin g sit es w er e e st ab lish ed across d iv er se ecosys t em t ype s. In t o t al, 27 0 w a t er q u alit y an d 14 0 soil samp l es w er e c olle c t ed a t Ket a, w h il e 11 7 w a t er q u ali t y a n d 2 8 soil samp les w er e gat h er ed a t Ad a. T h e ex er c ise also b u il t local c ap acit y b y t rain i n g c om mu n it y c h an g e agents in d a t a c ol lect io n. An alys is o f p h ys ic o - c h em ic al an d soil in d ic at or s r e veale d sign if ic a n t sp a t ial variab ilit y in w a t er q u ali t y an d n u t rient l e vels. So il p a rame t er s s u c h as m oist u re, h u m u s, an d n u t rient c on c en t r at io n s varie d a c ro ss sit es, re f lect i n g e c olo gic al d if f er e n c es. N ot ab ly, a gen e ral t emperat u re in c re ase o f 
+3.2.2 Songor, Ada
 
-3.2 
+The temperature values recorded for Songor, Ada, varied within the sampling sites with a 
+mean value ranging from 31.2°C to-34.6°C. The temperature rise between the sampling 
+period was gradual and lower. The value recorded in the morning was between 30.3 and 
+33.5°C, with 3.2°C temperature rise between dawn and noon. At noon, a value between 
+33.9°C and 37.2°C was recorded, with 3.3°C temperature rise during noon. Generally, the 
+water temperature values recorded were optimal, a critical factor in determining the overall 
+water quality. This significantly also influence the physical, chemical, and biological 
+characteristics of the aquatic ecosystems.
 
-6.1 w as ob se rved, w i t h h igh er oxi d at i on - r ed u c t i on p o t e n t ial (O RP) valu es r ecor d e d in Ad a. p H lev els a t Ket a r a n ged b etwe e n 
+8
 
-6.5 an d 
 
-7.5, w h ile p otass iu m c on c en t r at io n s w er e c on sist e n t ly ele vat ed a c ro ss samp lin g are as. D esp i t e s ea son al f lu c t u at i on s, b o t h w e t l an d s re main p ro d u c t iv e, t h ou g h t h eir r esilie n c e is i n c re asin gly c h alle n ge d b y h ydr olo gic al c h an ges an d h ab i t at d egra d at i on. Th e f i n d i n gs u n d er sc or e t h e u rge n t n e ed f or c o n t i n u ed mo n it o rin g an d a d ap t ive ma n agem en t Assessin g ecosys t em h ea lt h is a p r ior it y f or gover n ments, sc ien t ist s an d m an ager s w or k in g in t h e f iel d of en vir on me n t al c on servat i on. T h e sc ie n t if ic lit er a t u re is re p le t e w it h d isc u ssio n s on ecosys t em h ea l t h a n d a p p ro ac h es t o assess it, w it h a p p lic a t io n s t o aq u at ic a n d t er re s t rial en viron ments i n c or p or a t in g econ om ic, en viro n men t al an d social p ro c e sses (Ally son e t al., 20 16 ). Ecosys t em - sc ale man agem e n t is i n c re asi n gly b ei n g i n it ia t ed ar oun d t h e w or ld t o c o p e w it h c om p l ex p ro b lem s s p an n in g d iverse e n viro n men t al at t rib u t es ove r la rge are as. Assessin g imp act s of ecosys t em sc ale c h a n ge w ill c om mo n l y re q u ire a b ro ad sc op e i n sp ace, ecosys t em f ea t u re s of p u b lic i n t e re s t an d d if f er e n t k in d s of i n f or m at io n (B ain et al., 2 00 8). En viron m en t al sy st ems are c o n sid er ed b en e f it t in g f r om w e t lan d s t h ro u gh p r ot ei n p ro d u c t io n, w at e r san c t i f ic at ion, gr oundw at e r re c h arge, c lima t e p u ri f ic at io n, n u t ri en t c yc lin g, f loo d mit iga t io n an d b io d iversit y p re serva t ion (Ked d y, 2 00 0). We t lan d s a re amo n g t h e mo s t p ro d u c t ive ecosys t ems o n t h e p l an e t, p l aying c ru c ial ro les i n b io d iversi t y, w at er f ilt ra t io n an d c arb on s eq u est ra t io n. Th ey ar e vit al ecosys t ems t h at p ro vi d e n u mer ou s ecolo gic al, h ydr olo gic al, a n d socio - e c on om ic b e n ef i t s. Th ey a re c h aract er i z e d b y t h e p re sen c e o f w a t er, w h ic h p l ays a f u n d ame n t al ro l e i n sh a p in g t h ei r st r u c t u re an d f u n c t io n (C om egn a, 2 02 4). H ea lt h y w etlan d ecosys t ems are essen t ial f or a r esilie n t socie t y an d a su s t ain a b le econ om ic lif e. Pr o d u c t ive s oils p r om ot e agr ic u lt u ral act iv it ies an d in c om e of p ea san t f a rme rs. Well main t ai n e d rivers a n d la k es su p p ly p or t a b le w at e r, su it a b le h ab i t at s f or f is h an d w il d lif e an d p ro vid e oppo r t u n it i es f or re c re a t io n. B esid es d irect econ om ic b e n ef i t s h ea l t h y w et la n d ecosys t ems ar e essen t ial p ro vid er s o f ma n y ecos ys t em re g u lat i n g servic e s. Ach ievin g las t in g social, en vir on me n t a n d econ om ic d evelo p ment t h u s re q u ires t h e su st a in ed p r ovisio n o f t h ese servic es, w h ic h are d er ive d f ro m f u n c t io n al an d h ea l t h y ecosys t ems ( C om egn a, 2 02 4). et lan d ecosys t ems h ave w i t n esse d a rap id d etrac t io n, in c lu d i n g a re d u c t ion i n are a, d et e rio ra t ion i n w at er q u ali t y a n d loss of b io d iversit y. Th e c om b in e d p r ocesses of w et lan d d eg rad a t ion are s ee n in t h e st r u c t u ral an d f u n c t ion a l d isor d er of t h e w et la n d s. et la n d ecosys t ems h ave f a c ed severa l d i f f ic u lt ies d u e t o in t e n sive econ om ic d evelo p me n t, ra p id p o p u la t io n grow t h, c lima t ic varia b ilit ies, ecolo gic al f ragme n t a t ion, ove r - ex p loit at ion o f alr ea d y st r e ssed n a t u ral r eso u rces, an d e n c ro achm e n t d riven b y p ove r t y in mo s t c om m u n i t ies. Glob ally 64 % o f t h e w e t la n d s h ave d isa p p ea re d sin c e 19 70 Assessmen t s are t h e b as is f or evalu a t in g p ro b l em s an d id e n t i f yi n g t h e b est - su i t ed so lu t ion s. C on d u c t in g assessme n t s t h u s p lay s ever al r ol e s an d f u n c t io n s in re la t ion t o p olicy, sc ien c e, an d d ecisio n m ak in g ( UN EP, 2 01 5 ). To achie ve w i se u se an d f or w et la n d s t o c o n t ri b u t e f u lly t o su st ai n ab le d evel op m en t, p olicy mak er s an d p r act it io n er s n e ed t o re c og n iz e t h e im p or t an t f u n c t ion s an d t h e m u lt i p l e valu es of w e t lan d s an d re f lect t h em i n t h eir d eci sion s, p olicies, an d act ion s (K u mar e t. a l, 20 17 ). Wit h o u t w e t lan d s, t h e w at er c yc le, c arb on c yc l e an d n u t rie n t c yc le w o u ld b e sign i f ic an t ly alt er e d, m ost ly d et r ime n t ally. Y et, ofte n d u e t o a f ailu r e t o r ecogn i z e t h ese mu l t ip le, Assessin g ecosys t em h ea lt h is a p r ior it y f or gover n ments, sc ien t ist s an d m an ager s w or k in g in t h e f iel d of en vir on me n t al c on servat i on. T h e sc ie n t if ic lit er a t u re is re p le t e w it h d isc u ssio n s on ecosys t em h ea l t h a n d a p p ro ac h es t o assess it, w it h a p p lic a t io n s t o aq u at ic a n d t er re s t rial en viron ments i n c or p or a t in g econ om ic, en viro n men t al an d social p ro c e sses (Ally son e t al., 20 16 ). Ecosys t em - sc ale man agem e n t is i n c re asi n gly b ei n g i n it ia t ed ar oun d t h e w or ld t o c o p e w it h c om p l ex p ro b lem s s p an n in g d iverse e n viro n men t al at t rib u t es ove r la rge are as. Assessin g imp act s of ecosys t em sc ale c h a n ge w ill c om mo n l y re q u ire a b ro ad sc op e i n sp ace, ecosys t em f ea t u re s of p u b lic i n t e re s t an d d if f er e n t k in d s of i n f or m at io n (B ain et al., 2 00 8). En viron m en t al sy st ems are c o n sid er ed b en e f it t in g f r om w e t lan d s t h ro u gh p r ot ei n p ro d u c t io n, w at e r san c t i f ic at ion, gr oundw at e r re c h arge, c lima t e p u ri f ic at io n, n u t ri en t c yc lin g, f loo d mit iga t io n an d b io d iversit y p re serva t ion (Ked d y, 2 00 0). We t lan d s a re amo n g t h e mo s t p ro d u c t ive ecosys t ems o n t h e p l an e t, p l aying c ru c ial ro les i n b io d iversi t y, w at er f ilt ra t io n an d c arb on s eq u est ra t io n. Th ey ar e vit al ecosys t ems t h at p ro vi d e n u mer ou s ecolo gic al, h ydr olo gic al, a n d socio - e c on om ic b e n ef i t s. Th ey a re c h aract er i z e d b y t h e p re sen c e o f w a t er, w h ic h p l ays a f u n d ame n t al ro l e i n sh a p in g t h ei r st r u c t u re an d f u n c t io n (C om egn a, 2 02 4). H ea lt h y w etlan d ecosys t ems are essen t ial f or a r esilie n t socie t y an d a su s t ain a b le econ om ic lif e. Pr o d u c t ive s oils p r om ot e agr ic u lt u ral act iv it ies an d in c om e of p ea san t f a rme rs. Well main t ai n e d rivers a n d la k es su p p ly p or t a b le w at e r, su it a b le h ab i t at s f or f is h an d w il d lif e an d p ro vid e oppo r t u n it i es f or re c re a t io n. B esid es d irect econ om ic b e n ef i t s h ea l t h y w et la n d ecosys t ems ar e essen t ial p ro vid er s o f ma n y ecos ys t em re g u lat i n g servic e s. Ach ievin g las t in g social, en vir on me n t a n d econ om ic d evelo p ment t h u s re q u ires t h e su st a in ed p r ovisio n o f t h ese servic es, w h ic h are d er ive d f ro m f u n c t io n al an d h ea l t h y ecosys t ems ( C om egn a, 2 02 4). et lan d ecosys t ems h ave w i t n esse d a rap id d etrac t io n, in c lu d i n g a re d u c t ion i n are a, d et e rio ra t ion i n w at er q u ali t y a n d loss of b io d iversit y. Th e c om b in e d p r ocesses of w et lan d d eg rad a t ion are s ee n in t h e st r u c t u ral an d f u n c t ion a l d isor d er of t h e w et la n d s. et la n d ecosys t ems h ave f a c ed severa l d i f f ic u lt ies d u e t o in t e n sive econ om ic d evelo p me n t, ra p id p o p u la t io n grow t h, c lima t ic varia b ilit ies, ecolo gic al f ragme n t a t ion, ove r - ex p loit at ion o f alr ea d y st r e ssed n a t u ral r eso u rces, an d e n c ro achm e n t d riven b y p ove r t y in mo s t c om m u n i t ies. Glob ally 64 % o f t h e w e t la n d s h ave d isa p p ea re d sin c e 19 70 Assessmen t s are t h e b as is f or evalu a t in g p ro b l em s an d id e n t i f yi n g t h e b est - su i t ed so lu t ion s. C on d u c t in g assessme n t s t h u s p lay s ever al r ol e s an d f u n c t io n s in re la t ion t o p olicy, sc ien c e, an d d ecisio n m ak in g ( UN EP, 2 01 5 ). To achie ve w i se u se an d f or w et la n d s t o c o n t ri b u t e f u lly t o su st ai n ab le d evel op m en t, p olicy mak er s an d p r act it io n er s n e ed t o re c og n iz e t h e im p or t an t f u n c t ion s an d t h e m u lt i p l e valu es of w e t lan d s an d re f lect t h em i n t h eir d eci sion s, p olicies, an d act ion s (K u mar e t. a l, 20 17 ). Wit h o u t w e t lan d s, t h e w at er c yc le, c arb on c yc l e an d n u t rie n t c yc le w o u ld b e sign i f ic an t ly alt er e d, m ost ly d et r ime n t ally. Y et, ofte n d u e t o a f ailu r e t o r ecogn i z e t h ese mu l t ip le, in t er c o n n ect ed val u es, p olicies an d d ecisio n s d o n ot s u f f ic ien t l y c on sid er t h ese in t er c o n n ect ion s an d in t er d ep e n d e n c ies (R u ssi et. al, 2 01 3). T h e Rams ar C on ven t io n h as re c ogn iz ed t h e n e ed t o i n t egra t e t h e im p or t an t f u n c t ion s an d mu l t ip l e valu es of w e t lan d s in t o d ecision mak in g a n d h a s p ro d u c ed p olicy b rie f s, t ech n ic al r ep or t s, a n d w id er gu i d an c e t o ad d re ss t h e im p or t an c e of t h is iss u e (D e Gro ot e t. a l, 20 06 ). Rap p or t e t al. ( 1 98 5 ) f or m of b iolo gic al sy st e m d e p en d ab ili t y an d m ain t ai n ab ili t y, w h ic h h a s t h e c ap acit y f or k ee p in g u p i t s or gan i z a t i on al st r u c t u r e as w ell as n at u ral re gu la t in g a n d re c u p er a t ion c ap aci t y af t er r esilie n c e. The M ill en n i u m Ecosys t em Asses smen t h as d ef i n ed ecosy st em c o n d i t io n as t h e c ap aci t y o f an ecosy st em t o d eliver ecosys t e m servic es, re la t ive t o i t s p ot e n t ial c a p acit y ( M illen n iu m Ecosys t em Assessmen t, 20 05 ). evalu a t io n of t h e w e t lan d en viro n me n t w as d one b y u si n g t ech n i q u es t h at c om b i n e q u an t i t at ive an d q u ali t at ive assessmen t me t h od s. Th e main ob j ect ive of t h i s st u d y w as t o es t ab lis h t h e s t at u s o f t h e w et la n d ecosys t em h ea lt h (W EH) on t h e b asis of a vailab le d at a, t o c a t ego r iz e t h e h ea lt h c o n d i t ions an d id en t if y t h e h ab i t at s w h er e t h e ecosy st em h ea lt h c o n d i t io n is d et e rio ra t in g or im p ro v i n g. Th e two sit es p re se n t ed in t h is re p or t are a mo n g t h e six d esign a t e d Rams ar sit es i n Gh a n a, f ive of w h ic h are c oa s t al w et la n d s a n d one is i n lan d. T h e f ive c oa s t al w e t lan d s c u t across t h r e e ( 3 ) c oa st al r egi on s, n ame ly t h e V ol t a, Gr ea t e r Acc ra an d C en t ral Region s. in t er c o n n ect ed val u es, p olicies an d d ecisio n s d o n ot s u f f ic ien t l y c on sid er t h ese in t er c o n n ect ion s an d in t er d ep e n d e n c ies (R u ssi et. al, 2 01 3). T h e Rams ar C on ven t io n h as re c ogn iz ed t h e n e ed t o i n t egra t e t h e im p or t an t f u n c t ion s an d mu l t ip l e valu es of w e t lan d s in t o d ecision mak in g a n d h a s p ro d u c ed p olicy b rie f s, t ech n ic al r ep or t s, a n d w id er gu i d an c e t o ad d re ss t h e im p or t an c e of t h is iss u e (D e Gro ot e t. a l, 20 06 ). Rap p or t e t al. ( 1 98 5 ) f or m of b iolo gic al sy st e m d e p en d ab ili t y an d m ain t ai n ab ili t y, w h ic h h a s t h e c ap acit y f or k ee p in g u p i t s or gan i z a t i on al st r u c t u r e as w ell as n at u ral re gu la t in g a n d re c u p er a t ion c ap aci t y af t er r esilie n c e. The M ill en n i u m Ecosys t em Asses smen t h as d ef i n ed ecosy st em c o n d i t io n as t h e c ap aci t y o f an ecosy st em t o d eliver ecosys t e m servic es, re la t ive t o i t s p ot e n t ial c a p acit y ( M illen n iu m Ecosys t em Assessmen t, 20 05 ). evalu a t io n of t h e w e t lan d en viro n me n t w as d one b y u si n g t ech n i q u es t h at c om b i n e q u an t i t at ive an d q u ali t at ive assessmen t me t h od s. Th e main ob j ect ive of t h i s st u d y w as t o es t ab lis h t h e s t at u s o f t h e w et la n d ecosys t em h ea lt h (W EH) on t h e b asis of a vailab le d at a, t o c a t ego r iz e t h e h ea lt h c o n d i t ions an d id en t if y t h e h ab i t at s w h er e t h e ecosy st em h ea lt h c o n d i t io n is d et e rio ra t in g or im p ro v i n g. Th e two sit es p re se n t ed in t h is re p or t are a mo n g t h e six d esign a t e d Rams ar sit es i n Gh a n a, f ive of w h ic h are c oa s t al w et la n d s a n d one is i n lan d. T h e f ive c oa s t al w e t lan d s c u t across t h r e e ( 3 ) c oa st al r egi on s, n ame ly t h e V ol t a, Gr ea t e r Acc ra an d C en t ral Region s. L o c a t e d i n t h e G r e a t e r A c c r a R e g i o n, S o n g o r R a m s a r s i t e i s t h e s e c o n d l a r g e s t w e t l a n d i n G h a n a. I t l i e s b etwe en l at it u d es 06.5 0N a n d 00 30 E (W e t lan d M an agem en t (R amsar Sit es ) Regu lat io n s, 19 99 ), a n d c o v e r s a n a r e a o f 5 1, 1 3 3 h e c t a r e s (. I t s u p p o r t s t h e e x i s t e n c e o f r i c h a n d d i v e r s e e c o s y s t e m s s u c h a s r i v e r i n e, e s t u a r i n e, f l o o d p l a i n s, f r i n g i n g f o r e s t s, a n d i n s h o r e c o a s t a l w a t e r s. T h e s i t e c om p rises o f t h r ee mai n h ab i t at t ype s: (i) a b rack ish w at e r ecosys t em c om p risin g t h e So n gor lagoo n w h ic h is one of t h e t w o lagoo n sy st e ms associat ed w i t h t h e V ol t a Riv er Est u ary (t h e o t h er is Ke t a lagoo n ) a n d it s mar sh es an d m u d f lat s. Th e lag oo n is c lose d o f f f ro m t h e sea (Me n sa h, 19 7 9) an d is sit u at ed t o t h e w est o f t h e V olta Es t u a ry. T h e lan d ar ound t h e lagoo n is lo w - ly in g, w i t h t h e h igh est p oint l ess t h a n 10 m ab ove sea l evel. T h e ge n er al ele vat i on d oe s n ot exc ee d 75 m a b ove sea level in t h e n or t h e rn p ar t an d 1 5 m ab ove se a lev el n ea r t h e c oa s t. T h e op en w a t er c ove rs a n es t imat e d a re a of 11 5 k m 2 an d ext e n d s ab o u t 20 k m 2 alo n g t h e c oa st an d a p p ro x ima t ely 8 k m in la n d b e h in d a n a rro w sa n d d u n e on w h ic h villages lik e Pu t e a n d T ot okp oe are s it u a t ed. T h er e are o t h er small lago on s in t h e sit e t h a t i n c lu d e Kad z a, Ku n ye an d Tr u k u. (ii) a riverin e ecosys t e m c o mp risin g t h e lo w er V ol t a Riv er, in t er c o n n ec t ed c re eks, f loo d p lain s w it h d egra d ed ma n grove s. (iii) a mar in e ecosys t e m w i t h a b r oa d san d y b ea c h i n t h e so u t h a n d c o ast al sav an n a h veget at i on. L o c a t e d i n t h e G r e a t e r A c c r a R e g i o n, S o n g o r R a m s a r s i t e i s t h e s e c o n d l a r g e s t w e t l a n d i n G h a n a. I t l i e s b etwe en l at it u d es 06.5 0N a n d 00 30 E (W e t lan d M an agem en t (R amsar Sit es ) Regu lat io n s, 19 99 ), a n d c o v e r s a n a r e a o f 5 1, 1 3 3 h e c t a r e s (. I t s u p p o r t s t h e e x i s t e n c e o f r i c h a n d d i v e r s e e c o s y s t e m s s u c h a s r i v e r i n e, e s t u a r i n e, f l o o d p l a i n s, f r i n g i n g f o r e s t s, a n d i n s h o r e c o a s t a l w a t e r s. T h e s i t e c om p rises o f t h r ee mai n h ab i t at t ype s: (i) a b rack ish w at e r ecosys t em c om p risin g t h e So n gor lagoo n w h ic h is one of t h e t w o lagoo n sy st e ms associat ed w i t h t h e V ol t a Riv er Est u ary (t h e o t h er is Ke t a lagoo n ) a n d it s mar sh es an d m u d f lat s. Th e lag oo n is c lose d o f f f ro m t h e sea (Me n sa h, 19 7 9) an d is sit u at ed t o t h e w est o f t h e V olta Es t u a ry. T h e lan d ar ound t h e lagoo n is lo w - ly in g, w i t h t h e h igh est p oint l ess t h a n 10 m ab ove sea l evel. T h e ge n er al ele vat i on d oe s n ot exc ee d 75 m a b ove sea level in t h e n or t h e rn p ar t an d 1 5 m ab ove se a lev el n ea r t h e c oa s t. T h e op en w a t er c ove rs a n es t imat e d a re a of 11 5 k m 2 an d ext e n d s ab o u t 20 k m 2 alo n g t h e c oa st an d a p p ro x ima t ely 8 k m in la n d b e h in d a n a rro w sa n d d u n e on w h ic h villages lik e Pu t e a n d T ot okp oe are s it u a t ed. T h er e are o t h er small lago on s in t h e sit e t h a t i n c lu d e Kad z a, Ku n ye an d Tr u k u. (ii) a riverin e ecosys t e m c o mp risin g t h e lo w er V ol t a Riv er, in t er c o n n ec t ed c re eks, f loo d p lain s w it h d egra d ed ma n grove s. (iii) a mar in e ecosys t e m w i t h a b r oa d san d y b ea c h i n t h e so u t h a n d c o ast al sav an n a h veget at i on. Th e s t u d y in volve d a sy st ema t ic a p p r oa c h to d at a c olle c t ion t o o b t ai n a set of w et l an d h ea lt h in d ic at or s. Th e d a t a c ap t u re d in c l u d e vari ab le c h emical an d p h ys ic al w a t er q u ali t y an d s oil c h aract er is t ic s of t h e d i f f er en t w et la n d ecosys t em t yp es. In d ic at or s o f d egra d at io n a n d t h re a t s t o t h e ecosys t em w er e Id e n t i f ied. A su p er vis ed GI S map p re p are d f or t h e s t u d y are as p ro vid e d t h e n ecessary c lassif ic at io n f or sam p lin g s it es f or d a t a c olle c t ion. Th e samp li n g sit es w er e d et e rmin e d in c o n su lt at ion w it h t h e c om mu n it y c h a n ge age n t s, t ak in g in t o c o n sid er a t io n t h e d iv er se ecosys t e m, n o t ab ly t h e a q u a t ic an d t h e t er r est rial c om p on e n t s. Sam p li n g o f ea c h lag oo n an d t h e su r ro u n d in g w e t lan d vege t a t ion w as b ased on sele c t ed st a t io n s i n t h e p re p are d map s. Si n c e Ket a w as large r, sam p lin g in c lu d ed large ar ea s of t h e su rr ound in g w et la n d s a n d also sec t ion s of t h e o p e n w at e r. Th e s t at i on s mo st ly c or r esp onde d t o t h e lab e lled sit es on t h e GI S ma p. T h e aq u at ic sa mp les w er e ra n d om ly c olle c t e d u sin g d u gou t c an o es. Aq u at ic ar ea s li mit e d b y veget a t io n w er e w ad e d t h ro u gh an d sam p les w er e c olle c t e d c los e t o t h e t er re s t rial are a. A set of n in e (9) d if f er e n t w a t er q u alit y a n d seven ( 7 ) soil p aram e t er s w er e c olle c t ed i n 65 samp li n g s t at i on s w it h in K et a an d A d a sam p lin g a re as. Wit h i n t h e Ke t a Lag oo n C om p lex sit e, 27 0 w a t er q u ali t y an d 14 0 soil sa m p les w er e c oll ect ed in t h e d i f f er en t ecosys t em t ype s w h iles 1 17 w at er q u alit y a n d 2 8 soil p aram e t er s w e re gat h er ed i n A d a. T h e d at a w as c oll ect ed in D ece mb er 20 25 u si n g st ra t i f ie d ran d om samp li n g met h od. M ic ro so f t Of f ic e (Ex c el sp re ad s h ee t ) w as u se d t o c om p u t e a n d a n alys e p h ys ic o - c h emical p ara meters o b t ain e d f ro m t h e f i eld s u rvey. Th e r esu lt s obta in ed w as in t er p re t ed u sin g d escrip t ive s t at ist i c s. Grap h s an d ap p ro p ri at e t ab les w er e d evelo p ed u si n g M ic ro so f t Of f ic e (Ex c el). An alys is o f V aria n c e (ANOV A) w as u sed f or c om p ariso n o f mea n s o f mu l t ip le variab les. D at a w as ga t h er ed f ro m a t ot al o f 38 7 ran d om s amp lin g st a t io n s, c om p ri sin g 1 17 an d 2 70 samp lin g s t at i on s i n A d a an d Ke t a Ramsar si t es, re sp ect ively. A t e ach sa mp lin g s t at i on s t h e f ollo w in g p aram et er s w e re mea s u re d: p H, c o n d u c t ivit y, OR P (ox id a t io n - re d u c t io n p oten t ial), t ot al d issolve d solid s ( TD S), salin i t y, re sist ivi t y, d issolved oxy gen in c on c en t rat i on a n d p er c en t age, t em p er at u r e u sin g A p er a SX7 5 1 w a t er t es t in g d evice, w h ic h p ro vid e d t h e re su l t of t h e f iel d d a t a in si t u. Th e d at a w as c oll ect ed i n D ecem b er, w h ic h w as su p p ose d t o b e t h e d ry p er iod in Gh a n a. H o w ever, a d e q u a t e rain s o c c u rre d d u ri n g t h e sam p lin g p er io d a n d t h is w as lik ely t o i n f l u en c e t h e re su l t of s om e p h ys ic o - c h emical p a rame t er s. So il samp l es w er e c olle c t ed f ro m a t o t al of 16 8 samp li n g s t at i on s. Wi t h in t h e t er re st ri al samp lin g ar ea s, 28 s t at i o n s w er e d esig n at e d in A d a an d 14 0 in Ke t a Rams a r sit es. Result s of f ield d a t a w er e o b t ain e d in sit u u sin g Po rt a b le Te rmin al 40 0 2 - B XSZ D V er 
+<!-- Page 15 -->
 
-1.0, a p ro f essio n al h an d h el d q u ic k t es t p lat f or m. All samp lin g s t at i on s w e re geo re f er e n c ed u sin g a Garmin In r ea c h Exp l or er. Th e d etails are p re sen t e d i n Ta b les 1 t o 4 b el ow: Th e s t u d y in volve d a sy st ema t ic a p p r oa c h to d at a c olle c t ion t o o b t ai n a set of w et l an d h ea lt h in d ic at or s. Th e d a t a c ap t u re d in c l u d e vari ab le c h emical an d p h ys ic al w a t er q u ali t y an d s oil c h aract er is t ic s of t h e d i f f er en t w et la n d ecosys t em t yp es. In d ic at or s o f d egra d at io n a n d t h re a t s t o t h e ecosys t em w er e Id e n t i f ied. A su p er vis ed GI S map p re p are d f or t h e s t u d y are as p ro vid e d t h e n ecessary c lassif ic at io n f or sam p lin g s it es f or d a t a c olle c t ion. Th e samp li n g sit es w er e d et e rmin e d in c o n su lt at ion w it h t h e c om mu n it y c h a n ge age n t s, t ak in g in t o c o n sid er a t io n t h e d iv er se ecosys t e m, n o t ab ly t h e a q u a t ic an d t h e t er r est rial c om p on e n t s. Sam p li n g o f ea c h lag oo n an d t h e su r ro u n d in g w e t lan d vege t a t ion w as b ased on sele c t ed st a t io n s i n t h e p re p are d map s. Si n c e Ket a w as large r, sam p lin g in c lu d ed large ar ea s of t h e su rr ound in g w et la n d s a n d also sec t ion s of t h e o p e n w at e r. Th e s t at i on s mo st ly c or r esp onde d t o t h e lab e lled sit es on t h e GI S ma p. T h e aq u at ic sa mp les w er e ra n d om ly c olle c t e d u sin g d u gou t c an o es. Aq u at ic ar ea s li mit e d b y veget a t io n w er e w ad e d t h ro u gh an d sam p les w er e c olle c t e d c los e t o t h e t er re s t rial are a. A set of n in e (9) d if f er e n t w a t er q u alit y a n d seven ( 7 ) soil p aram e t er s w er e c olle c t ed i n 65 samp li n g s t at i on s w it h in K et a an d A d a sam p lin g a re as. Wit h i n t h e Ke t a Lag oo n C om p lex sit e, 27 0 w a t er q u ali t y an d 14 0 soil sa m p les w er e c oll ect ed in t h e d i f f er en t ecosys t em t ype s w h iles 1 17 w at er q u alit y a n d 2 8 soil p aram e t er s w e re gat h er ed i n A d a. T h e d at a w as c oll ect ed in D ece mb er 20 25 u si n g st ra t i f ie d ran d om samp li n g met h od. M ic ro so f t Of f ic e (Ex c el sp re ad s h ee t ) w as u se d t o c om p u t e a n d a n alys e p h ys ic o - c h emical p ara meters o b t ain e d f ro m t h e f i eld s u rvey. Th e r esu lt s obta in ed w as in t er p re t ed u sin g d escrip t ive s t at ist i c s. Grap h s an d ap p ro p ri at e t ab les w er e d evelo p ed u si n g M ic ro so f t Of f ic e (Ex c el). An alys is o f V aria n c e (ANOV A) w as u sed f or c om p ariso n o f mea n s o f mu l t ip le variab les. D at a w as ga t h er ed f ro m a t ot al o f 38 7 ran d om s amp lin g st a t io n s, c om p ri sin g 1 17 an d 2 70 samp lin g s t at i on s i n A d a an d Ke t a Ramsar si t es, re sp ect ively. A t e ach sa mp lin g s t at i on s t h e f ollo w in g p aram et er s w e re mea s u re d: p H, c o n d u c t ivit y, OR P (ox id a t io n - re d u c t io n p oten t ial), t ot al d issolve d solid s ( TD S), salin i t y, re sist ivi t y, d issolved oxy gen in c on c en t rat i on a n d p er c en t age, t em p er at u r e u sin g A p er a SX7 5 1 w a t er t es t in g d evice, w h ic h p ro vid e d t h e re su l t of t h e f iel d d a t a in si t u. Th e d at a w as c oll ect ed i n D ecem b er, w h ic h w as su p p ose d t o b e t h e d ry p er iod in Gh a n a. H o w ever, a d e q u a t e rain s o c c u rre d d u ri n g t h e sam p lin g p er io d a n d t h is w as lik ely t o i n f l u en c e t h e re su l t of s om e p h ys ic o - c h emical p a rame t er s. So il samp l es w er e c olle c t ed f ro m a t o t al of 16 8 samp li n g s t at i on s. Wi t h in t h e t er re st ri al samp lin g ar ea s, 28 s t at i o n s w er e d esig n at e d in A d a an d 14 0 in Ke t a Rams a r sit es. Result s of f ield d a t a w er e o b t ain e d in sit u u sin g Po rt a b le Te rmin al 40 0 2 - B XSZ D V er 
+3.3 
+Water chemical parameters: Conductivity, salinity, total dissolved solids, 
+Resistivity, Dissolved oxygen, and Oxidation reduction potential.
 
-1.0, a p ro f essio n al h an d h el d q u ic k t es t p lat f or m. All samp lin g s t at i on s w e re geo re f er e n c ed u sin g a Garmin In r ea c h Exp l or er. Th e d etails are p re sen t e d i n Ta b les 1 t o 4 b el ow: Co o r d i n ate s o f sam p l i n g si te s S am p l i n g s i te s D e scr i p tion o f si te s An y an u i An y an u i la n d in g s ite Fu v e m e Fu v e m e cr e e k Agork e d zi Agork e d zi cre e k T u n u T u n u cree k An y an u i An y an u i - T u n u r o ad An y an u i An y an u i - T u n u r o ad Agb le d o m e Agb le d o m e Dzit a Dzit a Akp lot o rk o r Akp lot o rk o r s ites 1 Akp lot o rk o r Akp lot o rk o r s ite 2 Sav iat u la Sav iat u la Bridge Salo Salo r o ad Salo s alo man grov e mark e t Agort o e Agort o e s ite 1 N Agort o e Agort o e s ite 2 Agb at s iv i Agb as tiv i s ite 1 Agb as tiv i Agb as tiv i s ite 2 G alo t s e G alo s te s ite 1 
+3.3.1 Keta
 
-41.397 G alo t s e G alo s te s ite 2 G e n u i G e h n u i Ro ad Af iad e n y igba Af iad e n y igba b rid ge Af iad e n y igba Af iad e n y igba ro ad / lago o n H av e d zi H av e d zi b rid ge Vod za La goo n v ie w h o tel Wo e Wo e la n d in g b rid ge An loga An loga main mark e t Co o r d i n ate s o f sam p l i n g si te s S am p l i n g s i te s D e scr i p tion o f si te s An y an u i An y an u i la n d in g s ite Fu v e m e Fu v e m e cr e e k Agork e d zi Agork e d zi cre e k T u n u T u n u cree k An y an u i An y an u i - T u n u r o ad An y an u i An y an u i - T u n u r o ad Agb le d o m e Agb le d o m e Dzit a Dzit a Akp lot o rk o r Akp lot o rk o r s ites 1 Akp lot o rk o r Akp lot o rk o r s ite 2 Sav iat u la Sav iat u la Bridge Salo Salo r o ad Salo s alo man grov e mark e t Agort o e Agort o e s ite 1 N Agort o e Agort o e s ite 2 Agb at s iv i Agb as tiv i s ite 1 Agb as tiv i Agb as tiv i s ite 2 G alo t s e G alo s te s ite 1 
+Within the Keta Ramsar site, water chemical parameters recorded included fresh water and 
+hyper-salinity conditions, typical of coastal lagoons in Ghana. The values were however 
+influenced by the intermittent rains during the sampling period in the dry season in 
+December. The highest value of conductivity (63.1 µs), total dissolved solids (88.1ppm) and 
+salinity (40 ppt) occurred at Dzita. However, the values recorded for resistivity (Res), dissolved 
+oxygen (DO) and oxidation reduction potential (ORP) were relatively moderate (15.8KΩ, 13.23 
+mg/l and 160 mV, respectively) for the same sampling site. Low ORP is a common 
+characteristic of wetlands with waterlogged or anaerobic features influencing the availability 
+of elements such as iron and manganese. The high salinity was probably from high 
+evaporation and the presence of other ions in the water. The low salinity value of 4.3 ppt, 
+conductivity value of 69.3 µs, TDS value of 100 ppm and ORP of 29 mV was probably 
+influenced by the rainfall during the sampling period. High oxygen values at Anyanui, 
+Agblodome, Apklotorkor, Saviatula and Salo (Figure 1) were probably influenced by windy 
+conditions, shallow water depth, high water temperatures and swift flow of the water. Salinity 
+values were higher in the lagoons, some creeks and occasionally closed water systems. Sites 
+such as Anyanui, Tunu, Akplortorkor, Saviatula, and Genui had salinity values that ranged 
+between 10.6 and 40 ppt (Figure 2). The sites were observed to support the development of 
+mangroves and other aquatic life.
 
-41.397 G alo t s e G alo s te s ite 2 G e n u i G e h n u i Ro ad Af iad e n y igba Af iad e n y igba b rid ge Af iad e n y igba Af iad e n y igba ro ad / lago o n H av e d zi H av e d zi b rid ge Vod za La goo n v ie w h o tel Wo e Wo e la n d in g b rid ge An loga An loga main mark e t Co o r d i n ate s o f sam p l i n g ar e a S am p l i n g s i te D e scr i p tion o f ar e a Aziz an y a Aziz an y a - Ke w u n o r b rid ge Ay igbo b rid ge Pa tu ko p e Pa tu ko p e cree k Pu te Pu te walkway la goo n in ta ke La goo n u n d e rgrou n d s e e p age Fu tu e n y a Fu ru e n y a cre e k, b rid ge Big Ad a Big Ad a cre e k, b rid ge Wa s ak u s e Wa s ak u s e w ay o, Res to ra tio n s ite T o gb lok u T o gb lok u lago o n 1 T o gb lok u la goo n 2 
+Akplotorkor 2
 
-25.396 Ob an e Ob an e cree k Co o r d i n ate s o f sam p l i n g si te S am p l i n g s i te D e scr i p tion o f si te An y an u i De ad man grov e s, Tun u r o ad An y an u i T u n u r o ad Agb le d o rn e Agb le d o rn e s ite 1 Agb le d o rn e Agb le d o rn e s ite 2 Agb le d o rn e Agb le d o rn e s ite 3 Dzit a Dzit a Sav iat u la Sav iat u la b rid ge Salo Salo r o ad Salo Salo man grov e mark e t 
+Akplotorkor 1
 
-45.274 Agort o e Agort o e Agb at s iv i Agb as tiv ie G alo ts e G alo ts e s ite 1 G alo ts e G alo ts e s ite 2 G alo ts e G alo ts e s ite 3 G e n u i G e n u i Ro ad Ab o rlorv ie U p lan d fis h in g a re a Ab o rlorv ie f u rth e r u p lan d Ab o rlorv ie Pro p o s e d r e s to ra tio n s ite 
+Dzita
 
-55.440 Ab o rlorv ie Pro p o s e d r e s to ra tio n s ite Af id e n y igba Af id e n y igba b rid ge Co o r d i n ate s o f sam p l i n g ar e a S am p l i n g s i te D e scr i p tion o f ar e a Aziz an y a Aziz an y a - Ke w u n o r b rid ge Ay igbo b rid ge Pa tu ko p e Pa tu ko p e cree k Pu te Pu te walkway la goo n in ta ke La goo n u n d e rgrou n d s e e p age Fu tu e n y a Fu ru e n y a cre e k, b rid ge Big Ad a Big Ad a cre e k, b rid ge Wa s ak u s e Wa s ak u s e w ay o, Res to ra tio n s ite T o gb lok u T o gb lok u lago o n 1 T o gb lok u la goo n 2 
+Agbledome
 
-25.396 Ob an e Ob an e cree k Co o r d i n ate s o f sam p l i n g si te S am p l i n g s i te D e scr i p tion o f si te An y an u i De ad man grov e s, Tun u r o ad An y an u i T u n u r o ad Agb le d o rn e Agb le d o rn e s ite 1 Agb le d o rn e Agb le d o rn e s ite 2 Agb le d o rn e Agb le d o rn e s ite 3 Dzit a Dzit a Sav iat u la Sav iat u la b rid ge Salo Salo r o ad Salo Salo man grov e mark e t 
+Anyanui - Tunu road 2
 
-45.274 Agort o e Agort o e Agb at s iv i Agb as tiv ie G alo ts e G alo ts e s ite 1 G alo ts e G alo ts e s ite 2 G alo ts e G alo ts e s ite 3 G e n u i G e n u i Ro ad Ab o rlorv ie U p lan d fis h in g a re a Ab o rlorv ie f u rth e r u p lan d Ab o rlorv ie Pro p o s e d r e s to ra tio n s ite 
+Anyanui - Tunu road 1
 
-55.440 Ab o rlorv ie Pro p o s e d r e s to ra tio n s ite Af id e n y igba Af id e n y igba b rid ge Co o r d i n ate s o f sam p l i n g ar e a S am p l i n g s i te D e scr i p tion o f ar e a Pu te Pu te walkway, la goo n in ta ke, b lack m an grov e s Pu te la goo n, wh ite m an grov e s Wa s ak u s e Wa s ak u s e n gw a w at e r n e ar p o n d s Ob an e o b an e r e s to re d man grov e Co o r d i n ate s o f sam p l i n g ar e a S am p l i n g s i te D e scr i p tion o f ar e a Pu te Pu te walkway, la goo n in ta ke, b lack m an grov e s Pu te la goo n, wh ite m an grov e s Wa s ak u s e Wa s ak u s e n gw a w at e r n e ar p o n d s Ob an e o b an e r e s to re d man grov e T h e mea n t em p er a t u re valu e s re c or d ed in t h e l a goo n s varied b e t w e en 3 
+Sampled sites
 
-0.2 4 a n d 31 Th is w as p ro b ab ly in f lu e n c ed b y t h e d ep t h o f t h e lagoo n, t h e seaso n, a n d t h e p er i od t h e d a t a w as gat h er e d. The t emperat u re valu e in t h e Ke t a are a w as b e t w e en 25 a n d 3 0. 3 b etwe en d aw n a n d ju s t b efore n oo n. I n t h e a f t er n oo n, a valu e b etwe e n 3 1. 1 9 an d 37.3 w as re c or d e d. There w as a t emp er a t u r e rise of 5. 3 ju st b e f or e n o on a n d 6. 11 d u rin g n oo n. Th e t em p er a t u re rise lev els w er e p ro b a b ly i n f l u e n c e b y t h e sam p lin g p e ri od. Th e t emp e rat u re valu es re c or d e d f or S on go r, A d a, varied w it h in t h e samp lin g sit es w i t h a mea n valu e ran gi n g f r o m 31.2 to - 34.6. The t em p er a t u re rise b e t w ee n t h e samp li n g p er io d w as gr ad u al a n d low er. The val u e re c or d ed i n t h e mo rn i n g w as b etwe e n 30.3 an d 33 w it h 3. C t emperat u re rise b etwe e n d a w n an d n oo n. At n oo n, a val u e b e t w e en 33.9 an d 37.2 w as r ecor d e d, w i t h 
+Tunu creek
 
-3.3 t e m p er at u re rise d u rin g n o on. Gen e rally, t h e w at er t em p er a t u re val u e s re c or d ed w er e optim al, a c rit ic al f act or i n d e t er min in g t h e ove rall w at er q u ali t y. Th is sig n if ic an t ly also i n f l u en c e t h e p h ys ic al, c h emic al, an d b iolo gic al c h aract er is t ic s of t h e a q u at ic ecosys t ems. T h e mea n t em p er a t u re valu e s re c or d ed in t h e l a goo n s varied b e t w e en 3 
+Agorkedzi creek
 
-0.2 4 a n d 31 Th is w as p ro b ab ly in f lu e n c ed b y t h e d ep t h o f t h e lagoo n, t h e seaso n, a n d t h e p er i od t h e d a t a w as gat h er e d. The t emperat u re valu e in t h e Ke t a are a w as b e t w e en 25 a n d 3 0. 3 b etwe en d aw n a n d ju s t b efore n oo n. I n t h e a f t er n oo n, a valu e b etwe e n 3 1. 1 9 an d 37.3 w as re c or d e d. There w as a t emp er a t u r e rise of 5. 3 ju st b e f or e n o on a n d 6. 11 d u rin g n oo n. Th e t em p er a t u re rise lev els w er e p ro b a b ly i n f l u e n c e b y t h e sam p lin g p e ri od. Th e t emp e rat u re valu es re c or d e d f or S on go r, A d a, varied w it h in t h e samp lin g sit es w i t h a mea n valu e ran gi n g f r o m 31.2 to - 34.6. The t em p er a t u re rise b e t w ee n t h e samp li n g p er io d w as gr ad u al a n d low er. The val u e re c or d ed i n t h e mo rn i n g w as b etwe e n 30.3 an d 33 w it h 3. C t emperat u re rise b etwe e n d a w n an d n oo n. At n oo n, a val u e b e t w e en 33.9 an d 37.2 w as r ecor d e d, w i t h 
+Fuveme creek
 
-3.3 t e m p er at u re rise d u rin g n o on. Gen e rally, t h e w at er t em p er a t u re val u e s re c or d ed w er e optim al, a c rit ic al f act or i n d e t er min in g t h e ove rall w at er q u ali t y. Th is sig n if ic an t ly also i n f l u en c e t h e p h ys ic al, c h emic al, an d b iolo gic al c h aract er is t ic s of t h e a q u at ic ecosys t ems. Wit h i n t h e Ke t a Ramsar sit e, w a t er c h emical p ar ame t er s r ecor d e d in c l u d ed f r esh w at er an d h ype r - sali n it y c o n d i t io n s, t ypical of c oa st al l ago on s in G h an a. T h e val u es w er e h o w ever in f lu en c e d b y t h e in t er mit t e n t rain s d u r in g t h e samp li n g p e rio d in t h e d ry seaso n in D ecemb e r. Th e h igh es t valu e of c o n d u c t ivit y (63.1 s), t ot al d issolve d sol id s (
+Anyanui landing site
 
-88.1 p p m) an d salin it y (40 p p t ) occ u rre d at D z it a. H o w ever, t h e va lu es re c or d ed f or re sist ivi t y (R es), d issolved oxy gen (DO) a n d oxid a t io n re d u c t ion p ot e n t ial (O RP) w er e r ela t ively mo d er at e ( 1 
+0
+50
+100
+150
+200
+250
+300
+350
+400
 
-5.8, 1 
+Parameters value
 
-3.2 3 mg/ l a n d 1 60 mV, re s p ect ively) f or t h e sam e sam p lin g sit e. Lo w OR P is a c om m on c h aract er is t ic of w e t lan d s w it h w at er log ged or a n ae ro b ic f ea t u re s 0 50 100 150 200 250 300 350 400 A n yan u i lan d i n g s i te F u ve me c re e k A g o rk e d z i c re e k T u n u c r e e k A n ya nu i - Tu nu r o a d 1 A n ya nu i - Tu nu r o a d 2 A g b l e d o me Dz i ta A k p l o to r ko r 1 A k p l o to r ko r 2 Pa ra m e ters v alu e Samp le d s ites O R P ( mV ) DO ( m g /l) DO ( % ) pH R E S ( K SA L ( p pt ) T DS ( p p m) Co n d ( s ) Wit h i n t h e Ke t a Ramsar sit e, w a t er c h emical p ar ame t er s r ecor d e d in c l u d ed f r esh w at er an d h ype r - sali n it y c o n d i t io n s, t ypical of c oa st al l ago on s in G h an a. T h e val u es w er e h o w ever in f lu en c e d b y t h e in t er mit t e n t rain s d u r in g t h e samp li n g p e rio d in t h e d ry seaso n in D ecemb e r. Th e h igh es t valu e of c o n d u c t ivit y (63.1 s), t ot al d issolve d sol id s (
+ORP (mV)
+Temp (⁰C)
+DO (mg/l)
+DO (%)
+pH
+RES (KΩ)
+SAL (ppt)
+TDS (ppm)
+Cond (µs)
 
-88.1 p p m) an d salin it y (40 p p t ) occ u rre d at D z it a. H o w ever, t h e va lu es re c or d ed f or re sist ivi t y (R es), d issolved oxy gen (DO) a n d oxid a t io n re d u c t ion p ot e n t ial (O RP) w er e r ela t ively mo d er at e ( 1 
+Figure 1: Temporal changes in physical and chemical water parameters at Anyanui-Dzita sampling 
+stations.
 
-5.8, 1 
+9
 
-3.2 3 mg/ l a n d 1 60 mV, re s p ect ively) f or t h e sam e sam p lin g sit e. Lo w OR P is a c om m on c h aract er is t ic of w e t lan d s w it h w at er log ged or a n ae ro b ic f ea t u re s 0 50 100 150 200 250 300 350 400 A n yan u i lan d i n g s i te F u ve me c re e k A g o rk e d z i c re e k T u n u c r e e k A n ya nu i - Tu nu r o a d 1 A n ya nu i - Tu nu r o a d 2 A g b l e d o me Dz i ta A k p l o to r ko r 1 A k p l o to r ko r 2 Pa ra m e ters v alu e Samp le d s ites O R P ( mV ) DO ( m g /l) DO ( % ) pH R E S ( K SA L ( p pt ) T DS ( p p m) Co n d ( s ) 0 10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 170 180 S al o ro ad s alo mang ro ve marke t A g o rt o e 1 A g o rt o e 2 A g b as t i vi 1 A g b as t i vi 2 G alo s te 1 G alo s te 2 Ge hn ui R o a d Pa ra m e ters v alu e Samp le d s ites O R P ( mV ) DO ( m g /l) DO ( % ) pH R E S ( K S A L ( p p t) T DS ( p p m) Co n d ( s ) 0 10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 170 180 S al o ro ad s alo mang ro ve marke t A g o rt o e 1 A g o rt o e 2 A g b as t i vi 1 A g b as t i vi 2 G alo s te 1 G alo s te 2 Ge hn ui R o a d Pa ra m e ters v alu e Samp le d s ites O R P ( mV ) DO ( m g /l) DO ( % ) pH R E S ( K S A L ( p p t) T DS ( p p m) Co n d ( s ) 
 
-0.0 
+<!-- Page 16 -->
 
-100.0 
+Gehnui Road
 
-200.0 
+Galoste 2
 
-300.0 
+Galoste 1
 
-400.0 50 
+Agbastivi 2
 
-0.0 
+Sampled sites
 
-600.0 Co n d ( s ) T DS (pp m ) S A L ( p p t) R E S ( K pH DO ( % ) DO ( m g /l) O R P ( m V ) Pa ra me ters v alu e Pa ra m e ters m e asured fis h i n g g ro u n d fis h i n g g ro u n d u p l an d R e s t o rat i o n s i te 1 R e s t o rat i o n s i te 2 0 50 100 150 200 250 300 350 400 450 500 550 600 650 700 750 800 850 900 950 1000 1050 1100 Co n d ( s ) T DS ( p p m) S A L ( p p t) R E S ( K pH DO ( % ) DO ( m g /l) O R P ( mV ) Pa ra m e ters v alu e Pa ra m e ters m e asured A fi a d e n yi g b a b ri d g e A fi a d e n yi g b a r o ad l a g o o n H aved z i b r i d g e L a g o o n vie w h o te l W o e lan d i n g b ri d g e A n l o g a ma rk e t 
+Agbastivi 1
 
-0.0 
+Agortoe 2
 
-100.0 
+Agortoe 1
 
-200.0 
+salo mangrove market
 
-300.0 
+Salo road
 
-400.0 50 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90 100 110 120 130 140 150 160 170 180
 
-0.0 
+Parameters value
 
-600.0 Co n d ( s ) T DS (pp m ) S A L ( p p t) R E S ( K pH DO ( % ) DO ( m g /l) O R P ( m V ) Pa ra me ters v alu e Pa ra m e ters m e asured fis h i n g g ro u n d fis h i n g g ro u n d u p l an d R e s t o rat i o n s i te 1 R e s t o rat i o n s i te 2 0 50 100 150 200 250 300 350 400 450 500 550 600 650 700 750 800 850 900 950 1000 1050 1100 Co n d ( s ) T DS ( p p m) S A L ( p p t) R E S ( K pH DO ( % ) DO ( m g /l) O R P ( mV ) Pa ra m e ters v alu e Pa ra m e ters m e asured A fi a d e n yi g b a b ri d g e A fi a d e n yi g b a r o ad l a g o o n H aved z i b r i d g e L a g o o n vie w h o te l W o e lan d i n g b ri d g e A n l o g a ma rk e t oxid at ion re d u c t i on p o t e n t ia l (O RP) f or t h e samp li n g sit e w as b etwe e n 12 16 an d 15 47.3 mV. T h e h igh est val u es ra n ge d b etwe e n 8 32 12 36 m V, an d t h is occ u rre d in t h e lag oo n a n d t h e c re eks samp le d. T h e lo w est valu e s b etwe e n 11 7 
+ORP (mV)
+Temp (⁰C)
+DO (mg/l)
+DO (%)
+pH
+RES (KΩ)
+SAL (ppt)
+TDS (ppm)
+Cond (µs)
 
-6.6 mV w er e re c or d ed c lose t o t h e est u a ry in t h e main V ol t a Riv er. Ox id at ion re d u c t io n p oten t ial (O RP) q u an t if i es oxid at ion re d u c t i on p o t e n t ia l (O RP) f or t h e samp li n g sit e w as b etwe e n 12 16 an d 15 47.3 mV. T h e h igh est val u es ra n ge d b etwe e n 8 32 12 36 m V, an d t h is occ u rre d in t h e lag oo n a n d t h e c re eks samp le d. T h e lo w est valu e s b etwe e n 11 7 
+Figure 2: Temporal changes in physical and chemical water parameters at Saviatula – Galotse sampling 
+stations.
 
-6.6 mV w er e re c or d ed c lose t o t h e est u a ry in t h e main V ol t a Riv er. Ox id at ion re d u c t io n p oten t ial (O RP) q u an t if i es 0 50 100 150 200 250 300 350 400 Co n d ( s ) T DS ( p p m) S A L ( p p t) R E S (K pH DO ( % ) DO ( m g /l) O R P ( mV ) p ar ame ters v alu e Pa ra m e ters m e asured A z i z an ya-Kewun o r b ri d g e A yi g b o b ri d g e 0 500 1000 1500 2000 2500 Co n d ( s ) T DS (pp m ) S A L ( p p t) R E S ( K pH DO ( % ) DO ( m g /l) O R P ( mV ) Pa ra m e ters v alu e Pa ra m e ters m e asured Pa tu ko p e c re e k Put e w alk w ay lag o o n in t a k e L a g o o n u n d e rg ro u n d s e e p ag e 0 50 100 150 200 250 300 350 400 Co n d ( s ) T DS ( p p m) S A L ( p p t) R E S (K pH DO ( % ) DO ( m g /l) O R P ( mV ) p ar ame ters v alu e Pa ra m e ters m e asured A z i z an ya-Kewun o r b ri d g e A yi g b o b ri d g e 0 500 1000 1500 2000 2500 Co n d ( s ) T DS (pp m ) S A L ( p p t) R E S ( K pH DO ( % ) DO ( m g /l) O R P ( mV ) Pa ra m e ters v alu e Pa ra m e ters m e asured Pa tu ko p e c re e k Put e w alk w ay lag o o n in t a k e L a g o o n u n d e rg ro u n d s e e p ag e 0 500 1000 1500 2000 2500 Co n d ( s ) T DS ( p p m) S A L ( p p t) R E S ( K pH DO ( % ) DO ( m g /l) O R P ( mV ) Pa ra m e ters v alu e Pa ra m e ters m e asured F u ru e n ya c re e k, b ri d g e B i g A da c re e k, b ri dg e 0 500 1000 1500 2000 2500 Co n d ( s ) T DS ( p p m) S A L ( p p t) R E S ( K pH DO ( % ) DO ( m g /l) O R P ( mV ) Pa ra m e ters v alu e Pa ra m e ters m e asured W as aku s e w ayo, R e s to rat i o n s i te T o g b l o ku lag o o n 1 T o g b l o ku lag o o n 2 0 500 1000 1500 2000 2500 Co n d ( s ) T DS ( p p m) S A L ( p p t) R E S ( K pH DO ( % ) DO ( m g /l) O R P ( mV ) Pa ra m e ters v alu e Pa ra m e ters m e asured F u ru e n ya c re e k, b ri d g e B i g A da c re e k, b ri dg e 0 500 1000 1500 2000 2500 Co n d ( s ) T DS ( p p m) S A L ( p p t) R E S ( K pH DO ( % ) DO ( m g /l) O R P ( mV ) Pa ra m e ters v alu e Pa ra m e ters m e asured W as aku s e w ayo, R e s to rat i o n s i te T o g b l o ku lag o o n 1 T o g b l o ku lag o o n 2 Th e m ea n val u e s o f soil mo ist u r e an d h u m u s gat h er e d w er e b etwe e n 
+10
 
-9.1 33 % a n d 14. 6 26.2 % re sp ect ively. T h e l evel o f o t h e r i n d ic at or s varied w it h in t h e sam p li n g are a. H ow ever, m oist u r e an d h u mu s lev els w er e c om p ara t ively u n if or m w i t h i n t h e samp li n g sit e. Ob vio u sly, t h e m oist u re l evels re c or d ed w er e h ig h er i n t h e sa mp lin g s t at i on s c lose r t o w at er b o d ies s u c h as Ab or lor vi, 25.4 %, Af i ad en yi gb a b ri d ge, 26. 4 %, Gen u i, 38.7 % a n d G alo t se, 4 
 
-0.4 %. T h e mo ist u r e lev els w er e p r ob ab ly also i n f l u e n c ed b y t h e rain f all d u r in g t h e samp li n g p er io d. In versely, lo w er mo is t u r e valu es w er e re c or d ed i n sam p lin g s t a t ion s loca t ed u p la n d or f u rt h er aw ay f r om w at er b od i es. It w as ob se rved t h at t h e me an h u mu s val u e o b t ai n ed, 1 
+<!-- Page 17 -->
 
-4.6 26.2 % w as r ela t ed t o t h e p re sen c e o f a q u a t ic f l or a, lit t er f all an d d ecom p ose d or gan ic m at t er, es p ecially w i t h i n t h e man grove s t a n d s. T h e val u e s r ecor d e d w er e h igh a t T u n u, 44.3 %, Galo t se, 4 
+600.0
 
-0.6 % an d Ago r t oe, 37.5 %, w h er e d ea d man grove s, le af f alls a n d d ec om p ose d mat t er w er e o b served. p H valu es re c or d e d w er e at levels t ole ra b le b y mo s t p la n t s w i t h i n t h e w et la n d s. The val u es re c or d ed ran ged b e t w ee n 
+500.0
 
-5.5 5 an d 
+400.0
 
-7.0. Th e level o f p o t assiu m (K) re c or d e d w as h igh ( 56.25 mg/ k g ) w i t h i n t h e sa mp li n g ar ea. H ow ever, t h e valu es r ecor d e d f o r n u t ri en t s varie d w i t h i n mo is t an d d ry sit es. Po t assi u m (K) is an esse n t i al el eme n t f or c ro p gro w t h, p layin g a k ey ro le in p h o t osyn t h esis, p r ot ei n sy n t h esis, an d man y oth er essen t i al f u n c t i on s in t h e p la n t. So ils f re q u e n t ly c onta in mo re t h an 2 0,0 0 0 0 200 400 600 800 1000 1200 1400 Co n d ( s ) T DS ( p p m) S A L ( p p t) R E S ( K pH DO ( % ) DO ( m g /l) O R P ( mV ) Pa ra m e ters v alu e P a ra me ters me a s u red Th e m ea n val u e s o f soil mo ist u r e an d h u m u s gat h er e d w er e b etwe e n 
+300.0
 
-9.1 33 % a n d 14. 6 26.2 % re sp ect ively. T h e l evel o f o t h e r i n d ic at or s varied w it h in t h e sam p li n g are a. H ow ever, m oist u r e an d h u mu s lev els w er e c om p ara t ively u n if or m w i t h i n t h e samp li n g sit e. Ob vio u sly, t h e m oist u re l evels re c or d ed w er e h ig h er i n t h e sa mp lin g s t at i on s c lose r t o w at er b o d ies s u c h as Ab or lor vi, 25.4 %, Af i ad en yi gb a b ri d ge, 26. 4 %, Gen u i, 38.7 % a n d G alo t se, 4 
+Parameters value
 
-0.4 %. T h e mo ist u r e lev els w er e p r ob ab ly also i n f l u e n c ed b y t h e rain f all d u r in g t h e samp li n g p er io d. In versely, lo w er mo is t u r e valu es w er e re c or d ed i n sam p lin g s t a t ion s loca t ed u p la n d or f u rt h er aw ay f r om w at er b od i es. It w as ob se rved t h at t h e me an h u mu s val u e o b t ai n ed, 1 
+200.0
 
-4.6 26.2 % w as r ela t ed t o t h e p re sen c e o f a q u a t ic f l or a, lit t er f all an d d ecom p ose d or gan ic m at t er, es p ecially w i t h i n t h e man grove s t a n d s. T h e val u e s r ecor d e d w er e h igh a t T u n u, 44.3 %, Galo t se, 4 
+100.0
 
-0.6 % an d Ago r t oe, 37.5 %, w h er e d ea d man grove s, le af f alls a n d d ec om p ose d mat t er w er e o b served. p H valu es re c or d e d w er e at levels t ole ra b le b y mo s t p la n t s w i t h i n t h e w et la n d s. The val u es re c or d ed ran ged b e t w ee n 
+0.0
 
-5.5 5 an d 
+Cond (µs) TDS (ppm)
+SAL (ppt)
+RES (KΩ)
+pH
+DO (%)
+DO (mg/l) Temp (⁰C)
+ORP (mV)
 
-7.0. Th e level o f p o t assiu m (K) re c or d e d w as h igh ( 56.25 mg/ k g ) w i t h i n t h e sa mp li n g ar ea. H ow ever, t h e valu es r ecor d e d f o r n u t ri en t s varie d w i t h i n mo is t an d d ry sit es. Po t assi u m (K) is an esse n t i al el eme n t f or c ro p gro w t h, p layin g a k ey ro le in p h o t osyn t h esis, p r ot ei n sy n t h esis, an d man y oth er essen t i al f u n c t i on s in t h e p la n t. So ils f re q u e n t ly c onta in mo re t h an 2 0,0 0 0 0 200 400 600 800 1000 1200 1400 Co n d ( s ) T DS ( p p m) S A L ( p p t) R E S ( K pH DO ( % ) DO ( m g /l) O R P ( mV ) Pa ra m e ters v alu e P a ra me ters me a s u red p p m (pa r t s p er millio n ) o f p o t assiu m ( K ), b u t o n ly a f ract io n of t h at is availab l e f or c r op u p t ak e. So il f act or s t h a t mig h t im p act K u p t ak e i n c lu d e mo ist u re, t emperat u re an d ae rat io n. N it r at es, p h os p h a t es an d p ot assi u m valu es r ecor d e d w er e mo d er at ely h igh i n Ag b led o me, Ago r t oe, Agb ast ivi a n d Gal ot s e. These w er e t y p ic ally mo ist sit es o f t h e sam p lin g are a. Ph os p h a t e val u e s re c or d e d ra n ge d b etwe e n 1 an d 32 mg/ k g in t h e u p lan d, w h iles levels b e t w ee n 52 mg/ k g a n d 103 mg/ k g occ u rre d i n t h e mo is t are as. Ad e q u a t e p h os p h a t e levels p r om ote f ru i t, f lo w er, a n d see d p ro d u c t io n, i n c re a se c ro p yi el d s, p r om o t e ro ot growth an d h a rd i n ess of p la n t s a n d h ast e n c ro p ma t u ri t y. M ea n s oil p H valu es obt ain ed w it h in t h e samp l in g sit e w as b e t w e en 
+Parameters measured 
+fishing ground
+fishing ground upland
+Restoration site 1
+Restoration site 2
 
-6.2 a n d 
+Figure 3: Temporal changes in physical and chemical water parameters at Aborlorvi-Norlopi sampling 
+stations.
 
-7.0. S oil p H o f 6 t o 
+Parameters value
 
-7.5 is id ea l f or t h e avai lab ilit y of p h osp h at e f or p lan t u se. V al u es of less t h an 
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+500
+550
+600
+650
+700
+750
+800
+850
+900
+950
+1000
+1050
+1100
 
-5.5 a n d 
+Cond (µs)
+TDS (ppm)
+SAL (ppt)
+RES (KΩ)
+pH
+DO (%)
+DO (mg/l)
+Temp (⁰C)
+ORP (mV)
 
-7.5 t o 
+Parameters measured
 
-8.5 limi t t h e availab ili t y o f p h osp h at e t o p lan t s. T h e levels of p H re c or d e d w it h i n t h e si t e w er e w it h in t h ese ran g es. N i t r at e levels re c or d ed d i d n ot va ry w i t h i n t h e u p l an d si t es, t h e val u es re c or d e d ran g ed b etwe e n 1 mg/ k g an d 23 mg/ k g. T h e valu es obta in ed i n t h e mo is t sit es w er e b etwe e n 3 7 mg/ k g an d 7 3m g/ k g. Th e p rima ry f u n c t io n o f N it ra t e (NO 3 - ) is t o se rve as a sou rce of n i t ro ge n f or t h e n u t rit i on a n d grow t h of p la n t s a n d s oil micro or gan isms. N i t r at e is u su ally d e f ic ien t in acid soils; t h e op t im u m p H is b e t w ee n 6 an d 8. P ot assi u m (K) le vels re c or d e d w er e low t o mo d er at ely h igh in u p la n d s w it h val u es b et w e en 2 mg/ k g an d 65 mg/ k g an d t h e h igh est valu e s b etwe e n 78 an d 201 mg/ k g w er e re c or d e d in t h e mo ist are a s. Th e m ea n p o t assiu m val u e re c or d e d w i t h i n t h e s amp lin g si t e w as b etwe e n 42 an d 1 17 mg / k g. Po t assiu m (K) is a n ess en t ial e lem e n t t h at s u p p or t s p lan t g ro w t h, p la yi n g a k ey r ole in p h o t osyn t h esis, p ro t ein sy n t h esis, an d man y o t h er esse n t i al f u n c t io n s in t h e p lan t. So ils f re q u en t ly c o n t ai n mo r e t h a n 20,00 0 p p m (pa rt s p er milli on ) o f K, b u t on l y a f ract i on of t h at is availab le f or c r op u p t ak e. So il f act or s t h a t migh t imp ac t K u p t ak e in c lu d e mo ist u re, t emperat u re an d ae ra t io n. 0 20 40 60 80 100 120 140 N mg /kg P mg /kg K mg/k g Mo i s tu re ( % ) pH T e mp ( C) H u mu s ( % ) Pa ra m e ter v alu e s Soil p ar ame ters De ad mang ro ve s s i te T u n u ro ad A g b l e d o rme 1 A g b l e d o rme 2 A g b l e d o rme 3 Dz i ta p p m (pa r t s p er millio n ) o f p o t assiu m ( K ), b u t o n ly a f ract io n of t h at is availab l e f or c r op u p t ak e. So il f act or s t h a t mig h t im p act K u p t ak e i n c lu d e mo ist u re, t emperat u re an d ae rat io n. N it r at es, p h os p h a t es an d p ot assi u m valu es r ecor d e d w er e mo d er at ely h igh i n Ag b led o me, Ago r t oe, Agb ast ivi a n d Gal ot s e. These w er e t y p ic ally mo ist sit es o f t h e sam p lin g are a. Ph os p h a t e val u e s re c or d e d ra n ge d b etwe e n 1 an d 32 mg/ k g in t h e u p lan d, w h iles levels b e t w ee n 52 mg/ k g a n d 103 mg/ k g occ u rre d i n t h e mo is t are as. Ad e q u a t e p h os p h a t e levels p r om ote f ru i t, f lo w er, a n d see d p ro d u c t io n, i n c re a se c ro p yi el d s, p r om o t e ro ot growth an d h a rd i n ess of p la n t s a n d h ast e n c ro p ma t u ri t y. M ea n s oil p H valu es obt ain ed w it h in t h e samp l in g sit e w as b e t w e en 
+Afiadenyigba bridge
+Afiadenyigba road lagoon
+Havedzi bridge
+Lagoon view hotel
+Woe landing bridge
+Anloga market
 
-6.2 a n d 
+Figure 4: Temporal changes in physical and chemical water parameters at Afiadenyigba – Keta lagoon 
+sampling stations.
 
-7.0. S oil p H o f 6 t o 
+11
 
-7.5 is id ea l f or t h e avai lab ilit y of p h osp h at e f or p lan t u se. V al u es of less t h an 
 
-5.5 a n d 
+<!-- Page 18 -->
 
-7.5 t o 
+3.3.2 Songor, Ada
 
-8.5 limi t t h e availab ili t y o f p h osp h at e t o p lan t s. T h e levels of p H re c or d e d w it h i n t h e si t e w er e w it h in t h ese ran g es. N i t r at e levels re c or d ed d i d n ot va ry w i t h i n t h e u p l an d si t es, t h e val u es re c or d e d ran g ed b etwe e n 1 mg/ k g an d 23 mg/ k g. T h e valu es obta in ed i n t h e mo is t sit es w er e b etwe e n 3 7 mg/ k g an d 7 3m g/ k g. Th e p rima ry f u n c t io n o f N it ra t e (NO 3 - ) is t o se rve as a sou rce of n i t ro ge n f or t h e n u t rit i on a n d grow t h of p la n t s a n d s oil micro or gan isms. N i t r at e is u su ally d e f ic ien t in acid soils; t h e op t im u m p H is b e t w ee n 6 an d 8. P ot assi u m (K) le vels re c or d e d w er e low t o mo d er at ely h igh in u p la n d s w it h val u es b et w e en 2 mg/ k g an d 65 mg/ k g an d t h e h igh est valu e s b etwe e n 78 an d 201 mg/ k g w er e re c or d e d in t h e mo ist are a s. Th e m ea n p o t assiu m val u e re c or d e d w i t h i n t h e s amp lin g si t e w as b etwe e n 42 an d 1 17 mg / k g. Po t assiu m (K) is a n ess en t ial e lem e n t t h at s u p p or t s p lan t g ro w t h, p la yi n g a k ey r ole in p h o t osyn t h esis, p ro t ein sy n t h esis, an d man y o t h er esse n t i al f u n c t io n s in t h e p lan t. So ils f re q u en t ly c o n t ai n mo r e t h a n 20,00 0 p p m (pa rt s p er milli on ) o f K, b u t on l y a f ract i on of t h at is availab le f or c r op u p t ak e. So il f act or s t h a t migh t imp ac t K u p t ak e in c lu d e mo ist u re, t emperat u re an d ae ra t io n. 0 20 40 60 80 100 120 140 N mg /kg P mg /kg K mg/k g Mo i s tu re ( % ) pH T e mp ( C) H u mu s ( % ) Pa ra m e ter v alu e s Soil p ar ame ters De ad mang ro ve s s i te T u n u ro ad A g b l e d o rme 1 A g b l e d o rme 2 A g b l e d o rme 3 Dz i ta 0 50 100 150 200 250 S aviat u l a b r i d g e S al o ro ad S al o man g r o ve marke t A g o rt o e 1 A g bas t i v i G alo ts e 1 G alo ts e 2 G alo ts e 3 G e n u i R o ad p a ra me ter v a lu es s ite s amp le d H u mu s ( % ) T e mp ( C) pH Mo i s tu re ( % ) K mg/k g P mg /kg N mg /kg 0 20 40 60 80 100 120 140 160 180 N mg /kg P mg /kg K mg/k g Mo i s tu re ( % ) pH T e mp ( C) H u mu s ( % ) Pa ra m e ter v ak u e Soil p ar ame ter Up l an d fi s h i n g are a fu rt h e r u p l a n d Pro p o s e d r e s to rat i o n s i te 1 P ro p o s ed r es to rati o n s i te 2 0 50 100 150 200 250 S aviat u l a b r i d g e S al o ro ad S al o man g r o ve marke t A g o rt o e 1 A g bas t i v i G alo ts e 1 G alo ts e 2 G alo ts e 3 G e n u i R o ad p a ra me ter v a lu es s ite s amp le d H u mu s ( % ) T e mp ( C) pH Mo i s tu re ( % ) K mg/k g P mg /kg N mg /kg 0 20 40 60 80 100 120 140 160 180 N mg /kg P mg /kg K mg/k g Mo i s tu re ( % ) pH T e mp ( C) H u mu s ( % ) Pa ra m e ter v ak u e Soil p ar ame ter Up l an d fi s h i n g are a fu rt h e r u p l a n d Pro p o s e d r e s to rat i o n s i te 1 P ro p o s ed r es to rati o n s i te 2 Th e mea n mo is t u r e v al u e s re c or d ed w i t h i n t h e sa mp lin g sit e w er e b e t w ee n 2 
+Within the sampling site the highest value of conductivity occurred mostly within the creeks 
+and the lagoon. The mean values recorded ranged between 31.4 and 50.4 µs. The highest 
+value of 50.4 µs occurred at Big Ada bridge (Figure 7), whiles the lowest value of 31.4 µs was 
+recorded at Patukope creek. However, values recorded outside the creek and the lagoon were 
+relatively low. These were Azizanya, 6.23 µs and Ayigbo, 2.64 µs which were close to the values 
+recorded within the main Volta River and the estuary.
 
-1.5 a n d 2 
+Total dissolved solids (TDS), salinity and dissolved oxygen followed a similar trend as occurred 
+in the lagoon and the creeks. The highest values of TDS occurred at Pute lagoon, 57.3 ppm, 
+whiles the lowest value of 1.95 ppm was recorded at Ayigbo bridge (Figure 5). The value 
+depicts the variation in dissolved solid that occurred in the main river, creeks, and the lagoon. 
+Salinity values were higher in the lagoon and the creeks sampled, but relatively low in the 
+main river. The highest salinity value in the lagoon, 28.6ppt occurred at Pute lagoon and 
+28.2ppt occurred in the Pute creek, the lagoon intake point. The lowest salinity value of 0.2ppt 
+was recorded at Futue creek bridge that interconnect the main Volta River and the marshy 
+area. The value probably was influenced by low sea tide and the rainfall during the sampling 
+period.
 
-9.4 5 %. T h e lev els re c or d ed w er e h ig h in O b an e 25.1 %, Wasak u se, 25.7 %, P u t e l ago on, 28.3 %, an d 30.6 % at P u t e lago on in t ak e. Pr ob a b ly a n ea rlier r ain f all an d mo ist en vir onmen t al c ondit i on s of t h e samp li n g sit e mig h t h av e in f lu e n c ed t h e valu es obta in ed. M e an p H valu e obta i n ed across t h e samp l in g sit e w as b e t w e en 
+Dissolved oxygen (DO) values were relatively uniform and high across the sampling stations 
+with mean values ranging between 5.51 and 7.13 mg/l. This was probably due to the open 
+lagoon with high wind, shallow depth and absence of significant algal mat on the sediment. 
+The highest values of 6.09 mg/l and 6.91 mg/l were recorded at Futue and Luhue creek 
+bridges, respectively.
 
-5.5 7 an d 
+The mean value of oxidation reduction potential (ORP) for the sampling site was between 
+1216 and 1547.3 mV. The highest values ranged between 832 – 1236 mV, and this occurred 
+in the lagoon and the creeks sampled. The lowest values between 11 – 76.6 mV were recorded 
+close to the estuary in the main Volta River.
 
-6.8 4. An e x c ep t io n al valu e of 
+Oxidation reduction potential (ORP) quantifies the water's capacity to act as either an 
+oxidizing agent or a reducing agent. ORP is a measurement that indicates the ability of water 
+to purify itself by breaking down waste materials and contaminants. A higher ORP value 
+signifies a greater presence of oxygen in the water, which enhances the efficiency of bacteria 
+that decompose dead tissue and pollutants. Therefore, higher positive values generally 
+indicate better water quality and self-cleaning capacity. The quality of water in the wetlands 
+is critical for biodiversity, livelihood sustenance and the health of the community members.
 
-4.7 8 w as re c or d e d a t P u t e lago on. M ea n h u mu s valu e s re c or d e d w er e b etwe e n 1 6.9 an d 26.0 %. T h e val u e w as h o w ever lo w ( 
+12
 
-4.7 8 % ) at P u t e lagoo n i n t ak e. It w as h igh at Ob a n e re s t or e d ma n grove si t e, 2 6 %, b u t l ow at Pu t e lagoo n, 
 
-9.2 %. H u m u s is rich in n u t rie n t s a n d h as a h igh su rf ace ar ea, w h ic h h el p s re t ai n 0 5 10 15 20 25 30 35 40 45 N mg /kg P mg /kg K mg/k g Mo i s tu re ( % ) pH T e mp ( C) H u mu s ( % ) Pa ra m e ter v alu e s Soil p ar ame ters Th e mea n mo is t u r e v al u e s re c or d ed w i t h i n t h e sa mp lin g sit e w er e b e t w ee n 2 
+<!-- Page 19 -->
 
-1.5 a n d 2 
+400
 
-9.4 5 %. T h e lev els re c or d ed w er e h ig h in O b an e 25.1 %, Wasak u se, 25.7 %, P u t e l ago on, 28.3 %, an d 30.6 % at P u t e lago on in t ak e. Pr ob a b ly a n ea rlier r ain f all an d mo ist en vir onmen t al c ondit i on s of t h e samp li n g sit e mig h t h av e in f lu e n c ed t h e valu es obta in ed. M e an p H valu e obta i n ed across t h e samp l in g sit e w as b e t w e en 
+350
 
-5.5 7 an d 
+300
 
-6.8 4. An e x c ep t io n al valu e of 
+250
 
-4.7 8 w as re c or d e d a t P u t e lago on. M ea n h u mu s valu e s re c or d e d w er e b etwe e n 1 6.9 an d 26.0 %. T h e val u e w as h o w ever lo w ( 
+200
 
-4.7 8 % ) at P u t e lagoo n i n t ak e. It w as h igh at Ob a n e re s t or e d ma n grove si t e, 2 6 %, b u t l ow at Pu t e lagoo n, 
+150
 
-9.2 %. H u m u s is rich in n u t rie n t s a n d h as a h igh su rf ace ar ea, w h ic h h el p s re t ai n 0 5 10 15 20 25 30 35 40 45 N mg /kg P mg /kg K mg/k g Mo i s tu re ( % ) pH T e mp ( C) H u mu s ( % ) Pa ra m e ter v alu e s Soil p ar ame ters mo ist u r e an d im p ro ve so il st r u c t u re. It is als o esse n t ial f or soil h ea l t h as it p ro vid es a re servo ir of n u t rients, p art ic u larly n it ro g en an d p h osp h or u s, w h ic h are c rit ic al f or p l an t d evel op me n t. S oil t em p er a t u r e re c or d ed w as h igh ( 3 
+100
 
-8.4 C ) at Pu t e w alk w ay an d low ( 34.2 C ) at O b a n e re st or e d ma n grove si t e. Th e varia t io n in t h e t e mp er a t u re val u es o b t a i n ed may b e d u e t o w ea t h er c on d it io n s, soil mo ist u r e a n d h u m u s c o n t en t. Th e levels of t h e s oil n u t rien t val u e s re c o rd e d w e re h igh w it h in t h e samp l in g sit e, exc ep t at Pu t e lago on. Th e mea n n i t rat e (N) val u e obta in ed w as b etwe e n 48 mg/ k g a n d 984 mg / k g. T h e valu e wa s h igh at Wasak u sen gw a ( 984 mg / k g ) b u t lo w at Pute lag oo n w i t h a valu e of 3m g/ k g. Ph osp h at e valu e w as h ig h at Ob a n e w it h valu e of 705 mg / k g b u t it w as low ( 3 mg / k g ) at Put e lagoo n. Po t assiu m val u e re c or d e d w as h ig h ( 1, 28 0 mg/ k g ) at Ob an e b u t lo w at P u t e l ago on, 7 mg/ k g. Th e h igh levels of n u t rie n t valu es a t Ob an e may p ro b ab ly b e d u e t o c at t le graz i n g act ivit ies a n d t h e h igh le vels of c ow d u n g o b serv ed. 0 20 40 60 80 100 120 140 160 N mg /kg P mg /kg K mg/k g Mo i s tu re ( % ) pH T e mp ( C) H umus ( % ) p ar ame ter v alu e s Soil p ar ame ters Pu te w al kway Pu te l ag o o n mo ist u r e an d im p ro ve so il st r u c t u re. It is als o esse n t ial f or soil h ea l t h as it p ro vid es a re servo ir of n u t rients, p art ic u larly n it ro g en an d p h osp h or u s, w h ic h are c rit ic al f or p l an t d evel op me n t. S oil t em p er a t u r e re c or d ed w as h igh ( 3 
+parameters value
 
-8.4 C ) at Pu t e w alk w ay an d low ( 34.2 C ) at O b a n e re st or e d ma n grove si t e. Th e varia t io n in t h e t e mp er a t u re val u es o b t a i n ed may b e d u e t o w ea t h er c on d it io n s, soil mo ist u r e a n d h u m u s c o n t en t. Th e levels of t h e s oil n u t rien t val u e s re c o rd e d w e re h igh w it h in t h e samp l in g sit e, exc ep t at Pu t e lago on. Th e mea n n i t rat e (N) val u e obta in ed w as b etwe e n 48 mg/ k g a n d 984 mg / k g. T h e valu e wa s h igh at Wasak u sen gw a ( 984 mg / k g ) b u t lo w at Pute lag oo n w i t h a valu e of 3m g/ k g. Ph osp h at e valu e w as h ig h at Ob a n e w it h valu e of 705 mg / k g b u t it w as low ( 3 mg / k g ) at Put e lagoo n. Po t assiu m val u e re c or d e d w as h ig h ( 1, 28 0 mg/ k g ) at Ob an e b u t lo w at P u t e l ago on, 7 mg/ k g. Th e h igh levels of n u t rie n t valu es a t Ob an e may p ro b ab ly b e d u e t o c at t le graz i n g act ivit ies a n d t h e h igh le vels of c ow d u n g o b serv ed. 0 20 40 60 80 100 120 140 160 N mg /kg P mg /kg K mg/k g Mo i s tu re ( % ) pH T e mp ( C) H umus ( % ) p ar ame ter v alu e s Soil p ar ame ters Pu te w al kway Pu te l ag o o n 0 200 400 600 800 1000 1200 N mg /kg P m g/kg K mg/k g Mo i s tu re ( % ) pH T e mp ( C) H u mu s ( % ) Pa ra m e ter v alu e s So il p a ra me ters W as aku s e n g w a 0 100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 1400 N mg /kg P mg /kg K mg/k g Mo i s tu re ( % ) pH T e mp ( C) H u mu s ( % ) Pa ra m e ter v alu e s Soil p ar ame ters O ba n e 0 200 400 600 800 1000 1200 N mg /kg P m g/kg K mg/k g Mo i s tu re ( % ) pH T e mp ( C) H u mu s ( % ) Pa ra m e ter v alu e s So il p a ra me ters W as aku s e n g w a 0 100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 1400 N mg /kg P mg /kg K mg/k g Mo i s tu re ( % ) pH T e mp ( C) H u mu s ( % ) Pa ra m e ter v alu e s Soil p ar ame ters O ba n e Wet lan d ecosys t ems ar e c on si d er e d t h e mo st ecolo gic ally d iverse; t h e n a t u r e o f t h es e ecosys t ems is also very d yna mic. Th er e f or e, t h e a ssessmen t o f w et la n d ec osyste m h ea l t h is a very c om p lic at ed t ask, b ecau se t h e i mp act s of t h e c o n t r olli n g f act or s vary sp a t ially a n d t emporally. T h o u gh seas on al c h an g es w er e evid e n t d u rin g t h e sam p lin g p er iod, t h e w et la n d s st ill r ema in p ro d u c t ive ecosys t ems. They are vit al ecosys t ems t h a t p r ovid e n u mer o u s ecolo gic al, h y d ro logical an d socio - eco n om ic b e n ef it s an d p lay c ru c ial ro l es in b io d iversi t y, w at er f il t ra t ion an d c ar b on se q u es t ra t ion. Th e w at er a n d soil t h a t c h aract er iz e d t h e w e t lan d ecosys t em p lays a f u n d a men t al ro l e i n s h ap i n g t h eir s t ru c t u re a n d f u n c t i on. T h e level of t h e valu es of c h emical a n d p h ys ic al w a t er a n d s oil in d ic a t or s sam p le d w er e op t imal f or d evelo p ment of f lo ra a n d f au n a act ivi t ies. Th er e w er e h o w ever, exc ep t io n al isola t e d c ases in w h ic h levels of val u es r e c or d ed w e re c ri t ic ally lo w or h ig h. Th e w a t er sy st em h as a w ay o f b u f f er i n g, b u t t h e f ragil e soil n ee d s p r u d en t an d su s t ain ab le man agem e n t m ea su re s t o d ras t ic ally re d u c e n u t rient lea c h i n g. Aq u a t ic p lan t s ma in ly man grove s w er e w ell d e velo p e d in si t es w i t h optim al w a t er a n d s oil c h a ract er ist ic s. There w as a c lea r li n k age b etwe en t h e ecosys t em an d h u ma n w ell b ei n g i n t er ms o f ecosys t em servic es. M ajo ri t y of t h e c om mu n i t y mem b er s ar ou n d t h e w etlan d d e p e n d on t h e w et la n d, esp ecially t h e w a t er re s ou rce as t h eir livelih oo d. Th e y a re en gage d ei t h er in agricu l t u r e or f ish in g ac t ivit ies. T h e ove r d ep en d en c e o n t h e w etlan d s re s ou rces a n d eco sy st em w it h in t h e Ramsar sit es c o n st i t u t e a maj or c h alle n ge f or d isc u ssion a n d f u rt h er st u d ie s. It is re c om me n d ed t h at t h e h ydr ol ogical sy st em w it h i n t h e si t e sh o u ld b e r e st or ed b y o p en in g the b lock ed w a t er w ays t o e n h a n c e t id al exc h an ge an d imp ro ve a q u a t ic lif e a t t h e An yan u i est u ary. It is also imp er at ive t o e f f ect ively e n gage an d c oll ab or a t e w it h t h e c om mu n it ies t o p r om ote man grove re st o rat i on a n d c om mu n al c o n serva t io n act ivi t ies. Fu rt h er mo r e, lo n g - t er m mo n it or in g of w a t er an d soil in d ic at or an om alie s an d n u t rie n t levels is n ecessary t o f acilit a t e re st or a t io n o f t he d is t u r b ed h a b it a t alo n g t h e An yan u i c re ek an d Tu n u ro ad. Wet lan d ecosys t ems ar e c on si d er e d t h e mo st ecolo gic ally d iverse; t h e n a t u r e o f t h es e ecosys t ems is also very d yna mic. Th er e f or e, t h e a ssessmen t o f w et la n d ec osyste m h ea l t h is a very c om p lic at ed t ask, b ecau se t h e i mp act s of t h e c o n t r olli n g f act or s vary sp a t ially a n d t emporally. T h o u gh seas on al c h an g es w er e evid e n t d u rin g t h e sam p lin g p er iod, t h e w et la n d s st ill r ema in p ro d u c t ive ecosys t ems. They are vit al ecosys t ems t h a t p r ovid e n u mer o u s ecolo gic al, h y d ro logical an d socio - eco n om ic b e n ef it s an d p lay c ru c ial ro l es in b io d iversi t y, w at er f il t ra t ion an d c ar b on se q u es t ra t ion. Th e w at er a n d soil t h a t c h aract er iz e d t h e w e t lan d ecosys t em p lays a f u n d a men t al ro l e i n s h ap i n g t h eir s t ru c t u re a n d f u n c t i on. T h e level of t h e valu es of c h emical a n d p h ys ic al w a t er a n d s oil in d ic a t or s sam p le d w er e op t imal f or d evelo p ment of f lo ra a n d f au n a act ivi t ies. Th er e w er e h o w ever, exc ep t io n al isola t e d c ases in w h ic h levels of val u es r e c or d ed w e re c ri t ic ally lo w or h ig h. Th e w a t er sy st em h as a w ay o f b u f f er i n g, b u t t h e f ragil e soil n ee d s p r u d en t an d su s t ain ab le man agem e n t m ea su re s t o d ras t ic ally re d u c e n u t rient lea c h i n g. Aq u a t ic p lan t s ma in ly man grove s w er e w ell d e velo p e d in si t es w i t h optim al w a t er a n d s oil c h a ract er ist ic s. There w as a c lea r li n k age b etwe en t h e ecosys t em an d h u ma n w ell b ei n g i n t er ms o f ecosys t em servic es. M ajo ri t y of t h e c om mu n i t y mem b er s ar ou n d t h e w etlan d d e p e n d on t h e w et la n d, esp ecially t h e w a t er re s ou rce as t h eir livelih oo d. Th e y a re en gage d ei t h er in agricu l t u r e or f ish in g ac t ivit ies. T h e ove r d ep en d en c e o n t h e w etlan d s re s ou rces a n d eco sy st em w it h in t h e Ramsar sit es c o n st i t u t e a maj or c h alle n ge f or d isc u ssion a n d f u rt h er st u d ie s. It is re c om me n d ed t h at t h e h ydr ol ogical sy st em w it h i n t h e si t e sh o u ld b e r e st or ed b y o p en in g the b lock ed w a t er w ays t o e n h a n c e t id al exc h an ge an d imp ro ve a q u a t ic lif e a t t h e An yan u i est u ary. It is also imp er at ive t o e f f ect ively e n gage an d c oll ab or a t e w it h t h e c om mu n it ies t o p r om ote man grove re st o rat i on a n d c om mu n al c o n serva t io n act ivi t ies. Fu rt h er mo r e, lo n g - t er m mo n it or in g of w a t er an d soil in d ic at or an om alie s an d n u t rie n t levels is n ecessary t o f acilit a t e re st or a t io n o f t he d is t u r b ed h a b it a t alo n g t h e An yan u i c re ek an d Tu n u ro ad. B ain, M. B., Sin gk ran, N., M ills, K. E. (200 8). In t eg rat ed Ecosys t em Assess men t: Lak e On t ari o Wat er M an agem e n t. PLo S ON E 3(11 ): e3 80 6. d oi: 10.13 7 1/ j ou r n al. p o n e.0 00 38 06. C om egn a, A. (20 24 ). W etlan d H ydr olo gy Exp lo rin g t h e Role of Wa t er in We t lan d Ecosys t ems. B rief Rep or t V ol u me 15: 02. 1 - 2. D e Gro o t, R. S., St u i p, M. A. M., Fin lays on, C. M. a n d D avid son, N. (200 6). V a lu in g w et la n d s: g u id a n c e f o r v a lu in g t h e b enef it s d eriv ed f ro m w et la n d ec o sy st em s erv ic e s, Ramsar Te c h n ic al Rep o rt N o. 3 / C B D Te c h n ic al Se ries N o. 2 7. Ramsar C on ve n t io n Se c re t aria t, Glan d, Sw i t z er lan d & Se c re t aria t of t h e C o n ven t io n on B iolo gic al D ive rsit y, M ontr ea l, C an ad a. ISB N 2 - 9 40 0 73 - 31 - 7. Ked d y, P. A. (200 0). Wet lan d Ecolo gy Pr i n c ip les an d C on serva t io n; C amb rid ge U n iversit y Pr ess: C amb rid ge, UK. 12 4 238. Tu f f u o r, K., (199 9). M a n agem en t Pla n, K et a Lag oo n C om p l ex Ramsar sit e, C ost al Wet l an d s M an agem en t Pla n. P re p are d f or Gh a n a Wil d lif e D ivis ion, Fo re s t ry Comm i ssion. 2 - 5. Ku mar, R., M c In n es, R. J., Ever ard, M., Gar d n er, R. C., Ku lin d w a, K. A. A., Wi t t mer, H. an d In f an t e M at a, D. (201 7). In t egr a t in g mu lt ip le w et la n d v a lu es in t o d ec ision - ma k in g. Ramsar Po lic y B rief N o. 2. Glan d, Sw i t z er l an d: Ramsar C o n ven t ion S ecre t aria t. M en sa h, M. A. ( 19 7 9 ). T h e h ydr olo gy a n d f ish er ies of la goo n s an d es t u a ri es of Gh an a. M arin e Fish er y Resear c h Rep or t N o. 7. Fish er y Res ea rch In s t it u t e. Gh an a. M illenniu m Ecosys t em A ssessmen t (200 5). Ecosy st ems a n d h u ma n w ell - b ein g: b iod ive rsit y sy n t h esis. M ille n n i u m Ecosys t em Assessme n t, Wor ld Resou rces In st i t u t e. Wash in gt on, D. C. (U SA). Of or i - D an so n, P. K., (199 9). M an agem en t Pla n, So n gor Ramsar S it e, C ost al Wet l an d s M an agem en t Pla n. P re p are d f or Gh a n a Wil d lif e D ivis ion, Fo re s t ry Comm i ssion. 3 - 5. Russi D., t en B ri n k P., Fa rme r A., B ad u ra T., C oa t es D., F rst er J., Ku m ar R., an d D avid so n N. (201 3). The Ec o n o mics o f Ec o sy s t ems a n d B io d iv ersit y f o r Wa t er a n d Wet la n d s. IEEP, Lon d o n a n d B ru ssels; Ra msar Se c re t aria t, Glan d. Un it e d N at io n E n viro n men t al Pr ogr am (U N E P, 20 15 ) In t egra t e d Wat er Res ou rces M an agem en t H u b, Ecosy st em Assessme n t. B ain, M. B., Sin gk ran, N., M ills, K. E. (200 8). In t eg rat ed Ecosys t em Assess men t: Lak e On t ari o Wat er M an agem e n t. PLo S ON E 3(11 ): e3 80 6. d oi: 10.13 7 1/ j ou r n al. p o n e.0 00 38 06. C om egn a, A. (20 24 ). W etlan d H ydr olo gy Exp lo rin g t h e Role of Wa t er in We t lan d Ecosys t ems. B rief Rep or t V ol u me 15: 02. 1 - 2. D e Gro o t, R. S., St u i p, M. A. M., Fin lays on, C. M. a n d D avid son, N. (200 6). V a lu in g w et la n d s: g u id a n c e f o r v a lu in g t h e b enef it s d eriv ed f ro m w et la n d ec o sy st em s erv ic e s, Ramsar Te c h n ic al Rep o rt N o. 3 / C B D Te c h n ic al Se ries N o. 2 7. Ramsar C on ve n t io n Se c re t aria t, Glan d, Sw i t z er lan d & Se c re t aria t of t h e C o n ven t io n on B iolo gic al D ive rsit y, M ontr ea l, C an ad a. ISB N 2 - 9 40 0 73 - 31 - 7. Ked d y, P. A. (200 0). Wet lan d Ecolo gy Pr i n c ip les an d C on serva t io n; C amb rid ge U n iversit y Pr ess: C amb rid ge, UK. 12 4 238. Tu f f u o r, K., (199 9). M a n agem en t Pla n, K et a Lag oo n C om p l ex Ramsar sit e, C ost al Wet l an d s M an agem en t Pla n. P re p are d f or Gh a n a Wil d lif e D ivis ion, Fo re s t ry Comm i ssion. 2 - 5. Ku mar, R., M c In n es, R. J., Ever ard, M., Gar d n er, R. C., Ku lin d w a, K. A. A., Wi t t mer, H. an d In f an t e M at a, D. (201 7). In t egr a t in g mu lt ip le w et la n d v a lu es in t o d ec ision - ma k in g. Ramsar Po lic y B rief N o. 2. Glan d, Sw i t z er l an d: Ramsar C o n ven t ion S ecre t aria t. M en sa h, M. A. ( 19 7 9 ). T h e h ydr olo gy a n d f ish er ies of la goo n s an d es t u a ri es of Gh an a. M arin e Fish er y Resear c h Rep or t N o. 7. Fish er y Res ea rch In s t it u t e. Gh an a. M illenniu m Ecosys t em A ssessmen t (200 5). Ecosy st ems a n d h u ma n w ell - b ein g: b iod ive rsit y sy n t h esis. M ille n n i u m Ecosys t em Assessme n t, Wor ld Resou rces In st i t u t e. Wash in gt on, D. C. (U SA). Of or i - D an so n, P. K., (199 9). M an agem en t Pla n, So n gor Ramsar S it e, C ost al Wet l an d s M an agem en t Pla n. P re p are d f or Gh a n a Wil d lif e D ivis ion, Fo re s t ry Comm i ssion. 3 - 5. Russi D., t en B ri n k P., Fa rme r A., B ad u ra T., C oa t es D., F rst er J., Ku m ar R., an d D avid so n N. (201 3). The Ec o n o mics o f Ec o sy s t ems a n d B io d iv ersit y f o r Wa t er a n d Wet la n d s. IEEP, Lon d o n a n d B ru ssels; Ra msar Se c re t aria t, Glan d. Un it e d N at io n E n viro n men t al Pr ogr am (U N E P, 20 15 ) In t egra t e d Wat er Res ou rces M an agem en t H u b, Ecosy st em Assessme n t. as i ii http://en. wikipedia. org/wiki/MIT_License the Layout Logic Software as i ii http://en. wikipedia. org/wiki/MIT_License the ÒLayout Logic SoftwareÓ as i ii http://en. wikipedia. org/wiki/MIT_License the Layout Logic Software as i ii http://en. wikipedia. org/wiki/MIT_License the ÒLayout Logic SoftwareÓ
+50
+
+0
+
+Cond (µs) TDS (ppm) SAL (ppt) RES (KΩ)
+pH
+DO (%)
+DO (mg/l) Temp (⁰C) ORP (mV)
+
+Parameters measured
+
+Azizanya-Kewunor bridge
+Ayigbo bridge
+
+Figure 5: Temporal changes in physical and chemical water parameters at Azizanya-Ayigbo 
+sampling stations.
+
+2500
+
+2000
+
+1500
+
+1000
+
+Parameters value
+
+500
+
+0
+
+Cond (µs) TDS (ppm) SAL (ppt)
+RES (KΩ)
+pH
+DO (%)
+DO (mg/l) Temp (⁰C) ORP (mV)
+
+Parameters measured 
+Patukope creek
+Pute walkway lagoon intake
+Lagoon underground seepage
+
+Figure 6: Temporal changes in physical and chemical water parameters at Patukope – Pute sampling 
+stations.
+
+13
+
+
+<!-- Page 20 -->
+
+2500
+
+2000
+
+1500
+
+1000
+
+Parameters value
+
+500
+
+0
+
+Cond (µs) TDS (ppm) SAL (ppt)
+RES (KΩ)
+pH
+DO (%)
+DO (mg/l) Temp (⁰C) ORP (mV)
+
+Parameters measured
+
+Furuenya creek, bridge
+Big Ada creek, bridge
+
+Figure 7: Temporal changes in physical and chemical water parameters at Futue – Luhue creeks.
+
+2500
+
+2000
+
+1500
+
+1000
+
+Parameters value
+
+500
+
+0
+
+Cond (µs) TDS (ppm) SAL (ppt)
+RES (KΩ)
+pH
+DO (%)
+DO (mg/l) Temp (⁰C) ORP (mV)
+
+Parameters measured
+
+Wasakusewayo, Restoration site
+Togbloku lagoon  1
+Togbloku lagoon 2
+
+Figure 8: Temporal changes in physical and chemical water parameters at Wasakuse – Togbloku 
+sampling stations.
+
+14
+
+
+<!-- Page 21 -->
+
+1400
+
+1200
+
+1000
+
+800
+
+600
+
+Parameters value
+
+400
+
+200
+
+0
+
+Cond (µs) TDS (ppm)
+SAL (ppt)
+RES (KΩ)
+pH
+DO (%)
+DO (mg/l) Temp (⁰C) ORP (mV)
+
+Parameters measured
+
+Figure 9: Temporal changes in physical and chemical water parameters at Obane creek.
+
+3.4 
+Soil chemical and biological soil indicators
+
+Soil health was assessed using various chemical and biological indicators. This was to ascertain 
+its functionality to sustain diverse ecosystems for biodiversity, plant growth, nutrient retention 
+and water regulation. The key indicators were nitrate, phosphate, potassium, soil pH, 
+moisture, humus, and temperature.
+
+3.4.1 Keta
+
+The mean values of soil moisture and humus gathered were between 9.1 – 33% and 14.6 – 
+26.2% respectively. The level of other indicators varied within the sampling area. However, 
+moisture and humus levels were comparatively uniform within the sampling site. Obviously, 
+the moisture levels recorded were higher in the sampling stations closer to water bodies such 
+as Aborlorvi, 25.4%, Afiadenyigba bridge, 26.4%, Genui, 38.7% and Galotse, 40.4%. The 
+moisture levels were probably also influenced by the rainfall during the sampling period. 
+Inversely, lower moisture values were recorded in sampling stations located upland or further 
+away from water bodies.
+
+It was observed that the mean humus value obtained, 14.6 – 26.2% was related to the 
+presence of aquatic flora, litter fall and decomposed organic matter, especially within the 
+mangrove stands. The values recorded were high at Tunu, 44.3%, Galotse, 40.6% and Agortoe, 
+37.5%, where dead mangroves, leaf falls and decomposed matter were observed. pH values 
+recorded were at levels tolerable by most plants within the wetlands. The values recorded 
+ranged between 5.55 and 7.0.
+
+The level of potassium (K) recorded was high (56.25mg/kg) within the sampling area. 
+However, the values recorded for nutrients varied within moist and dry sites. Potassium (K) is 
+an essential element for crop growth, playing a key role in photosynthesis, protein synthesis, 
+and many other essential functions in the plant. Soils frequently contain more than 20,000
+
+15
+
+
+<!-- Page 22 -->
+
+ppm (parts per million) of potassium (K), but only a fraction of that is available for crop uptake. 
+Soil factors that might impact K uptake include moisture, temperature and aeration. Nitrates, 
+phosphates and potassium values recorded were moderately high in Agbledome, Agortoe, 
+Agbastivi and Galotse. These were typically moist sites of the sampling area. Phosphate values 
+recorded ranged between 1 and 32 mg/kg in the upland, whiles levels between 52 mg/kg and 
+103 mg/kg occurred in the moist areas. Adequate phosphate levels promote fruit, flower, and 
+seed production, increase crop yields, promote root growth and hardiness of plants and 
+hasten crop maturity.
+
+Mean soil pH values obtained within the sampling site was between 6.2 and 7.0. Soil pH of 6 
+to 7.5 is ideal for the availability of phosphate for plant use. Values of less than 5.5 and 7.5 to 
+8.5 limit the availability of phosphate to plants. The levels of pH recorded within the site were 
+within these ranges. Nitrate levels recorded did not vary within the upland sites, the values 
+recorded ranged between 1mg/kg and 23mg/kg. The values obtained in the moist sites were 
+between 37mg/kg and 73mg/kg.
+
+The primary function of Nitrate (NO3-) is to serve as a source of nitrogen for the nutrition and 
+growth of plants and soil microorganisms. Nitrate is usually deficient in acid soils; the 
+optimum pH is between 6 and 8. Potassium (K) levels recorded were low to moderately high 
+in uplands with values between 2 mg/kg and 65 mg/kg and the highest values between 78 
+and 201 mg/kg were recorded in the moist areas.
+
+The mean potassium value recorded within the sampling site was between 42 and 117 mg/kg. 
+Potassium (K) is an essential element that supports plant growth, playing a key role in 
+photosynthesis, protein synthesis, and many other essential functions in the plant. Soils 
+frequently contain more than 20,000 ppm (parts per million) of K, but only a fraction of that 
+is available for crop uptake. Soil factors that might impact K uptake include moisture, 
+temperature and aeration.
+
+140
+
+120
+
+100
+
+80
+
+60
+
+Parameter values
+
+40
+
+20
+
+0
+
+N mg/kg
+P mg/kg
+K mg/kg
+Moisture  (%)
+pH
+Temp (°C)
+Humus (%)
+
+Soil parameters
+
+Dead mangroves site
+Tunu road
+Agbledorme 1
+Agbledorme 2
+Agbledorme 3
+Dzita
+
+Figure 10: Chemical and biological soil parameters at Anyanui – Dzita sampling stations.
+
+16
+
+
+<!-- Page 23 -->
+
+Genui Road
+
+Galotse 3
+
+Galotse 2
+
+Galotse 1
+
+Agbastivi
+
+site sampled
+
+Agortoe 1
+
+Salo mangrove
+
+market
+
+Salo road
+
+Saviatula bridge
+
+0
+50
+100
+150
+200
+250
+
+parameter values
+
+Humus (%)
+Temp (°C)
+pH
+Moisture (%)
+K mg/kg
+P mg/kg
+N mg/kg
+
+Figure 11: Chemical and biological soil parameters at Salo – Galotse sampling stations.
+
+180
+
+160
+
+140
+
+120
+
+100
+
+80
+
+60
+
+Parameter vakue
+
+40
+
+20
+
+0
+
+N mg/kg
+P mg/kg
+K mg/kg
+Moisture (%)
+pH
+Temp (°C)
+Humus (%)
+
+Soil parameter
+
+Upland fishing area
+further upland
+Proposed restoration site 1
+Proposed restoration site 2
+
+Figure 12: Chemical and biological soil parameters at Ablorlorvi sampling stations.
+
+17
+
+
+<!-- Page 24 -->
+
+45
+
+40
+
+35
+
+30
+
+25
+
+20
+
+15
+
+Parameter values
+
+10
+
+5
+
+0
+
+N mg/kg
+P mg/kg
+K mg/kg
+Moisture (%)
+pH
+Temp (°C)
+Humus (%)
+
+Soil parameters
+
+Figure 13: Chemical and biological soil parameters at Afiadenyigba sampling stations.
+
+Figure 14: Testing water quality in the creek of 
+Salo.
+
+Figure 15: Testing water with change agents at 
+Agblodorve
+
+3.4.2 Songor, Ada
+
+The mean moisture values recorded within the sampling site were between 21.5 and 29.45%. 
+The levels recorded were high in Obane 25.1%, Wasakuse, 25.7%, Pute lagoon, 28.3%, and 
+30.6% at Pute lagoon intake. Probably an earlier rainfall and moist environmental conditions 
+of the sampling site might have influenced the values obtained. Mean pH value obtained 
+across the sampling site was between 5.57 and 6.84. An exceptional value of 4.78 was 
+recorded at Pute lagoon.
+
+Mean humus values recorded were between 16.9 and 26.0%. The value was however low 
+(4.78%) at Pute lagoon intake. It was high at Obane restored mangrove site, 26%, but low at 
+Pute lagoon, 9.2%. Humus is rich in nutrients and has a high surface area, which helps retain
+
+18
+
+
+<!-- Page 25 -->
+
+moisture and improve soil structure. It is also essential for soil health as it provides a reservoir 
+of nutrients, particularly nitrogen and phosphorus, which are critical for plant development.
+
+Soil temperature recorded was high (38.4°C) at Pute walkway and low (34.2°C) at Obane 
+restored mangrove site. The variation in the temperature values obtained may be due to 
+weather conditions, soil moisture and humus content.
+
+The levels of the soil nutrient values recorded were high within the sampling site, except at 
+Pute lagoon. The mean nitrate (N) value obtained was between 48 mg/kg and 984 mg/kg. The 
+value was high at Wasakusengwa (984 mg/kg) but low at Pute lagoon with a value of 3mg/kg. 
+Phosphate value was high at Obane with value of 705 mg/kg but it was low (3 mg/kg) at Pute 
+lagoon. Potassium value recorded was high (1,280 mg/kg) at Obane but low at Pute lagoon, 7 
+mg/kg. The high levels of nutrient values at Obane may probably be due to cattle grazing 
+activities and the high levels of cow dung observed.
+
+160
+
+140
+
+120
+
+100
+
+80
+
+60
+
+40
+
+parameter values
+
+20
+
+0
+
+N mg/kg
+P mg/kg
+K mg/kg
+Moisture (%)
+pH
+Temp (°C)
+Humus (%)
+
+Soil parameters
+
+Pute walkway
+Pute  lagoon
+
+Figure 16: Chemical and biological soil parameters at Pute lagoon sampling stations.
+
+19
+
+
+<!-- Page 26 -->
+
+1200
+
+1000
+
+800
+
+600
+
+400
+
+Parameter values
+
+200
+
+0
+
+N mg/kg
+P mg/kg
+K mg/kg
+Moisture (%)
+pH
+Temp (°C)
+Humus (%)
+
+Soil parameters
+
+Wasakuse ngwa
+
+Figure 17: Chemical and biological soil parameters at Wasakuse-Troku sampling station.
+
+Obane
+
+Parameter values
+
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+1100
+1200
+1300
+1400
+
+N mg/kg
+P mg/kg
+K mg/kg
+Moisture (%)
+pH
+Temp (°C)
+Humus (%)
+
+Soil parameters
+
+Figure 18: Chemical and biological soil parameters at Obane sampling station.
+
+20
+
+
+<!-- Page 27 -->
+
+Figure 19: Testing soil at Patukope, Ada.
+
+Figure 20: Moist mangrove habitats, Ada.
+
+4.0 Conclusion
+
+Wetland ecosystems are considered the most ecologically diverse; the nature of these 
+ecosystems is also very dynamic. Therefore, the assessment of wetland ecosystem health is a 
+very complicated task, because the impacts of the controlling factors vary spatially and 
+temporally. Though seasonal changes were evident during the sampling period, the wetlands 
+still remain productive ecosystems. They are vital ecosystems that provide numerous 
+ecological, hydrological and socio-economic benefits and play crucial roles in biodiversity, 
+water filtration and carbon sequestration. The water and soil that characterized the wetland 
+ecosystem plays a fundamental role in shaping their structure and function. The level of the 
+values of chemical and physical water and soil indicators sampled were optimal for 
+development of flora and fauna activities. There were however, exceptional isolated cases in 
+which levels of values recorded were critically low or high.
+
+The water system has a way of buffering, but the fragile soil needs prudent and sustainable 
+management measures to drastically reduce nutrient leaching. Aquatic plants mainly 
+mangroves were well developed in sites with optimal water and soil characteristics. There 
+was a clear linkage between the ecosystem and human wellbeing in terms of ecosystem 
+services. Majority of the community members around the wetland depend on the wetland, 
+especially the water resource as their livelihood. They are engaged either in agriculture or 
+fishing activities. The over dependence on the wetlands’ resources and ecosystem within the 
+Ramsar sites constitute a major challenge for discussion and further studies.
+
+5.0 Recommendations
+
+It is recommended that the hydrological system within the site should be restored by opening 
+the blocked water ways to enhance tidal exchange and improve aquatic life at the Anyanui 
+estuary.
+
+It is also imperative to effectively engage and collaborate with the communities to promote 
+mangrove restoration and communal conservation activities.
+
+Furthermore, long-term monitoring of water and soil indicator anomalies and nutrient levels 
+is necessary to facilitate restoration of the disturbed habitat along the Anyanui creek and 
+Tunu road.
+
+21
+
+
+<!-- Page 28 -->
+
+6.0 References
+
+Allyson, O., Kallie, T., Hale. R., Sharley, D., Pettigrove, V. (2016). How is ecosystem health
+
+defined and measured? A critical review of freshwater and estuarine 
+studies.Ecological Indicators, Volume 69: 722-729.
+
+Bain, M. B., Singkran, N., Mills, K. E. (2008). Integrated Ecosystem Assessment: Lake Ontario
+
+Water Management. PLoS ONE 3(11): e3806. doi:10.1371/ journal.pone.0003806.
+
+Comegna, A. (2024). Wetland Hydrology Exploring the Role of Water in Wetland Ecosystems.
+
+Brief Report Volume 15:02. 1-2.
+
+De Groot, R.S., Stuip, M.A.M., Finlayson, C.M. and Davidson, N. (2006). Valuing wetlands:
+
+guidance for valuing the benefits derived from wetland ecosystem services, Ramsar 
+Technical Report No. 3/CBD Technical Series No. 27. Ramsar Convention Secretariat, 
+Gland, Switzerland & Secretariat of the Convention on Biological Diversity, Montreal, 
+Canada. ISBN 2-940073-31-7.
+
+Keddy, P.A. (2000). Wetland Ecology Principles and Conservation; Cambridge University
+
+Press: Cambridge, UK. 124–238.
+
+Tuffuor, K., (1999). Management Plan, Keta Lagoon Complex Ramsar site, Costal Wetlands
+
+Management Plan. Prepared for Ghana Wildlife Division, Forestry Commission. 2-5.
+
+Kumar, R., McInnes, R.J., Everard, M., Gardner, R.C., Kulindwa, K.A.A., Wittmer, H. and Infante
+
+Mata, D. (2017). Integrating multiple wetland values into decision-making. Ramsar 
+Policy Brief No. 2. Gland, Switzerland: Ramsar Convention Secretariat.
+
+Mensah, M.A. (1979). The hydrology and fisheries of lagoons and estuaries of Ghana.
+
+Marine Fishery Research Report No. 7. Fishery Research Institute. Ghana.
+
+Millennium Ecosystem Assessment (2005). Ecosystems and human well-being: biodiversity
+
+synthesis. Millennium Ecosystem Assessment, World Resources Institute. 
+Washington, D.C. (USA).
+
+Ofori-Danson, P. K., (1999). Management Plan, Songor Ramsar Site, Costal Wetlands
+
+Management Plan. Prepared for Ghana Wildlife Division, Forestry Commission. 3-5.
+
+Russi D., ten Brink P., Farmer A., Badura T., Coates D., Förster J., Kumar R., and Davidson N.
+
+(2013). The Economics of Ecosystems and Biodiversity for Water and Wetlands. IEEP, 
+London and Brussels; Ramsar Secretariat, Gland.
+
+United Nation Environmental Program (UNEP, 2015) Integrated Water Resources
+
+Management Hub, Ecosystem Assessment.
+
+Venkatesan. V., Rengabashyam, K., Pazhanivelan. S., Arasan. P. (2022). Review on Wetlands –
+
+Threats, Conservation, Strategies and Policies. Madras Agriculture Journal (Jan).
+
+Wildfowl and Wetlands Trust (WWT, 1921). https://www.wwt.org.uk/our-work/threats-to-
+
+wetlands#: Wetland Management (Ramsar Sites) Regulations (1999). Wildlife 
+Division, Forestry Commission.
+
+22
+
+
+<!-- Page 29 -->
+
+Appendix 1: Ecosystem Assessement – Physico-chemical water parameters.
+
+Name of Site ……………………………….  
+Date …………………………………               Name of recorder …………………………………
+
+Coordinates 
+Cond (ms) 
+TDS (ppm) SAL (ppt) RES (K Ω)
+
+pH 
+DO  % 
+DO mg/l 
+ORP (mV) 
+Temp (℃)
+
+23
+
+
+<!-- Page 30 -->
+
+Appendix 2: Ecosystem Assessment – Soil chemical and biological indicators
+
+Name of Site ……………………………….  
+Date …………………………………               Name of recorder …………………………………
+
+Coordinates 
+N (mg/kg) 
+(P mg/kg) 
+K (mg/kg) 
+pH 
+Moisture (%) 
+Humus (%)  
+Temp (℃)
+
+24
