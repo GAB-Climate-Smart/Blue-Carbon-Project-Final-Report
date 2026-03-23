@@ -9,7 +9,7 @@ Turn evidence-based draft material into a readable report output for:
 - development partners
 
 This prompt can be used for:
-1. a final-report chapter polishing pass; or
+1. a final-report chapter polishing pass;
 2. a standalone National MRV Report;
 3. a standalone Drone Survey / EOSDA monitoring report; or
 4. a standalone Carbon Inventory Report.

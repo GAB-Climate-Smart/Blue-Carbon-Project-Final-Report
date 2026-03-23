@@ -104,7 +104,7 @@ For users who also need a separate Drone Survey report, the companion report sho
 Do not ask for the entire 100-page report in one task.
 Use bounded prompts:
 - one task per source extraction
-- one task per standalone source report authoring pass when a `.md` source report is still being finalized
+- one task to prepare or refine each required standalone `.md` source report before extraction begins
 - one task for matrix population
 - one task per chapter
 - one QA pass per chapter
