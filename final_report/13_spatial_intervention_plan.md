@@ -59,9 +59,7 @@ The master table is reported at the cluster level for the highest-priority Tier 
 | All sites — tenure unresolved parcels | Tier 5 | Cadastral and customary reconciliation | Short term (preparation), medium term (implementation) | Lands Commission | MLNR, traditional authorities, district assemblies |
 | Ada estuary | Comparison | Continuous monitoring polygon set | Continuous | EOSDA platform + CCA network | Wildlife Division (data recipient) |
 
-<!-- CARBON_PENDING:start id=CB-13.4 chapter=13 section=13.4 -->
-**[Carbon Inventory pending]** A "Carbon classification" column will be added to the master table once the Carbon Inventory Report is delivered, reporting the per-cluster carbon density band (high, medium, low) drawn from Carbon Inventory Report §7. The classification will be cross-checked against the Tier 1–5 priority ranking and will not change the table structure; it will sit as an additional column to the right of the priority tier.
-<!-- CARBON_PENDING:end -->
+The Carbon Inventory Report provides the basis for a carbon classification overlay on the master table. Both assessed sites fall in the "high" carbon density band: Songor at 638.64 MgC/ha total ecosystem carbon, and Keta at a minimum of 34.57 MgC/ha AGB (with total density expected to be comparable to Songor when belowground results are received). The carbon classification confirms rather than changes the priority ranking: the Tier 1 Keta clusters hold the largest absolute carbon stock at risk due to the combination of high density and large area, while the Tier 2 Songor clusters hold high per-hectare density in a much smaller area. All Tier 1 and Tier 2 clusters are classified as "high carbon" for intervention prioritisation purposes.
 
 ## 13.5 How to read the master table
 

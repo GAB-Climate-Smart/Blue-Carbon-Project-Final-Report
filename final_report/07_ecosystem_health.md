@@ -50,7 +50,7 @@ Two operational consequences follow. First, future Article 3.2 reporting can be 
 
 ## 7.7 Cluster-level condition summary
 
-The cluster-level summary table that the priority ranking in Chapter 12 will draw on is held in Annex B rather than reproduced here, in order to preserve the editorial rule that each fact lives in one place. The reader should know two things about it. First, it classifies each cluster on a four-band condition score (good, fair, degraded, severely degraded) derived from the composite of the parameters described above. Second, the condition score is one of the explicit criteria in the Chapter 12 priority ranking, alongside carbon stock weighting (CARBON_PENDING), socio-economic dependency, and tenure feasibility.
+The cluster-level summary table that the priority ranking in Chapter 12 will draw on is held in Annex B rather than reproduced here, in order to preserve the editorial rule that each fact lives in one place. The reader should know two things about it. First, it classifies each cluster on a four-band condition score (good, fair, degraded, severely degraded) derived from the composite of the parameters described above. Second, the condition score is one of the explicit criteria in the Chapter 12 priority ranking, alongside carbon stock weighting (now populated with measured densities from the Carbon Inventory Report), socio-economic dependency, and tenure feasibility.
 
 ## 7.8 What the ecological baseline does not yet tell us
 
@@ -58,4 +58,4 @@ The ecological baseline tells us how healthy the systems are at the cluster leve
 
 ## 7.9 Bridge to Chapter 8
 
-Chapter 8 takes the same cluster delineation and the same plot architecture used here and reports the carbon stock held within each cluster. It is the chapter at which the carbon team's input will be inserted in full. The structural skeleton is in place, and the CARBON_PENDING blocks are tagged for the carbon team to fill without disturbing the surrounding text in the chapters before or after.
+Chapter 8 takes the same cluster delineation and the same plot architecture used here and reports the carbon stock held within each cluster. The Carbon Inventory Report has been substantially integrated: Songor ecosystem carbon is fully reported (297,453 Mg total, 638.64 MgC/ha) and Keta above-ground biomass is documented (716,220 Mg, 34.57 MgC/ha). The remaining Keta belowground values will be inserted into the few remaining tagged placeholders upon receipt from the laboratory.

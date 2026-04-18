@@ -44,9 +44,13 @@ This chapter is the closing chapter of the Final Report. It carries the recommen
 
 ### 14.2.4 Carbon market readiness recommendations
 
-<!-- CARBON_PENDING:start id=CB-14.2 chapter=14 section=14.2.4 -->
-**[Carbon Inventory pending]** This subsection will report the VCS / VM0033 readiness summary and the gap-to-validation actions from Carbon Inventory Report §10. The expected structure is three short recommendations: confirm project boundary, complete additionality demonstration package, and engage a Verra-accredited validator for the Tier 1 Keta clusters. The recommendations will name the lead party, the timeframe, and the supporting evidence package required for each step.
-<!-- CARBON_PENDING:end -->
+The Carbon Inventory Report (Chapter 10) establishes that this national baseline provides four of the elements required for carbon market entry: quantified stocks, a documented deforestation baseline, a validated field methodology, and species-structural data for allometric equation selection. The gap to project-level validation is defined by the following recommendations.
+
+**Recommendation R1 (Carbon).** A project proponent (CREMA or conservation partner) at the Tier 1 Keta clusters should establish Permanent Sample Plots within the project boundary within 12 months, with permanently marked corners, individually tagged trees, and documented subplot coordinates. The PSPs become the community's long-term monitoring asset and the basis for the 3-5 year re-measurement cycle required by Verra VM0033. Lead party: project proponent with technical support from the Carbon Assessment Team. Supporting evidence: plot design protocol from this inventory, MRV Framework Chapter 9.
+
+**Recommendation R2 (Carbon).** The project proponent should commission full-depth SOC sampling (0-100 cm, with intervals at 0-15, 15-30, 30-50, 50-100 cm and bulk density at each interval) at the PSP locations within the project boundary. The 0-30 cm national baseline provides the conservative reference; the full-depth assessment is required for Verra verification and will substantially increase the documented carbon stock. Lead party: project proponent with accredited laboratory. Timeline: within 18 months.
+
+**Recommendation R3 (Carbon).** The additionality demonstration package should be assembled using the 2.15% annual deforestation rate, the species-specific vegetation structure data, and the documented fuelwood pressure from the Socio-Economic Baseline and Cookstove Interventions reports. This package, combined with the project-level PSP and SOC data, constitutes the core of a Verra VM0033 Project Description Document. A Verra-accredited validation and verification body should be engaged within 24 months. Lead party: MESTI (authorising party) with project proponent. Supporting evidence: Carbon Inventory Report Chapters 4-8, MRV Framework, Drone/EOSDA Report.
 
 **Recommendation 10.** Independent of the Verra crediting pathway, Ghana should pursue an Article 6.2 cooperative arrangement for the protection-based mitigation outcomes at the Tier 1 Keta clusters, on the basis that the MRV architecture in Chapter 11 already satisfies the rigour requirements that an Article 6 buyer or supervisory body will apply. MESTI is the relevant authorising party.
 
@@ -60,7 +64,7 @@ This chapter is the closing chapter of the Final Report. It carries the recommen
 
 Three next steps close the assignment.
 
-The first next step is the **integration of the Carbon Inventory Report** into this Final Report at the named CARBON_PENDING insertion points, on the schedule named in Chapter 1 §1.5 and tracked in `notes/carbon_insertion_register.md`. The Final Report's structure is designed so that this integration can be completed without rewriting the surrounding prose.
+The first next step is the **completion of the Keta belowground carbon data** (fine root, coarse root, and soil organic carbon) currently in laboratory processing. The Carbon Inventory Report has been integrated into this Final Report with Songor data complete and Keta AGB reported; the remaining Keta values will be inserted into the tagged placeholders in Chapter 8, Chapter 12, and the Annexes upon receipt. The Final Report structure ensures this is a single editorial pass.
 
 The second next step is the **formal handover of the standalone reports and the continuous monitoring system** from the assignment team to the Wildlife Division and the EOSDA platform host. The handover protocol is a Phase 7 closing deliverable and is documented in Annex C.
 
@@ -74,6 +78,6 @@ This Final Report closes that gap. It quantifies the spatial extent, characteris
 
 The decisions that flow from this evidence are now the responsibility of the institutions named in Chapter 13 and the recommendations in §14.2. The assignment has produced the evidence base. The next phase is the management response.
 
-The Carbon Inventory Report, when delivered, will fill the remaining quantitative gaps in Chapter 8 and the carbon-weighted overlays in Chapters 12, 13, and 14. The Final Report has been structured so that integration is a single editorial pass against the CARBON_PENDING insertion register, not a rewrite. The intent is that the day after the carbon team delivers, this Final Report becomes the complete Phase 7 deliverable that the Terms of Reference require.
+The Carbon Inventory Report has been substantially integrated, with Songor ecosystem carbon fully reported (297,453 Mg total, 638.64 MgC/ha) and Keta above-ground biomass documented (716,220 Mg, 34.57 MgC/ha). The Keta belowground values, currently in laboratory processing, are the final quantitative gap. When received, they will be inserted into the remaining tagged placeholders in Chapter 8 and the carbon-weighted overlays in Chapter 12. The Final Report structure ensures this is a single editorial pass, not a rewrite.
 
 That is the assignment closed.

@@ -21,7 +21,7 @@ last_edited: 2026-04-07
 
 This annex carries the cluster-level data tables that support the priority ranking, the cost-benefit analysis, and the master spatial intervention table in Part IV. The full cluster register includes, for each cluster: name, coordinates, area, ecological condition score, dominant tenure category, CREMA readiness band, dominant pressures, recommended intervention type, lead implementation partner, and cross-references to the standalone reports that contain the underlying field data.
 
-The data tables themselves are populated from the four standalone reports (Ecosystem Health, Drone Survey and Continuous Monitoring, National MRV Framework, and the pending Carbon Inventory Report) and from the CREMA Readiness Assessment. Where a Carbon Inventory value is needed, the cell is held against a CARBON_PENDING marker.
+The data tables themselves are populated from the four standalone reports (Ecosystem Health, Drone Survey and Continuous Monitoring, National MRV Framework, and the Carbon Inventory Report) and from the CREMA Readiness Assessment. Carbon density values from the Carbon Inventory Report have been integrated: Songor at 638.64 MgC/ha total ecosystem carbon and Keta at 34.57 MgC/ha AGB. The remaining Keta belowground values will be inserted upon receipt from the laboratory.
 
 *[Editorial note: the cluster-level tables themselves are large and are being assembled into this annex as a separate working file. The narrative chapters in Parts II–IV reference this annex for the per-cluster numbers; the annex assembly is the next editorial pass after the main chapter draft is reviewed.]*
 
@@ -32,11 +32,11 @@ The data tables themselves are populated from the four standalone reports (Ecosy
 | 1 | Inception Report (Rev 2) | Submitted, accepted | MLNR / MESTI |
 | 2 | Literature review, CREMA Readiness Assessment, Cookstove Interventions Baseline, Governance and Institutional Landscape Report | Submitted, accepted | MLNR / MESTI |
 | 3 | Geospatial Baseline Report | Submitted, accepted | MLNR / MESTI / Wildlife Division |
-| 4 | Carbon Inventory and Stock Assessment Report | In final preparation by carbon team (delivery expected within 2 weeks of 2026-04-07) | MLNR / MESTI / Wildlife Division |
+| 4 | Carbon Inventory and Stock Assessment Report | Substantially integrated (Songor complete; Keta AGB complete; Keta belowground in laboratory processing) | MLNR / MESTI / Wildlife Division |
 | 5 | Ecosystem Health Standalone Report (FINAL) | Finalised April 2026 | MLNR / MESTI / Wildlife Division |
 | 6 | Drone Survey and Continuous Monitoring Report (FINAL) and operational EOSDA polygons | Finalised April 2026 | Wildlife Division (operational host) |
 | 6 | National MRV Framework Standalone Report (FINAL) | Finalised April 2026 | MESTI (national MRV host) |
-| 7 | This Final Report | DRAFT v1 (carbon insertion pending) | MLNR / MESTI |
+| 7 | This Final Report | DRAFT v2 (Songor carbon integrated; Keta belowground pending) | MLNR / MESTI |
 
 ## Annex D. Source Register
 
@@ -50,13 +50,13 @@ The full source register lists each standalone report and supporting document dr
 - `source_reports/drone_survey_and_continuous_monitoring_report_FINAL_07042026.md`
 - `source_reports/governance_institutions_and_crema_readiness_report.md`
 - `source_reports/baseline_for_improved_cookstove_interventions_report.md`
-- `source_reports/carbon_inventory_structure_template.md` (drop-in template, pending Carbon Inventory Report)
+- `source_reports/carbon_inventory_structure_template.md` (structure template for Carbon Inventory Report)
 
 Each chapter's YAML front matter names the specific sources used for that chapter.
 
 ## Annex E. Carbon Insertion Register
 
-The full carbon insertion register is held at `notes/carbon_insertion_register.md` in the project repository. The register lists every CARBON_PENDING block in the Final Report with its unique ID (CB-XX), the chapter and section it sits in, what content goes there, and the source field needed from the Carbon Inventory Report. The drop-in template for the Carbon Inventory Report is held at `source_reports/carbon_inventory_structure_template.md`.
+The carbon insertion register is held at `notes/carbon_insertion_register.md` in the project repository. The register originally listed every CARBON_PENDING block in the Final Report with its unique ID (CB-XX), the chapter and section it sits in, what content goes there, and the source field needed from the Carbon Inventory Report. As of April 2026, all placeholders have been populated with available data (Songor complete; Keta AGB complete). The only remaining insertions are for Keta belowground carbon (fine root, coarse root, and soil organic carbon), which are tagged in Chapters 8 and 12 and will be filled in a single editorial pass when the laboratory results are received.
 
 ## Annex F. Acronyms and Abbreviations
 
