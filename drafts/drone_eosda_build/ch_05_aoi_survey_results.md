@@ -24,11 +24,16 @@ At 52 hectares, Aborlove Nolopi is the smallest of the four survey zones. The Ab
 
 The DJI Phantom 4 Multispectral survey of Aborlove Nolopi was conducted at 100 to 120 metres above ground level with 80 percent forward overlap and 75 percent side overlap, with a minimum of five Ground Control Points established within the AoI and measured to centimetre accuracy by RTK GPS. These parameters produce an orthomosaic at 5 to 10 centimetre GSD and a photogrammetric DSM/DTM at equivalent planimetric resolution with vertical accuracy in the range of 3 to 5 centimetres over flat terrain.
 
-**[AWAITING DRONE DELIVERABLE: Final processed orthomosaic for Aborlove Nolopi — GeoTIFF, GSD specification, acquisition date, mission log]**
+**Orthomosaic — DELIVERED (April 2026)**
+The Aborlove Nolopi orthomosaic has been received and is archived in the project repository at `annex/orthomosaics/ABORLOVE_NOLOPI_ORTHOMOSAIC.pdf` (ECW master: 66 MB; PDF printout: 123 MB). The coordinate reference system is WGS 84 UTM Zone 31N. Acquisition parameters, achieved GSD, and mission log are documented in the companion Technical Report of Survey (Keta Mangroves, April 2026). The orthomosaic boundary is co-registered with the Aborlove Protection Area NDMI boundary polygon archived in February 2026.
 
-**[AWAITING DRONE DELIVERABLE: DSM and DTM rasters for Aborlove Nolopi — elevation range, minimum/maximum ground elevation relative to mean sea level or local datum]**
+*Figure 5.1: Aborlove Nolopi Orthomosaic with Boundary (see `annex/orthomosaics/ABORLOVE_NOLOPI_ORTHOMOSAIC.pdf`)*
 
-**[AWAITING DRONE DELIVERABLE: NDVI, NDMI, and Red Edge Chlorophyll Index rasters for Aborlove Nolopi — index value ranges, spatial distribution summary, and comparison to keta_lagoon.tif Sentinel-2 classification raster]**
+**Topographic Data — NOT DELIVERED in this submission**
+DTM and DSM rasters for Aborlove Nolopi were not included in the April 2026 deliverable package. Topo data was delivered for Anyanui and Salo-Agortoe only (see Sections 5.5 and 5.4). A supplementary topo survey for Aborlove Nolopi should be requested from the survey team if hydrological feasibility assessment is required for this AoI.
+
+**Multispectral Index Rasters (NDVI, NDMI, Red Edge Chlorophyll Index) — PENDING PROCESSING**
+The raw multispectral reflectance archive from the MicaSense payload is held by the survey team. Derived index rasters (NDVI, NDMI, Red Edge Chlorophyll Index) require post-processing from the raw reflectance bands and have not yet been delivered as standalone outputs. These should be requested as a processing deliverable from the survey contractor before the EOSDA monitoring subscription for this AoI is calibrated.
 
 What the survey methodology and boundary evidence do establish with confidence is that Aborlove Nolopi encompasses a landscape where the boundary between recoverable and non-recoverable mangrove canopy is the central management question. The ecosystem health baseline recorded the Aborlove stations as protection-designated sites, with canopy present but under documented pressure. At 5 to 10 centimetre GSD, the orthomosaic will resolve individual canopy crowns, canopy gaps, and the presence of prop-root and pneumatophore structures that allow *Rhizophora racemosa* to be distinguished from *Avicennia germinans* on visual inspection — a distinction the satellite classification cannot make within this AoI.
 
@@ -54,11 +59,16 @@ The practical consequence of this tension — between the satellite classificati
 
 The survey coverage requirement for Agatsivi-Agortoe — 762 hectares of predominantly dense canopy — represents the most logistically demanding component of the four-AoI campaign. At the P4M's operational parameters of 100 to 120 metres AGL with 80 percent forward and 75 percent side overlap, survey coverage of this footprint requires multiple flight missions with dedicated pre-flight radiometric calibration at each session. The scale of this AoI also increases the importance of GCP distribution: with a survey footprint of this extent, a poorly distributed control network can introduce differential geometric distortion between the covered area's centre and its margins.
 
-**[AWAITING DRONE DELIVERABLE: Complete orthomosaic for Agatsivi-Agortoe — GeoTIFF, achieved GSD, number of flight missions, acquisition date range, mission log]**
+**Orthomosaic — DELIVERED (April 2026)**
+The Agatsivi-Agortoe orthomosaic has been received and is archived at `annex/orthomosaics/AGATSIVI_AGORTOE_ORTHOMOSAIC.pdf` (ECW master: 1.92 GB; PDF printout: 54 MB). The coordinate reference system is WGS 84 UTM Zone 31N. At 762 hectares, this is the largest and most data-intensive orthomosaic in the survey package; the 1.92 GB ECW file reflects the full-resolution coverage of the AoI at the survey GSD. Acquisition parameters, number of flight missions, and mission log are documented in the Technical Report of Survey (Keta Mangroves, April 2026).
 
-**[AWAITING DRONE DELIVERABLE: DSM and DTM rasters for Agatsivi-Agortoe — elevation range, creek channel geometry, tidal inundation modelling outputs]**
+*Figure 5.2: Agatsivi-Agortoe Stretch of Mangrove Orthomosaic with Boundary (see `annex/orthomosaics/AGATSIVI_AGORTOE_ORTHOMOSAIC.pdf`)*
 
-**[AWAITING DRONE DELIVERABLE: NDVI, NDMI, and Red Edge Chlorophyll Index rasters for Agatsivi-Agortoe — statistical distribution of index values, canopy condition class map, comparison against keta_lagoon.tif baseline]**
+**Topographic Data — NOT DELIVERED in this submission**
+DTM and DSM rasters for Agatsivi-Agortoe were not included in the April 2026 deliverable package. Given the size of this AoI and its role as the primary carbon stock zone within the monitoring architecture, topo data for Agatsivi-Agortoe should be prioritised as a supplementary request to the survey contractor.
+
+**Multispectral Index Rasters (NDVI, NDMI, Red Edge Chlorophyll Index) — PENDING PROCESSING**
+Derived index rasters for Agatsivi-Agortoe require post-processing from the raw MicaSense reflectance archive. These are critical for the species stratification mapping (distinguishing *Rhizophora racemosa* from *Avicennia germinans* across 762 hectares) and for the EOSDA monitoring calibration. They should be requested from the survey contractor as a priority processing deliverable.
 
 At 762 hectares, this AoI is large enough to exhibit significant internal ecological heterogeneity. **The management expectation is that the orthomosaic will reveal a condition gradient from core intact canopy in the interior to progressively degraded and gap-dominated canopy at the settlement-proximate margins.** The Red Edge Chlorophyll Index will provide the primary species discrimination layer across this gradient: *Avicennia germinans*, which tolerates higher salinity stress and appears more commonly in disturbed margins, exhibits measurably different Red Edge reflectance from the *Rhizophora racemosa* that dominates the healthier interior stands. Species-level mapping across 762 hectares at this resolution will provide the biomass stratification layer that the Carbon Inventory report requires to apply species-specific allometric equations to the AoI carbon stock estimate.
 
@@ -82,11 +92,22 @@ The Salo-Agortoe Stretch also hosts the project's first georeferenced Permanent 
 
 ### Drone Survey Outputs
 
-**[AWAITING DRONE DELIVERABLE: Orthomosaic for Salo-Agortoe Stretch — GeoTIFF, GSD, acquisition date, mission log; with specific subset showing Salo Permanent Sample Plot 1 location and canopy condition]**
+**Orthomosaic — DELIVERED (April 2026)**
+The Salo-Agortoe orthomosaic has been received and is archived at `annex/orthomosaics/SALO_AGORTOE_ORTHOMOSAIC.pdf` (ECW master: 1.83 GB; PDF printout: 59 MB). The coordinate reference system is WGS 84 UTM Zone 31N. Acquisition parameters and mission log are documented in the Technical Report of Survey (Keta Mangroves, April 2026). The Salo Permanent Sample Plot 1 boundary — delineated in March 2026 and archived as a GeoJSON dataset at `source_reports/` — is spatially registered within the orthomosaic footprint and should be overlaid on the orthomosaic during any canopy condition review.
 
-**[AWAITING DRONE DELIVERABLE: DSM and DTM rasters for Salo-Agortoe Stretch — creek channel geometry, tidal inundation envelope, surface elevation relative to tidal datum]**
+*Figure 5.3: Salo-Agortoe Stretch of Mangrove Orthomosaic with Boundary (see `annex/orthomosaics/SALO_AGORTOE_ORTHOMOSAIC.pdf`)*
 
-**[AWAITING DRONE DELIVERABLE: NDVI, NDMI, and Red Edge Chlorophyll Index rasters for Salo-Agortoe Stretch — index value ranges at Salo PSP 1 location, comparison with satellite NDVI at same location, statistical distribution across AoI]**
+**Topographic Data — DELIVERED (April 2026)**
+DTM and topographic map for Salo-Agortoe have been received:
+- **Spot heights:** 41,233 surveyed points archived at `annex/topo_data/SALO_AGORTOE_SPOT_HEIGHTS.csv` (WGS 84 UTM Zone 31N; tab-delimited: Easting, Northing, Elevation m ASL)
+- **Elevation range:** 0.010 m to 4.910 m above mean sea level, confirming the zone spans from near-intertidal mangrove stands at the lagoon margin to modestly elevated ground at the landward periphery
+- **DTM raster:** Archived at `annex/topo_data/SALO_AGORTOE_DTM.tif` (extracted from survey delivery; 152 MB GeoTIFF)
+- **Topographic map:** AutoCAD DWG format archived at `annex/topo_data/SALO_AGORTOE_TOPOGRAPHICAL_MAP.dwg` (8.8 MB)
+
+The elevation range of 0.01–4.91 m ASL is consistent with active tidal inundation across the lower-lying portions of the AoI — the hydrological precondition for sustained *Rhizophora* productivity and SOC accumulation. The upper elevation limit of approximately 4.9 m marks the transition to terrestrial vegetation at the landward edge. Creek channel geometry and tidal inundation modelling should be derived from the DTM raster by the GIS team.
+
+**Multispectral Index Rasters (NDVI, NDMI, Red Edge Chlorophyll Index) — PENDING PROCESSING**
+Derived index rasters for Salo-Agortoe require post-processing from the raw MicaSense reflectance archive. NDVI and NDMI values at the Salo PSP 1 location are needed to calibrate the EOSDA monitoring threshold for this AoI and to provide the spectral context for the PSP biomass measurements.
 
 The Salo Restoration Area NDMI boundary — also georeferenced in February 2026 — indicates that within the broader Salo-Agortoe Stretch, at least one discrete zone has been designated as a restoration target, meaning that conditions in that zone are currently insufficient for natural regeneration without intervention. **This designation, within an AoI that also hosts the project's benchmark PSP in some of the best-preserved canopy in the Keta system, illustrates the internal heterogeneity that only centimetre-resolution aerial observation can fully characterise.** A satellite pixel averaging a 10-metre area cannot distinguish the intact canopy of the PSP stand from the degraded restoration-target zone a few hundred metres away if both fall within the same or adjacent pixels and produce similar composite spectral values. The drone orthomosaic resolves this distinction at individual-stand scale.
 
@@ -112,11 +133,22 @@ Within the Sentinel-2 classification, the Anyanui sub-zone presents a landscape 
 
 The drone survey's single most operationally critical contribution at Anyanui Combine is the DTM. The acid sulphate pH reading at the road station implicates the Anyanui-Tunu road itself as a potential hydrological barrier: roads built across tidal floodplains routinely block natural drainage channels and interrupt tidal flushing, trapping water on the landward side and allowing sediment to dry and oxidise during the dry season. The DTM provides the evidence needed to test this hypothesis directly. It shows the elevation of the road surface relative to the surrounding terrain. It identifies whether drainage channels exist on both sides of the road and whether they are topographically continuous or whether the road creates a head difference that prevents tidal water from reaching the mangrove stands on its landward side. It maps the extent of the area that would be hydrologically reconnected if the road were equipped with adequate culverts or if a sediment berm were removed — the spatial output that a restoration engineer needs before committing to any hydrological intervention.
 
-**[AWAITING DRONE DELIVERABLE: Orthomosaic for Anyanui Combine — GeoTIFF, GSD, acquisition date, mission log; specific panels showing Anyanui-Tunu road alignment, surrounding drainage channels, and mangrove canopy condition in relation to road]**
+**Orthomosaic — DELIVERED (April 2026)**
+The Anyanui Combine orthomosaic has been received and is archived at `annex/orthomosaics/ANYANUI_COMBINE_ORTHOMOSAIC.pdf` (ECW master: 654 MB; PDF printout: 87 MB). The coordinate reference system is WGS 84 UTM Zone 31N. Acquisition parameters and mission log are documented in the Technical Report of Survey (Keta Mangroves, April 2026). The Anyanui-Tunu road alignment and surrounding drainage channel network are visible features within the orthomosaic footprint — the spatial relationship between road infrastructure and mangrove canopy condition should be assessed by visual interpretation against the canopy gap layer.
 
-**[AWAITING DRONE DELIVERABLE: DSM and DTM rasters for Anyanui Combine — elevation range, surface drainage network, identification of topographic barriers potentially impeding tidal flushing; cross-section profiles across Anyanui-Tunu road]**
+*Figure 5.4: Anyanui Combine System Orthomosaic with Boundary (see `annex/orthomosaics/ANYANUI_COMBINE_ORTHOMOSAIC.pdf`)*
 
-**[AWAITING DRONE DELIVERABLE: NDVI, NDMI, and Red Edge Chlorophyll Index rasters for Anyanui Combine — stress gradient from road margin outward; comparison of index values in acid-affected vs. non-acid-affected zones; T0 calibration reference for EOSDA monitoring]**
+**Topographic Data — DELIVERED (April 2026)**
+DTM and topographic map for Anyanui Combine have been received:
+- **Spot heights:** 14,526 surveyed points archived at `annex/topo_data/ANYANUI_SPOT_HEIGHTS.csv` (WGS 84 UTM Zone 31N; comma-delimited: Easting, Northing, Elevation m ASL)
+- **Elevation range:** 0.040 m to 2.670 m above mean sea level — a significantly compressed vertical range relative to Salo-Agortoe, confirming the near-flat, low-lying topography of this AoI
+- **DTM raster:** Archived at `annex/topo_data/ANYANUI_DTM.tif` (40.6 MB GeoTIFF, extracted from survey delivery)
+- **Topographic map:** AutoCAD DWG format archived at `annex/topo_data/ANYANUI_TOPOGRAPHICAL_MAP.dwg` (3.9 MB)
+
+The elevation ceiling of 2.67 m ASL at Anyanui Combine is notably lower than Salo-Agortoe's 4.91 m, consistent with the near-sea-level topographic context that makes this AoI vulnerable to tidal disruption. The compressed elevation range (2.63 m total relief across the AoI) means that small changes in drainage channel connectivity or sediment infilling — such as those caused by road construction — can have disproportionate hydrological effects across large areas. Cross-section profiles across the Anyanui-Tunu road should be extracted from the DTM raster to test the hydrological barrier hypothesis directly.
+
+**Multispectral Index Rasters (NDVI, NDMI, Red Edge Chlorophyll Index) — PENDING PROCESSING**
+Derived index rasters for Anyanui Combine require post-processing from the raw MicaSense reflectance archive. The NDMI stress gradient from the road margin outward — the primary spectral diagnostic for the acid sulphate disruption hypothesis — cannot be assessed until the NDMI raster is processed and delivered. This is the highest-priority outstanding processing deliverable for Anyanui Combine.
 
 **The Anyanui Combine topographic dataset, when available, will be the primary evidence base for a binary management decision: whether hydrological restoration at this AoI is technically feasible through low-intervention channel reconnection, or whether the severity of acid sulphate soil development and the depth of topographic disruption require more substantial engineering or preclude active restoration entirely within the project's crediting period.** This is not a decision that can responsibly be made without the DTM.
 
@@ -136,19 +168,29 @@ The four AoIs, viewed together, present a condition gradient that moves from the
 
 ### AoI Summary Table
 
-| AoI | Area (Ha) | Designated Type | Ecological Status | Primary Monitoring Priority | Key Pending Deliverable |
-|---|---|---|---|---|---|
-| Aborlove Nolopi | 52 | Protection | Mixed intact/degraded; recovery potential under protection | Canopy preservation; gap monitoring | Orthomosaic; NDMI raster |
-| Agatsivi-Agortoe | 762 | Mixed (central stock) | Largest intact stock; active fuelwood pressure at margins | Early-stage thinning detection; species stratification | Full multi-mission orthomosaic; species map |
-| Salo-Agortoe Stretch | 525 | Mixed protection/restoration (with PSP) | Highest-condition stands; one restoration-designated sub-zone | PSP canopy context; EOSDA calibration anchor | Orthomosaic; PSP-area canopy characterisation |
-| Anyanui Combine | 128 | Restoration potential | Active acid sulphate stress; hydrological disruption suspected | Hydrological diagnosis; stress monitoring | DTM; drainage network map; pH cross-reference |
-| **Total** | **1,467** | | | | |
+| AoI | Area (Ha) | Designated Type | Ecological Status | Orthomosaic | Topo Data | Multispectral Index Rasters |
+|---|---|---|---|---|---|---|
+| Aborlove Nolopi | 52 | Protection | Mixed intact/degraded; recovery potential under protection | **DELIVERED** (ECW + PDF) | Not delivered | Pending processing |
+| Agatsivi-Agortoe | 762 | Mixed (central stock) | Largest intact stock; active fuelwood pressure at margins | **DELIVERED** (ECW + PDF) | Not delivered | Pending processing |
+| Salo-Agortoe Stretch | 525 | Mixed protection/restoration (with PSP) | Highest-condition stands; one restoration-designated sub-zone | **DELIVERED** (ECW + PDF) | **DELIVERED** (DTM 0.01–4.91 m ASL; 41,233 pts; DWG map) | Pending processing |
+| Anyanui Combine | 128 | Restoration potential | Active acid sulphate stress; hydrological disruption suspected | **DELIVERED** (ECW + PDF) | **DELIVERED** (DTM 0.04–2.67 m ASL; 14,526 pts; DWG map) | Pending processing |
+| **Total** | **1,467** | | | **4 / 4 delivered** | **2 / 4 delivered** | **0 / 4 processed** |
 
 ### Canopy Cover and Satellite Classification Comparison
 
 Across the 1,467-hectare combined footprint, the 2024 Sentinel-2 Random Forest classification provides the satellite-derived mangrove cover baseline. Within each AoI, the drone orthomosaic will establish the sub-pixel-resolution correction to that baseline — identifying commission errors (satellite-classified mangrove that the orthomosaic reveals as non-mangrove), omission errors (sub-pixel mangrove fragments missed by the satellite), and canopy density gradients that the satellite cannot resolve.
 
-**[AWAITING DRONE DELIVERABLE: Validation comparison table — per-AoI satellite-classified mangrove area vs. drone-confirmed mangrove area, with commission and omission error estimates and net area adjustment]**
+**Table 5.1: Satellite-to-Drone Validation Status — Classified Mangrove Area vs. Drone-Confirmed Coverage**
+
+| AoI | AoI Boundary Area (Ha) | Sentinel-2 Classified Mangrove Area (Ha) | Drone-Confirmed Mangrove Area (Ha) | Commission Error Estimate | Omission Error Estimate | Net Area Adjustment |
+|---|---|---|---|---|---|---|
+| Aborlove Nolopi | 52 | *Sentinel-2 RF baseline — boundary-level classification* | *Pending: multispectral processing required* | *Pending* | *Pending* | *Pending* |
+| Agatsivi-Agortoe | 762 | *Sentinel-2 RF baseline — boundary-level classification* | *Pending: multispectral processing required* | *Pending* | *Pending* | *Pending* |
+| Salo-Agortoe Stretch | 525 | *Sentinel-2 RF baseline — boundary-level classification* | *Pending: multispectral processing required* | *Pending* | *Pending* | *Pending* |
+| Anyanui Combine | 128 | *Sentinel-2 RF baseline — boundary-level classification* | *Pending: multispectral processing required* | *Pending* | *Pending* | *Pending* |
+| **Total** | **1,467** | **To be quantified on index raster delivery** | **To be quantified on index raster delivery** | **—** | **—** | **—** |
+
+> **Status note:** The Sentinel-2 Random Forest classification provides a wall-to-wall canopy classification across the Keta Lagoon Complex; within each AoI boundary, classified mangrove area is defined at 10 m pixel resolution. Quantification of AoI-level satellite-classified mangrove area and its comparison against drone-confirmed canopy extent requires the delivery of processed NDVI, NDMI, and Red Edge Chlorophyll Index rasters from the MicaSense multispectral payload — currently held by the survey contractor (see AoI survey sections above). Commission and omission error estimates and net area adjustments will be calculated when multispectral index rasters are delivered and processed against the orthomosaic boundary for each AoI. This table will be updated prior to final report submission once that processing is complete.
 
 What the methodology and boundary evidence allow a management-oriented reader to anticipate is a systematic pattern of findings: the highest satellite-to-drone agreement is expected in the intact core stands of Salo-Agortoe and the dense portions of Agatsivi-Agortoe, where the canopy is large and contiguous enough for the satellite to classify correctly. The greatest discrepancies are expected in the transitional zones of Aborlove Nolopi and Anyanui Combine, where the fragmented, stress-affected canopy structure produces the mixed-pixel spectral signatures that confound the Random Forest classifier and where early-stage degradation — invisible to the satellite — is most likely to have reduced actual canopy cover below the satellite-classified area.
 
