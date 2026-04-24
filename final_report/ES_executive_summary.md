@@ -1,9 +1,9 @@
 ---
 chapter: ES
 title: Executive Summary
-status: DRAFT v1
-last_edited: 2026-04-07
-carbon_dependency: low
+status: FINAL — carbon fully integrated April 24 2026
+last_edited: 2026-04-24
+carbon_dependency: COMPLETE
 ---
 
 # Executive Summary
@@ -16,7 +16,7 @@ This Final Report consolidates the seven-phase *Assessment of Blue Carbon Ecosys
 
 The report establishes the integrated baseline for Ghana's three priority coastal Ramsar Sites (Keta Lagoon Complex, Songor Lagoon, Muni-Pomadze) and the Ada estuary as a comparison system. The Keta Lagoon Complex contains 20,717.95 hectares of mangrove cover, the largest contiguous blue carbon asset in the assignment scope. The full per-site, per-cluster numbers for spatial extent, ecological condition, socio-economic dependency, and tenure split are reported in Chapters 6, 7, 9, and 10 respectively, and the cluster-level register is in Annex B.
 
-The Carbon Inventory Report, drawing on the measurement of 3,757 individual trees across 11 sampling communities, establishes that the Songor Ramsar Site holds a total ecosystem carbon stock of 297,453 Mg (638.64 MgC/ha), of which soil organic carbon in the 0-30 cm horizon accounts for 93.6%. At the Keta Lagoon Complex, above-ground biomass carbon is estimated at 716,220 Mg (34.57 MgC/ha); belowground components including soil carbon are in laboratory processing and, if Keta's SOC density is comparable to Songor's, total ecosystem carbon at Keta could exceed 13 million Mg, one of the largest documented mangrove carbon stocks in West Africa. Combined above-ground biomass alone across both sites totals 730,281 Mg. Keta's documented deforestation rate of 2.15% per year, driven by *Rhizophora* harvesting for commercial fish smoking, translates to an estimated annual above-ground emission of 56,500 Mg CO2e, establishing the additionality context for the protection-based crediting pathway in Chapter 14.
+The Carbon Inventory Report (April 22 2026), drawing on the measurement of 3,757 individual trees across 11 sampling communities, establishes that the Songor Ramsar Site holds a total ecosystem carbon stock of 297,453 Mg (638.64 MgC/ha), of which soil organic carbon in the 0–30 cm horizon accounts for 93.6%. At the Keta Lagoon Complex, the completed inventory across all four carbon pools establishes a total ecosystem carbon stock of 17,026,633 Mg (821.83 MgC/ha including grasses): AGB 14.65 MgC/ha (303,518 Mg), fine root carbon 0.28 MgC/ha (5,801 Mg), coarse root carbon 5.40 MgC/ha (111,877 Mg), and soil organic carbon 801.50 MgC/ha (16,605,437 Mg) at 0–30 cm depth — one of the highest documented mangrove SOC densities in West Africa, independently validated against the Addo-Danso and Amissah (2024) South Tongu assessment. The combined total ecosystem carbon stock across both sites, excluding grass contributions, is 17,139,215 Mg. Keta's documented deforestation rate of 2.15% per year translates to an annual above-ground emission of approximately 23,900 tCO2e/year from biomass, and an annual SOC disturbance risk of approximately 1.3 million tCO2e/year — establishing the case for soil-carbon conservation as the primary crediting pathway in Chapter 14.
 
 ## What the report decides
 
@@ -32,4 +32,4 @@ The master spatial intervention table in Chapter 13 names the location, the prio
 
 ## What follows
 
-The Carbon Inventory Report has been integrated into Chapter 8 with Songor data complete and Keta above-ground biomass reported. The remaining gap is the Keta belowground carbon (fine root, coarse root, and soil organic carbon), which is currently in laboratory processing. When those results are received, they will be inserted into the tagged placeholders in Chapters 8, 12, and the Annexes. The Final Report structure ensures this is a single editorial pass, not a rewrite. Once the Keta belowground values are confirmed, this Final Report becomes the complete Phase 7 deliverable and the assignment closes.
+The Carbon Inventory Report has been fully integrated into Chapter 8 across all four carbon pools for both sites. This Final Report is the complete Phase 7 deliverable. The assignment closes with this document.

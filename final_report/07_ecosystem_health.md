@@ -58,4 +58,4 @@ The ecological baseline tells us how healthy the systems are at the cluster leve
 
 ## 7.9 Bridge to Chapter 8
 
-Chapter 8 takes the same cluster delineation and the same plot architecture used here and reports the carbon stock held within each cluster. The Carbon Inventory Report has been substantially integrated: Songor ecosystem carbon is fully reported (297,453 Mg total, 638.64 MgC/ha) and Keta above-ground biomass is documented (716,220 Mg, 34.57 MgC/ha). The remaining Keta belowground values will be inserted into the few remaining tagged placeholders upon receipt from the laboratory.
+Chapter 8 takes the same cluster delineation and the same plot architecture used here and reports the carbon stock held within each cluster. The Carbon Inventory is complete for both sites (April 22 2026): Songor total ecosystem 297,453 Mg (638.64 MgC/ha); Keta total ecosystem 17,026,633 Mg (821.83 MgC/ha) across all four carbon pools.

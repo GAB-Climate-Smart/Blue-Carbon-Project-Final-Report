@@ -64,9 +64,7 @@ The Carbon Inventory Report (Chapter 10) establishes that this national baseline
 
 Three next steps close the assignment.
 
-The first next step is the **completion of the Keta belowground carbon data** (fine root, coarse root, and soil organic carbon) currently in laboratory processing. The Carbon Inventory Report has been integrated into this Final Report with Songor data complete and Keta AGB reported; the remaining Keta values will be inserted into the tagged placeholders in Chapter 8, Chapter 12, and the Annexes upon receipt. The Final Report structure ensures this is a single editorial pass.
-
-The second next step is the **formal handover of the standalone reports and the continuous monitoring system** from the assignment team to the Wildlife Division and the EOSDA platform host. The handover protocol is a Phase 7 closing deliverable and is documented in Annex C.
+The first next step is the **formal handover of the standalone reports and the continuous monitoring system** from the assignment team to the Wildlife Division and the EOSDA platform host. The handover protocol is a Phase 7 closing deliverable and is documented in Annex C.
 
 The third next step is the **adoption decision** by MLNR and MESTI on the recommendations in §14.2 above. The recommendations are sequenced and costed in a way that enables a decision to be taken on each recommendation independently, but the integrated logic of the assignment is that the protection, restoration, monitoring, and carbon-finance recommendations reinforce one another and are most effective when taken together.
 
@@ -78,6 +76,6 @@ This Final Report closes that gap. It quantifies the spatial extent, characteris
 
 The decisions that flow from this evidence are now the responsibility of the institutions named in Chapter 13 and the recommendations in §14.2. The assignment has produced the evidence base. The next phase is the management response.
 
-The Carbon Inventory Report has been substantially integrated, with Songor ecosystem carbon fully reported (297,453 Mg total, 638.64 MgC/ha) and Keta above-ground biomass documented (716,220 Mg, 34.57 MgC/ha). The Keta belowground values, currently in laboratory processing, are the final quantitative gap. When received, they will be inserted into the remaining tagged placeholders in Chapter 8 and the carbon-weighted overlays in Chapter 12. The Final Report structure ensures this is a single editorial pass, not a rewrite.
+The Carbon Inventory Report (April 22 2026) has been fully integrated: Songor total ecosystem carbon 297,453 Mg (638.64 MgC/ha); Keta total ecosystem carbon 17,026,633 Mg (821.83 MgC/ha) across all four carbon pools. No quantitative gap remains. This Final Report is the complete Phase 7 deliverable.
 
 That is the assignment closed.

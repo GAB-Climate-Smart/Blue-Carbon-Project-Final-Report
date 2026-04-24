@@ -14,7 +14,7 @@ last_edited: 2026-04-07
 **Commissioning ministry:** Ministry of Environment, Science, Technology and Innovation (MESTI)
 **Technical oversight:** Ministry of Lands and Natural Resources (MLNR)
 **Date:** April 2026
-**Version:** DRAFT v2 (Songor carbon integrated; Keta belowground pending)
+**Version:** FINAL — all carbon pools complete (April 24 2026)
 
 ## Table of Contents
 
@@ -85,4 +85,4 @@ last_edited: 2026-04-07
 
 ## Editorial conventions
 
-This Final Report is written for decision-makers. The editorial conventions used throughout are: short sentences; named numbers and named sites rather than aggregates; explicit uncertainty where uncertainty exists; no em dash (commas, semicolons, colons, parentheses, and full stops are used instead); no repetition across chapters (each fact lives in one chapter and other chapters cross-reference); every quantitative claim cites the standalone report and section it is drawn from. The Carbon Inventory Report has been substantially integrated (April 2026): Songor data is complete, Keta AGB is reported, and the remaining Keta belowground values (currently in laboratory processing) will be inserted into the few remaining tagged placeholders upon receipt.
+This Final Report is written for decision-makers. The editorial conventions used throughout are: short sentences; named numbers and named sites rather than aggregates; explicit uncertainty where uncertainty exists; no em dash (commas, semicolons, colons, parentheses, and full stops are used instead); no repetition across chapters (each fact lives in one chapter and other chapters cross-reference); every quantitative claim cites the standalone report and section it is drawn from. The Carbon Inventory Report has been fully integrated (April 22 2026): both sites are complete across all four carbon pools (AGB, fine root, coarse root, SOC). No placeholders remain outstanding.
