@@ -23,7 +23,7 @@ This annex carries the cluster-level data tables that support the priority ranki
 
 The data tables themselves are populated from the four standalone reports (Ecosystem Health, Drone Survey and Continuous Monitoring, National MRV Framework, and the Carbon Inventory Report) and from the CREMA Readiness Assessment. Carbon density values from the Carbon Inventory Report (April 22 2026) have been fully integrated: Songor at 638.64 MgC/ha total ecosystem carbon; Keta at 821.83 MgC/ha total ecosystem carbon (all four pools complete).
 
-*[Editorial note: the cluster-level tables themselves are large and are being assembled into this annex as a separate working file. The narrative chapters in Parts II–IV reference this annex for the per-cluster numbers; the annex assembly is the next editorial pass after the main chapter draft is reviewed.]*
+The cluster-level tables are the next assembly task for this annex. The narrative chapters in Parts II–IV reference this annex for the per-cluster numbers; the table assembly draws directly from the standalone reports listed in Annex D.
 
 ## Annex C. Phase Delivery Register and Handover Protocol
 
